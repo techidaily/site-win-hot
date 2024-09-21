@@ -1,7 +1,7 @@
 ---
 title: "Extended Lifespan and Enhanced Security: Paying for Continued Microsoft Windows N 10 Maintenance"
-date: 2024-09-17 10:59:50
-updated: 2024-09-20 10:40:46
+date: 2024-09-16T22:44:12.440Z
+updated: 2024-09-21T02:10:53.420Z
 tags:
   - windows
 categories:
@@ -48,6 +48,13 @@ When done, press Enter.
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1521325/16446" target="_top" id="1521325">
+  <img src="//a.impactradius-go.com/display-ad/16446-1521325" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1521325/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Launch the icon
 
 Double-click the icon, and a window opens with all the available settings. The commands are organized by Control Panel applet, so you can browse through the various categories, including Backup and Restore, Devices and Printers, File History, Mouse, Programs and Features, Security and Maintenance, Troubleshooting, and User Accounts.
@@ -59,6 +66,13 @@ Screenshot by Lance Whitney/ZDNET
 Alternatively, you can search for a specific command or applet in the God Mode window. Just type the keyword or term in the Search field to view the related results.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151884/7443" target="_top" id="2151884">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151884" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151884/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6\. Double-click the command to launch it
 
@@ -76,6 +90,13 @@ At the window for New, choose the option for shortcut instead of folder. In the 
 When done, click Next.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915810/19272" target="_top" id="1915810">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915810" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915810/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 8\. Name the shortcut
 
@@ -119,11 +140,23 @@ Screenshot by Lance Whitney/ZDNET
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-ultimate-app-review-with-az-screenshotter/"><u>[New] 2024 Approved Ultimate App Review with AZ Screenshotter</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-six-super-simple-free-fb-downloader-tools/"><u>[New] In 2024, Six Super Simple Free FB Downloader Tools</u></a></li>
+<li><a href="https://article-files.techidaily.com/a-complete-guide-to-understanding-and-utilizing-slug-lines/"><u>A Complete Guide to Understanding and Utilizing Slug Lines</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/gratis-online-converter-de-audio-flac-para-wma-com-o-software-de-transformacao-de-audio-da-movavi/"><u>Gratis Online: Converter De Áudio FLAC Para WMA Com O Software De Transformação De Audio Da Movavi</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-samsung-galaxy-a54-5g-location-by-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Samsung Galaxy A54 5G Location by Number | Dr.fone</u></a></li>
+<li><a href="https://win-hot.techidaily.com/pcyoutube4k/"><u>PC向けにYouTubeから安全に4Kビデオダウンロードガイド</u></a></li>
+<li><a href="https://win-hot.techidaily.com/quick-and-easy-guide-transforming-mov-videos-into-avi-with-minimal-hitches/"><u>Quick and Easy Guide: Transforming MOV Videos Into AVI with Minimal Hitches</u></a></li>
+<li><a href="https://win-hot.techidaily.com/seamless-conversion-of-videos-and-dvds-into-avi-format-with-handbrake/"><u>Seamless Conversion of Videos & DVDs Into AVI Format with HandBrake</u></a></li>
+<li><a href="https://fake-location.techidaily.com/the-best-8-vpn-hardware-devices-reviewed-on-vivo-y100i-power-5g-drfone-by-drfone-virtual-android/"><u>The Best 8 VPN Hardware Devices Reviewed On Vivo Y100i Power 5G | Dr.fone</u></a></li>
+</ul></div>
+

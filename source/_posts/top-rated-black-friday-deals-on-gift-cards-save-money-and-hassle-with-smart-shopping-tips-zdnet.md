@@ -1,7 +1,7 @@
 ---
 title: "Top-Rated Black Friday Deals on Gift Cards: Save Money and Hassle with Smart Shopping Tips | ZDNet"
-date: 2024-09-17 11:22:36
-updated: 2024-09-20 11:13:55
+date: 2024-09-14T19:08:46.936Z
+updated: 2024-09-20T19:22:33.446Z
 tags:
   - microsoft
 categories:
@@ -115,11 +115,25 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049391/7443" target="_top" id="2049391">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049391" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049391/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047366/19272" target="_top" id="2047366">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047366" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047366/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
 
@@ -159,11 +173,23 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-best-asmr-apps-for-android-and-ios/"><u>[New] 2024 Approved Best ASMR Apps for Android and iOS</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/3-easy-solutions-to-hard-reset-google-pixel-8-drfone-by-drfone-reset-android-reset-android/"><u>3 Easy Solutions to Hard Reset Google Pixel 8 | Dr.fone</u></a></li>
+<li><a href="https://win-hot.techidaily.com/5byk56splus44g444gu5psv5oplus044go44gu55cg6kej44gr5rex44gp5b6h56s8ic0g5ywx44gr5oiq6zw344gx44gm5yplusc44kk44gplus44gx44kh44gg/"><u>弊社への支援とご理解に深く御礼 - 共に成長して参りましょう</u></a></li>
+<li><a href="https://win-hot.techidaily.com/3gp-flv-movavi/"><u>変換器で3GP FLVフォーマットを自由にオンラインで変更する - Movaviの専用ツール</u></a></li>
+<li><a href="https://win-hot.techidaily.com/aif-mov-movavi/"><u>免費線上 AIF 改造 MOV - 憑 Movavi 動手操作</u></a></li>
+<li><a href="https://win-hot.techidaily.com/ape-aiff-movavi/"><u>APE AIFF 형식을 무료로 원격으로 제공하는 Movavi의 접기 기술: 비주언 및 비상업용</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/how-to-play-av1-videos-on-plex-a-comprehensive-guide/"><u>How to Play AV1 Videos on Plex: A Comprehensive Guide</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-guide-to-mirror-your-nokia-150-2023-to-other-android-devices-drfone-by-drfone-android/"><u>In 2024, Guide to Mirror Your Nokia 150 (2023) to Other Android devices | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/toms-tech-reviews-comprehensive-guide/"><u>Tom's Tech Reviews: Comprehensive Guide</u></a></li>
+</ul></div>
+

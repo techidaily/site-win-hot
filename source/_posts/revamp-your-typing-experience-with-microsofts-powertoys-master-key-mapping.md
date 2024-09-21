@@ -1,7 +1,7 @@
 ---
 title: Revamp Your Typing Experience with Microsoft's PowerToys - Master Key Mapping
-date: 2024-09-19 12:42:31
-updated: 2024-09-20 12:41:45
+date: 2024-09-19T01:03:41.776Z
+updated: 2024-09-21T01:36:35.208Z
 tags:
   - microsoft
 categories:
@@ -115,11 +115,25 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043618/7443" target="_top" id="2043618">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043618/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
 
@@ -159,11 +173,25 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-unlock-the-secrets-achieving-facebooks-prestige-marker/"><u>[New] In 2024, Unlock the Secrets Achieving Facebook's Prestige Marker</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/1715860390417-2024-approved-internal-screen-recording-huawei-mate-1020-and-p-series-devices-p20-p10/"><u>2024 Approved Internal Screen Recording Huawei Mate 10/20 & P Series Devices (P20, P10).</u></a></li>
+<li><a href="https://howto.techidaily.com/7-solutions-to-fix-chrome-crashes-or-wont-open-on-xiaomi-redmi-12-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Chrome Crashes or Wont Open on Xiaomi Redmi 12 5G | Dr.fone</u></a></li>
+<li><a href="https://win-hot.techidaily.com/best-video-downloading-apps-of-2024-as-suggested-by-reddit-users-ranked-and-reviewed/"><u>Best Video Downloading Apps of 2024 as Suggested by Reddit Users: Ranked and Reviewed</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/enhance-your-online-presence-using-manycams-advanced-live-video-tools/"><u>Enhance Your Online Presence Using ManyCam's Advanced Live Video Tools</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-xiaomi-redmi-note-13-pro-5g-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>How to Fix Xiaomi Redmi Note 13 Pro 5G Find My Friends No Location Found? | Dr.fone</u></a></li>
+<li><a href="https://win-hot.techidaily.com/jpegmp4/"><u>JPEG動画ファイルの効率的なMP4変換手順：詳しく解説</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/mastering-pip-a-complete-overview-on-edge-browser-for-2024/"><u>Mastering PIP A Complete Overview on Edge Browser for 2024</u></a></li>
+<li><a href="https://win-hot.techidaily.com/step-by-step-guide-for-hd-dvd-ripping-and-converting-to-wmv-using-windows-tools/"><u>Step-by-Step Guide for HD DVD Ripping and Converting to WMV Using Windows Tools</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/the-best-sounding-symphonic-selections-for-romantic-film-projects-updated-for-2024/"><u>The Best-Sounding Symphonic Selections for Romantic Film Projects, Updated for 2024</u></a></li>
+<li><a href="https://win-hot.techidaily.com/ultimate-tutorial-easily-changing-mov-videos-to-compatible-3gp-files-with-online-tools-and-software/"><u>Ultimate Tutorial: Easily Changing MOV Videos to Compatible ^3Gp Files with Online Tools and Software</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: Google's Dominance and Its Impact on Modern PC Usage – Insights From ZDNet
-date: 2024-09-17 20:12:14
-updated: 2024-09-20 10:40:51
+date: 2024-09-20T07:35:31.663Z
+updated: 2024-09-21T02:44:37.094Z
 tags:
   - microsoft
 categories:
@@ -83,6 +83,13 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052059/7443" target="_top" id="2052059">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052059" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052059/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **4\. Pay for Windows 10 Extended Support**
 
 Of course, you could buy support for your Windows 10 machine. Microsoft recently [announced](https://techcommunity.microsoft.com/t5/windows-it-pro-blog/when-to-use-windows-10-extended-security-updates/ba-p/4102628) pricing for its [Extended Security Updates (ESUs) for Windows 10](https://www.zdnet.com/article/when-windows-10-support-ends-you-have-5-options-but-only-2-are-worth-considering/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/when-windows-10-support-ends-you-have-5-options-but-only-2-are-worth-considering/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Extended%20Security%20Updates%20%28ESUs%29%20for%20Windows%2010%22%7D), particularly for businesses and educational institutions. Consumer pricing remains unclear.
@@ -114,6 +121,13 @@ In addition, the ESUs provide only security updates. There will be no new featur
 In summary, commercial organizations will pay $61 to $244 per device over three years, while education gets heavily discounted pricing of $1 to $4 per license. Consumer pricing is still to be determined.
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
 
@@ -159,11 +173,25 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-approaches.techidaily.com/updated-the-art-of-engaging-crafting-compelling-reddit-content/"><u>[Updated] The Art of Engaging Crafting Compelling Reddit Content</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-spotify-location-after-moving-to-another-country-on-poco-m6-pro-4g-drfone-by-drfone-virtual-android/"><u>How to Change Spotify Location After Moving to Another Country On Poco M6 Pro 4G | Dr.fone</u></a></li>
+<li><a href="https://win-hot.techidaily.com/les-plus-performants-outils-de-montage-video-en-ligne-tops-trending/"><u>Les Plus Performants Outils De Montage Vidéo en Ligne : Tops Trending!</u></a></li>
+<li><a href="https://win-hot.techidaily.com/los-mejores-conversores-de-youtube-a-mp3-en-linea-listado-top-13-y-gratuito-para-2024/"><u>Los Mejores Conversores De YouTube a MP3 en Línea: Listado Top 13 Y Gratuito Para 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/mastering-chatgpt-the-20-most-useful-prompts-available-on-github/"><u>Mastering ChatGPT: The 20 Most Useful Prompts Available on GitHub</u></a></li>
+<li><a href="https://win-hot.techidaily.com/mov-a-m4a-conversion-en-ligne-gratuite-par-movavi-assistance-rapide-et-facile/"><u>MOV À M4A : Conversion en Ligne Gratuite Par Movavi | Assistance Rapide Et Facile</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/mov-mxf-movavi-0/"><u>MOV 파일을 MXF로 이식: MOVavi에서 비용 0%의 온라인 제공</u></a></li>
+<li><a href="https://win-hot.techidaily.com/movavi-auwav/"><u>MOVAVI 免費線上服務: AU轉WAV音效修改工具</u></a></li>
+<li><a href="https://win-hot.techidaily.com/movavi-mpeg-mov-movavi/"><u>Movavi의 공식 MPEG MOV 라이브 리소스를 사용하여 원격 비디오 생성을 단호하고 무료로 제공 - Movavi</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/restoring-smooth-windows-10-display/"><u>Restoring Smooth Windows 10 Display</u></a></li>
+<li><a href="https://extra-information.techidaily.com/seamlessly-navigating-ifunnys-meme-space/"><u>Seamlessly Navigating iFunny's Meme Space</u></a></li>
+</ul></div>
+

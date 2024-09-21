@@ -1,7 +1,7 @@
 ---
 title: "Mastering Keyboard Customization: Tips for Remapping Keys Using the Keyboard Manager in PowerToys by Microsoft - Insights From ZDNet"
-date: 2024-09-18 16:56:51
-updated: 2024-09-20 12:43:37
+date: 2024-09-13T22:16:46.169Z
+updated: 2024-09-21T07:22:28.420Z
 tags:
   - microsoft
 categories:
@@ -83,6 +83,13 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151865/7443" target="_top" id="2151865">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151865" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151865/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **4\. Pay for Windows 10 Extended Support**
 
 Of course, you could buy support for your Windows 10 machine. Microsoft recently [announced](https://techcommunity.microsoft.com/t5/windows-it-pro-blog/when-to-use-windows-10-extended-security-updates/ba-p/4102628) pricing for its [Extended Security Updates (ESUs) for Windows 10](https://www.zdnet.com/article/when-windows-10-support-ends-you-have-5-options-but-only-2-are-worth-considering/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/when-windows-10-support-ends-you-have-5-options-but-only-2-are-worth-considering/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Extended%20Security%20Updates%20%28ESUs%29%20for%20Windows%2010%22%7D), particularly for businesses and educational institutions. Consumer pricing remains unclear.
@@ -125,6 +132,13 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975816/19272" target="_top" id="1975816">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975816" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975816/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Conclusion**
 
 Don't trash your old Windows 10 PCs! There are many ways to give them a long, useful life after Microsoft retires them. With ChromeOS Flex and Linux, I've got former Windows PCs more over 10 years old that remain productive machines. Old doesn't mean useless. You just need to be a bit creative.
@@ -159,11 +173,27 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/new-explore-the-spectrum-of-light-with-windows-hdr-video-capabilities-for-2024/"><u>[New] Explore the Spectrum of Light with Windows' HDR Video Capabilities for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-beyond-basic-how-hdr-transforms-video-editing-processes/"><u>[Updated] Beyond Basic How HDR Transforms Video Editing Processes</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-the-6-pillars-of-effective-facebook-live-website-integration-for-2024/"><u>[Updated] The 6 Pillars of Effective Facebook Live Website Integration for 2024</u></a></li>
+<li><a href="https://win-hot.techidaily.com/iuwlleeuuplusocsplusodsplusodhuodsplusodhoobppluswkueaenoeahoobquwrvewqjeajiplusazlsa6ioipsplusoblplusobhoocroocpoodisi/"><u>動画コンテンツで効果的な命名手法 : 詳しいガイド</u></a></li>
+<li><a href="https://win-hot.techidaily.com/download-your-favorite-animes-for-free-the-ultimate-guide-to-top-torrents/"><u>Download Your Favorite Animes for Free: The Ultimate Guide to Top Torrents</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-to-get-and-use-pokemon-go-promo-codes-on-honor-magic-5-lite-drfone-by-drfone-virtual-android/"><u>In 2024, How to Get and Use Pokemon Go Promo Codes On Honor Magic 5 Lite | Dr.fone</u></a></li>
+<li><a href="https://article-posts.techidaily.com/in-2024-spectrumsewn-studio-photo-montage-expertise/"><u>In 2024, SpectrumSewn Studio Photo Montage Expertise</u></a></li>
+<li><a href="https://win-hot.techidaily.com/jpegmp4/"><u>JPEG動画ファイルの効率的なMP4変換手順：詳しく解説</u></a></li>
+<li><a href="https://win-hot.techidaily.com/step-by-step-guide-for-hd-dvd-ripping-and-converting-to-wmv-using-windows-tools/"><u>Step-by-Step Guide for HD DVD Ripping and Converting to WMV Using Windows Tools</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/top-10-airplay-apps-in-vivo-y36i-for-streaming-drfone-by-drfone-android/"><u>Top 10 AirPlay Apps in Vivo Y36i for Streaming | Dr.fone</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/your-wayback-machine-facebooks-story-archives-at-your-service-for-2024/"><u>Your Wayback Machine Facebook’s Story Archives at Your Service for 2024</u></a></li>
+<li><a href="https://win-hot.techidaily.com/44kq44oz44oh44oe44oz44oj44gn44ot44oh44kq44go44kq44o844oh44kj44kq44kz44oz44og44oz44oe44gu44k544og44o844k644gq5yan55sf44ks5a6f54plusplus/"><u>オンデマンドでビデオとオーディオコンテンツのスムーズな再生を実現</u></a></li>
+<li><a href="https://win-hot.techidaily.com/44op44k444kq55wq57we44gu5pmc6zat54sh5yi26zmq6yyy6zplusz5pa55rov77ya5bcc55so44k944ov44oi44km44kn44ki44o744ki44ox44oq44kx44o844k344on44oz44ks44gu5qsc6kio44gp482/"><u>ラジオ番組の時間無制限録音方法：専用ソフトウェア・アプリケーションをご検討ください</u></a></li>
+</ul></div>
+

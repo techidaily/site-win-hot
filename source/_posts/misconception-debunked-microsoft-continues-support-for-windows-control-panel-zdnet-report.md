@@ -1,7 +1,7 @@
 ---
 title: "Misconception Debunked: Microsoft Continues Support for Windows Control Panel - ZDNet Report"
-date: 2024-09-17 13:56:58
-updated: 2024-09-20 11:35:40
+date: 2024-09-15T11:30:31.578Z
+updated: 2024-09-20T17:10:03.614Z
 tags:
   - microsoft
 categories:
@@ -83,6 +83,19 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
 
+<!-- affiliate ads begin -->
+<span id="1975503">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **4\. Pay for Windows 10 Extended Support**
 
 Of course, you could buy support for your Windows 10 machine. Microsoft recently [announced](https://techcommunity.microsoft.com/t5/windows-it-pro-blog/when-to-use-windows-10-extended-security-updates/ba-p/4102628) pricing for its [Extended Security Updates (ESUs) for Windows 10](https://www.zdnet.com/article/when-windows-10-support-ends-you-have-5-options-but-only-2-are-worth-considering/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/when-windows-10-support-ends-you-have-5-options-but-only-2-are-worth-considering/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Extended%20Security%20Updates%20%28ESUs%29%20for%20Windows%2010%22%7D), particularly for businesses and educational institutions. Consumer pricing remains unclear.
@@ -120,6 +133,13 @@ I'd only go with an ESU, myself, if I _really_ had no other choice.
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997630/19272" target="_top" id="1997630">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997630" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997630/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
 
@@ -159,11 +179,28 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-blue.techidaily.com/updated-from-basics-to-expertise-the-quantum-hdr-journey-for-2024/"><u>[Updated] From Basics to Expertise The Quantum HDR Journey for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-the-art-of-influence-essential-marketing-expressions-explained/"><u>[Updated] The Art of Influence Essential Marketing Expressions Explained</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-uniting-digital-and-physical-worlds/"><u>[Updated] Uniting Digital and Physical Worlds</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-your-web-comes-alive-explore-the-best-screen-recorder-software-for-browsers-for-2024/"><u>[Updated] Your Web Comes Alive Explore the Best Screen Recorder Software for Browsers for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-mastering-game-recording-steam-edition-techniques/"><u>2024 Approved Mastering Game Recording Steam Edition Techniques</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-sonic-artistry-and-video-prowess-in-sonys-xperia-xz/"><u>2024 Approved Sonic Artistry and Video Prowess in Sony's Xperia XZ</u></a></li>
+<li><a href="https://win-hot.techidaily.com/iuwlleeuuplusocsplusodsplusodhuodsplusodhoobppluswkueaenoeahoobquwrvewqjeajiplusazlsa6ioipsplusoblplusobhoocroocpoodisi/"><u>動画コンテンツで効果的な命名手法 : 詳しいガイド</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/5pya6ygp44gq44oh44oh44kj44ki44ox44os44kk44ok44o844ks6yg444g244gf44kb44gu54sh5paz6zplusz5aow44o75yuv55s75yan55sf44k944ov44oi44km44kn44ki5qplusu6lyd44ks44kk4420/"><u>最適なメディアプレイヤーを選ぶための無料音声・動画再生ソフトウェア比較ガイド</u></a></li>
+<li><a href="https://win-hot.techidaily.com/download-your-favorite-animes-for-free-the-ultimate-guide-to-top-torrents/"><u>Download Your Favorite Animes for Free: The Ultimate Guide to Top Torrents</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-hidefake-snapchat-location-on-your-samsung-galaxy-a24-drfone-by-drfone-virtual-android/"><u>How to Hide/Fake Snapchat Location on Your Samsung Galaxy A24 | Dr.fone</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-realign-corrected-identity-visualization-in-facebook-sessions/"><u>In 2024, Realign Corrected Identity Visualization in Facebook Sessions</u></a></li>
+<li><a href="https://win-hot.techidaily.com/1726029613466-p90x-dvd/"><u>P90X DVDコピー技術：高度なフィットネスに勝利しよう!</u></a></li>
+<li><a href="https://win-hot.techidaily.com/44kq44oz44oh44oe44oz44oj44gn44ot44oh44kq44go44kq44o844oh44kj44kq44kz44oz44og44oz44oe44gu44k544og44o844k644gq5yan55sf44ks5a6f54plusplus/"><u>オンデマンドでビデオとオーディオコンテンツのスムーズな再生を実現</u></a></li>
+<li><a href="https://win-hot.techidaily.com/44op44k444kq55wq57we44gu5pmc6zat54sh5yi26zmq6yyy6zplusz5pa55rov77ya5bcc55so44k944ov44oi44km44kn44ki44o744ki44ox44oq44kx44o844k344on44oz44ks44gu5qsc6kio44gp482/"><u>ラジオ番組の時間無制限録音方法：専用ソフトウェア・アプリケーションをご検討ください</u></a></li>
+</ul></div>
+

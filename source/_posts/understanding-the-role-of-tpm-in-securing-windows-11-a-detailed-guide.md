@@ -1,7 +1,7 @@
 ---
 title: "Understanding the Role of TPM in Securing Windows 11: A Detailed Guide"
-date: 2024-09-18 18:11:27
-updated: 2024-09-20 12:40:56
+date: 2024-09-14T02:24:56.164Z
+updated: 2024-09-20T20:23:47.664Z
 tags:
   - windows
 categories:
@@ -48,11 +48,25 @@ When done, press Enter.
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948905/19272" target="_top" id="1948905">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948905" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948905/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Launch the icon
 
 Double-click the icon, and a window opens with all the available settings. The commands are organized by Control Panel applet, so you can browse through the various categories, including Backup and Restore, Devices and Printers, File History, Mouse, Programs and Features, Security and Maintenance, Troubleshooting, and User Accounts.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094482/7443" target="_top" id="2094482">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Search for a command
 
@@ -76,6 +90,13 @@ At the window for New, choose the option for shortcut instead of folder. In the 
 When done, click Next.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100534/7443" target="_top" id="2100534">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100534" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100534/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 8\. Name the shortcut
 
@@ -119,11 +140,24 @@ Screenshot by Lance Whitney/ZDNET
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-how-to-upload-tweets-no-retweets-on-mobile/"><u>[Updated] In 2024, How to Upload Tweets - No Retweets on Mobile?</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-the-ultimate-guide-to-gamers-screen-recordings-with-win10/"><u>2024 Approved The Ultimate Guide to Gamers' Screen Recordings with Win10</u></a></li>
+<li><a href="https://win-hot.techidaily.com/decouvrez-les-top-9-outils-gratuits-pour-animer-en-2d-le-guide-de-movavi/"><u>Découvrez Les Top 9 Outils Gratuits Pour Animer en 2D : Le Guide De Movavi</u></a></li>
+<li><a href="https://win-hot.techidaily.com/descargar-e-imprimir-su-archivo-pgf-sin-coste-adicional-con-herramientas-de-conversion-en-linea/"><u>Descargar E Imprimir Su Archivo PGF Sin Coste Adicional Con Herramientas De Conversión en Línea</u></a></li>
+<li><a href="https://win-hot.techidaily.com/descargue-mp3-de-forma-gratuita-convirtiendo-video-tta-sin-costo-con-movavi/"><u>Descargue Mp3 De Forma Gratuita Convirtiendo Video Tta Sin Costo Con Movavi</u></a></li>
+<li><a href="https://win-hot.techidaily.com/discover-the-legacy-of-felix-de-la-concepcion-influential-artist-and-cultural-icon/"><u>Discover the Legacy of Félix De La Concepción: Influential Artist and Cultural Icon</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-poco-x5-pro-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Poco X5 Pro to Any iOS Devices | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/pattern-locks-are-unsafe-secure-your-honor-80-pro-straight-screen-edition-phone-now-with-these-tips-by-drfone-android/"><u>Pattern Locks Are Unsafe Secure Your Honor 80 Pro Straight Screen Edition Phone Now with These Tips</u></a></li>
+<li><a href="https://techidaily.com/recover-apple-iphone-15-plus-data-from-ios-itunes-backup-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover Apple iPhone 15 Plus Data From iOS iTunes Backup | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/simplify-your-menu-planning-with-these-7-chatgpt-insights/"><u>Simplify Your Menu Planning With These 7 ChatGPT Insights</u></a></li>
+</ul></div>
+

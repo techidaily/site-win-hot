@@ -1,7 +1,7 @@
 ---
 title: New Survey Reveals Windows 11 Takes the Lead Over Windows Amo in PC Gamers' Choice | Insights From ZDNet
-date: 2024-09-18 20:29:39
-updated: 2024-09-20 11:38:55
+date: 2024-09-20T06:52:37.238Z
+updated: 2024-09-21T05:48:19.224Z
 tags:
   - windows
 categories:
@@ -91,6 +91,13 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Corporate PCs that are standardized on Windows 10.** A nontrivial number of enterprise IT managers have just finished their Windows 10 migrations in the last year or two and probably aren't anxious to do it again.
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105864/7443" target="_top" id="2105864">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105864/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Will Microsoft extend the support deadline for Windows 10?
 
 That's certainly a possibility, and there's precedent for it in the experience of Windows XP, which ended support in April 2014, more than 12 years after it was first released. Windows XP users even received emergency security updates well after that official end date, to address the [WannaCry vulnerability](https://www.zdnet.com/article/why-wannacry-ransomware-is-still-a-threat-to-your-pc/) in 2017 and a similar flaw in 2019\. Likewise, Microsoft [issued emergency security updates for Windows 7 in 2021](https://www.zdnet.com/article/install-immediately-microsoft-delivers-emergency-patch-for-printnightmare-security-bug/) after its support had officially ended.
@@ -151,11 +158,29 @@ _This article was originally published in July 2023\. The most recent update was
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-ps1-reimagined-the-best-emulators-for-game-revival-on-pc/"><u>[New] 2024 Approved PS1 Reimagined The Best Emulators for Game Revival on PC</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-engaging-your-audience-with-optimal-video-concepts-for-2024/"><u>[Updated] Engaging Your Audience with Optimal Video Concepts for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-unveiling-hidden-details-in-asmr-recordings-for-2024/"><u>[Updated] Unveiling Hidden Details in ASMR Recordings for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-which-angle-works-better-for-social-sharing-vertical-or-horizontal/"><u>2024 Approved Which Angle Works Better for Social Sharing Vertical or Horizontal?</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-window-warriors-choose-the-best-capture-apps/"><u>2024 Approved Window Warriors Choose the Best Capture Apps</u></a></li>
+<li><a href="https://win-hot.techidaily.com/movavi-mp4-avi/"><u>如何使用Movavi輕鬆地從 MP4 改成 AVI: 直覺上手的指引</u></a></li>
+<li><a href="https://win-hot.techidaily.com/create-your-own-online-course-easily-a-step-by-step-guide/"><u>Create Your Own Online Course Easily - A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-hot.techidaily.com/creer-un-webm-a-partir-dun-fichier-mp4-gratuitement-en-ligne-movavi/"><u>Créer Un WebM À Partir D'un Fichier MP4 Gratuitement en Ligne - Movavi</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/cursor-enters-blacked-out-win11/"><u>Cursor Enters Blacked Out Win11</u></a></li>
+<li><a href="https://win-hot.techidaily.com/diy-guide-creating-and-using-eco-friendly-chroma-key-effects-in-videos/"><u>DIY Guide: Creating & Using Eco-Friendly Chroma Key Effects in Videos</u></a></li>
+<li><a href="https://win-hot.techidaily.com/gratuit-konverteren-van-opus-naar-m4a-formaat-een-easy-online-oplossing-met-movavi/"><u>Gratuit Konverteren Van OPUS Naar M4A-Formaat: Een Easy Online Oplossing Met Movavi</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-honor-x50i-drfone-by-drfone-android/"><u>How to Screen Mirroring Honor X50i? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-full-tutorial-to-bypass-your-lava-storm-5g-face-lock-by-drfone-android/"><u>In 2024, Full Tutorial to Bypass Your Lava Storm 5G Face Lock?</u></a></li>
+<li><a href="https://win-hot.techidaily.com/movavirw2/"><u>Movaviで簡単なRW2ファイルを無料に変換する方法</u></a></li>
+<li><a href="https://win-hot.techidaily.com/mod-mpg-to-mp4-movavi/"><u>무료 MOD MPG-TO-MP4 변환 기법 : 모바일화를 위해 Movavi의 통합</u></a></li>
+</ul></div>
+

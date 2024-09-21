@@ -1,7 +1,7 @@
 ---
 title: "Urgent Update Needed: Microsoft Faces Critical Deadline to Fix Windows 10 Issues by Next Year | CyberNews Report"
-date: 2024-09-19 11:22:28
-updated: 2024-09-20 12:57:39
+date: 2024-09-17T01:07:25.789Z
+updated: 2024-09-21T11:25:47.912Z
 tags:
   - microsoft
 categories:
@@ -115,11 +115,25 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484951/16446" target="_top" id="1484951">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484951" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484951/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934138/19272" target="_top" id="1934138">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934138" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934138/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
 
@@ -159,11 +173,29 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/024-approved-dominating-the-digital-space-with-trending-content/"><u>[New] 2024 Approved Dominating the Digital Space with Trending Content</u></a></li>
+<li><a href="https://win-hot.techidaily.com/aprenda-facilmente-com-webinars-da-movavi-guia-completo-e-pratico/"><u>Aprenda Facilmente Com Webinars Da Movavi: Guia Completo E Prático</u></a></li>
+<li><a href="https://win-hot.techidaily.com/bezna-nahravka-obrazok-bez-zvuku-movari-prostredek-pro-videcke-filmy/"><u>Běžná Nahrávka Obrazok Bez Zvuku - MoVaRi Prostředek Pro Vídecké Filmy</u></a></li>
+<li><a href="https://win-hot.techidaily.com/como-recortar-clips-de-video-usando-vlc-metodo-provenido/"><u>Cómo Recortar Clips De Video Usando VLC - Método Provenido</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/complete-guide-mastering-the-art-of-dvd-menu-extraction-and-ripping/"><u>Complete Guide: Mastering the Art of DVD Menu Extraction and Ripping</u></a></li>
+<li><a href="https://win-hot.techidaily.com/conversao-de-videos-para-formato-rmvb-online-livre-com-movavi/"><u>Conversão De Vídeos Para Formato RMVB Online Livre Com Movavi</u></a></li>
+<li><a href="https://win-hot.techidaily.com/conversione-rapida-e-gratuita-cambia-il-tuo-video-webm-al-formato-3gp-utilizzando-lapplicazione-online-di-movavi/"><u>Conversione Rapida E Gratuita: Cambia Il Tuo Video WEBM Al Formato ➡️ 3GP Utilizzando L'applicazione Online Di Movavi</u></a></li>
+<li><a href="https://win-hot.techidaily.com/convierte-archivos-gif-a-formato-jpeg-de-manera-gratuita-con-movavi-online-tool/"><u>Convierte Archivos GIF a Formato JPEG De Manera Gratuita Con Movavi Online Tool</u></a></li>
+<li><a href="https://win-hot.techidaily.com/cost-free-web-based-convertor-for-vob-and-flac-files-by-movavi/"><u>Cost-Free Web-Based Convertor for VOB and FLAC Files by Movavi</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719172767277-enhance-csgo-on-pc-10-frames-up/"><u>Enhance CS:GO on PC - 10 Frames Up!</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fixing-safaricide-10-steps-to-restore-your-iphones-browser/"><u>Fixing Safaricide: 10 Steps to Restore Your iPhone's Browser</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-fix-your-latest-cam-recognition-issue-post-windows-10-update-solutions-found-fixed/"><u>How to Fix Your Latest Cam Recognition Issue Post Windows 10 Update - Solutions Found [Fixed]</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-effortless-webcam-recording-with-vlc-streaming-capabilities/"><u>In 2024, Effortless Webcam Recording with VLC Streaming Capabilities</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/the-best-ispoofer-alternative-to-try-on-tecno-spark-go-2024-drfone-by-drfone-virtual-android/"><u>The Best iSpoofer Alternative to Try On Tecno Spark Go (2024) | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/the-complete-story-on-dji-phantom-4s-performance/"><u>The Complete Story on DJI Phantom 4'S Performance</u></a></li>
+</ul></div>
+
