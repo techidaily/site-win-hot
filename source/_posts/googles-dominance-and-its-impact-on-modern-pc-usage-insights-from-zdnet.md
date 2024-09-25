@@ -1,7 +1,7 @@
 ---
 title: Google's Dominance and Its Impact on Modern PC Usage – Insights From ZDNet
-date: 2024-09-20T07:35:31.663Z
-updated: 2024-09-21T02:44:37.094Z
+date: 2024-09-19T18:14:40.387Z
+updated: 2024-09-25T18:33:50.000Z
 tags:
   - microsoft
 categories:
@@ -53,6 +53,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -62,6 +69,13 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136626/26400" target="_top" id="2136626">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136626" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136626/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -84,10 +98,10 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052059/7443" target="_top" id="2052059">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052059" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052059/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
@@ -122,18 +136,18 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
 
@@ -180,5 +194,24 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/ssential-tips-for-making-youtube-introductory-trailers/"><u>[New] Essential Tips for Making YouTube Introductory Trailers</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-streamlining-video-editing-on-windows-11s-movie-maker/"><u>[New] Streamlining Video Editing on Windows 11'S Movie Maker</u></a></li>
+<li><a href="https://fox-that.techidaily.com/are-your-iphone-pictures-really-gone-forever-discover-8-solutions/"><u>Are Your iPhone Pictures Really Gone Forever? Discover 8 Solutions</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/bandicam-your-compreayer-for-high-quality-screen-recording/"><u>Bandicam Your Compreayer for High-Quality Screen Recording</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/effortless-conversion-techniques-from-mpeg-n-to-mp4-format-for-enhanced-video-playback/"><u>Effortless Conversion Techniques From MPEG-N to MP4 Format for Enhanced Video Playback</u></a></li>
+<li><a href="https://win-hot.techidaily.com/enhanced-usability-on-windows-11-strategies-to-refine-and-streamline-your-taskbar/"><u>Enhanced Usability on Windows 11: Strategies to Refine and Streamline Your Taskbar</u></a></li>
+<li><a href="https://win-hot.techidaily.com/future-of-windows-control-panel-secure-as-microsoft-confirms-continuation-post-rumors-according-to-zdnet-analysis/"><u>Future of Windows Control Panel Secure as Microsoft Confirms Continuation Post Rumors, According to ZDNet Analysis</u></a></li>
+<li><a href="https://win-hot.techidaily.com/get-ready-microsoft-announes-new-cost-for-windows-11-updates-beginning-next-year-what-you-need-to-know/"><u>Get Ready: Microsoft Announes New Cost for Windows 11 Updates Beginning Next Year - What You Need To Know</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-fix-locked-apple-id-from-iphone-11-by-drfone-ios/"><u>How to Fix Locked Apple ID from iPhone 11</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-the-insiders-guide-to-overwatch-game-recording/"><u>In 2024, The Insider's Guide to Overwatch Game Recording</u></a></li>
+<li><a href="https://win-hot.techidaily.com/mastering-keyboard-customization-tips-for-remapping-keys-using-the-keyboard-manager-in-powertoys-by-microsoft-insights-from-zdnet/"><u>Mastering Keyboard Customization: Tips for Remapping Keys Using the Keyboard Manager in PowerToys by Microsoft - Insights From ZDNet</u></a></li>
+<li><a href="https://win-hot.techidaily.com/microsofts-persisting-challenges-in-the-smartphone-arena-a-decade-of-missed-opportunities/"><u>Microsoft's Persisting Challenges in the Smartphone Arena - A Decade of Missed Opportunities</u></a></li>
+<li><a href="https://win-hot.techidaily.com/overcoming-azures-unlimited-service-plan-boundaries-strategies-and-solutions/"><u>Overcoming Azure’s Unlimited Service Plan Boundaries: Strategies and Solutions</u></a></li>
+<li><a href="https://win-hot.techidaily.com/simple-method-to-clear-email-clutter-avoid-rules-extra-accounts-with-one-trick-discover-how-on-zdnet/"><u>Simple Method to Clear Email Clutter: Avoid Rules, Extra Accounts with One Trick! – Discover How on ZDNet</u></a></li>
+<li><a href="https://win-hot.techidaily.com/solve-windows-search-errors-with-ease-expert-tips-and-strategies/"><u>Solve Windows Search Errors with Ease - Expert Tips & Strategies</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-trace-the-tonal-embodiment-of-an-ancient-bell-for-2024/"><u>Updated Trace the Tonal Embodiment of an Ancient Bell for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/youtube-producers-favorite-cameras-and-lenses-for-2024/"><u>YouTube Producers' Favorite Cameras & Lenses for 2024</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Don't Ignore the Deadline: Prepare for End of Life on Windows 11 Versions 21H2 and 22H2 Now | ZDNet"
-date: 2024-09-15T04:50:19.603Z
-updated: 2024-09-20T19:43:15.981Z
+date: 2024-09-23T20:16:20.733Z
+updated: 2024-09-25T18:55:43.322Z
 tags:
   - windows
 categories:
@@ -81,12 +81,28 @@ How long will it be before Windows 11 23H2 is no longer supported? That depends 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-acquire-high-quality-sounds-for-media-creators/"><u>[New] Acquire High-Quality Sounds for Media Creators!</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-how-to-use-dslr-for-facebook-live-on-your-pc/"><u>[New] How to Use DSLR for Facebook Live on Your PC?</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-low-cost-high-performance-great-smartphones-for-gamers/"><u>2024 Approved Low-Cost, High Performance Great Smartphones for Gamers</u></a></li>
+<li><a href="https://win-hot.techidaily.com/dm/"><u>様々なデバイスからツイッターの個人的DM動画を保存する完全解析</u></a></li>
+<li><a href="https://win-hot.techidaily.com/avi2/"><u>AVI形式へのビデオ変換手順：効果的な2つの方法</u></a></li>
+<li><a href="https://win-hot.techidaily.com/batch-converting-videos-efficiently-a-step-by-step-guide-with-handbrake/"><u>Batch Converting Videos Efficiently: A Step-by-Step Guide with Handbrake</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/1725287754052-dvd/"><u>DVDからパソコンへ：データ化し、そして高品質なビデオに再生する方法</u></a></li>
+<li><a href="https://win-hot.techidaily.com/essential-specifications-for-tweets-a-guide-to-optimizing-your-video-content-on-twitter/"><u>Essential Specifications for Tweets: A Guide to Optimizing Your Video Content on Twitter</u></a></li>
+<li><a href="https://win-hot.techidaily.com/extending-your-instagram-videos-a-step-by-step-guide/"><u>Extending Your Instagram Videos: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-hot.techidaily.com/how-to-convert-and-enjoy-dvd-folders-as-mp4-videos-a-guide-with-three-straightforward-techniques/"><u>How to Convert and Enjoy DVD Folders as MP4 Videos: A Guide with Three Straightforward Techniques</u></a></li>
+<li><a href="https://driver-download.techidaily.com/m-audio-fast-track-driver-download-for-windows-10-7-8-and-81/"><u>M-Audio Fast Track Driver Download for Windows 10, 7, 8 & 8.1</u></a></li>
+<li><a href="https://windows11.techidaily.com/remedying-the-process-termination-failure-error-window/"><u>Remedying the 'Process Termination Failure' Error Window</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/samsungs-next-gen-marvel-discover-expected-features-and-specs-of-the-galaxy-s25-ultra-release/"><u>Samsung's Next-Gen Marvel: Discover Expected Features and Specs of the Galaxy S25 Ultra Release</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-huawei-p10-an-overview-of-cutting-edge-mobile-experience/"><u>The Huawei P10 An Overview of Cutting-Edge Mobile Experience</u></a></li>
+</ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880927/19272" target="_top" id="1880927">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880927" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880927/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
