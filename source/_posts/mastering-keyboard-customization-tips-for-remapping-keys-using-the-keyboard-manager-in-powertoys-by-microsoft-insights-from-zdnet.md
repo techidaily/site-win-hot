@@ -1,7 +1,7 @@
 ---
 title: "Mastering Keyboard Customization: Tips for Remapping Keys Using the Keyboard Manager in PowerToys by Microsoft - Insights From ZDNet"
-date: 2024-09-22T16:41:35.641Z
-updated: 2024-09-25T19:04:45.456Z
+date: 2024-09-25T00:43:36.503Z
+updated: 2024-09-29T21:07:34.458Z
 tags:
   - microsoft
 categories:
@@ -53,13 +53,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -71,10 +64,16 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1975658">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
@@ -98,10 +97,10 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959773/19272" target="_top" id="1959773">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959773" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068439/7443" target="_top" id="2068439">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068439" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959773/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068439/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
@@ -136,22 +135,29 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576477/17382" target="_top" id="1576477">
-  <img src="//a.impactradius-go.com/display-ad/17382-1576477" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576477/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037475/7443" target="_top" id="2037475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -196,18 +202,18 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-a-step-by-step-guide-for-sharing-camera-roll-pictures-on-snapchat/"><u>[New] A Step by Step Guide for Sharing Camera Roll Pictures on Snapchat</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-securing-social-media-memories-the-latest-on-downloading-fb-statuses/"><u>[Updated] 2024 Approved Securing Social Media Memories The Latest on Downloading Fb Statuses</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/2024-approved-9-uncharted-upscales-for-vivid-visuals/"><u>2024 Approved 9 Uncharted Upscales for Vivid Visuals</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-resolve-vivo-y27-5g-screen-not-working-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Resolve Vivo Y27 5G Screen Not Working | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-top-10-password-cracking-tools-for-realme-11-proplus-by-drfone-android/"><u>In 2024, Top 10 Password Cracking Tools For Realme 11 Pro+</u></a></li>
-<li><a href="https://win-hot.techidaily.com/planning-ahead-for-windows-10-enhancements-the-price-youll-pay-to-stay-updated-next-year-zdnet-insights/"><u>Planning Ahead for Windows 10 Enhancements: The Price You'll Pay to Stay Updated Next Year | ZDNET Insights</u></a></li>
-<li><a href="https://win-hot.techidaily.com/simplifying-cross-device-sharing-mastering-the-use-of-google-quick-share-for-windows-and-android-integration-digital-guide/"><u>Simplifying Cross-Device Sharing: Mastering the Use of Google Quick Share for Windows and Android Integration - Digital Guide</u></a></li>
-<li><a href="https://win-hot.techidaily.com/understanding-the-role-of-tpm-in-securing-windows-11-a-detailed-guide/"><u>Understanding the Role of TPM in Securing Windows 11: A Detailed Guide</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/unlock-the-potential-of-your-phone-individual-ringtone-creation-on-android-for-2024/"><u>Unlock the Potential of Your Phone Individual Ringtone Creation on Android for 2024</u></a></li>
-<li><a href="https://win-hot.techidaily.com/unveiling-excellence-the-macbook-pro-with-m1-pro-chip-delivers-outstanding-windows-1nnovation-reviewed-by-zdnet/"><u>Unveiling Excellence: The MacBook Pro with M1 Pro Chip Delivers Outstanding Windows 1Nnovation, Reviewed by ZDNet</u></a></li>
-<li><a href="https://win-hot.techidaily.com/urgent-alert-microsofts-critical-challenge-with-windows-11-looms-as-deadline-approaches-tech-insights/"><u>Urgent Alert: Microsoft's Critical Challenge with Windows 11 Looms as Deadline Approaches | Tech Insights</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/visualvision-studio-for-win8-for-2024/"><u>VisualVision Studio for Win8 for 2024</u></a></li>
-<li><a href="https://win-hot.techidaily.com/why-cleaning-up-your-pc-differs-from-debloating-windows-expert-advice-on-effective-techniques-zdnet/"><u>Why Cleaning Up Your PC Differs From Debloating Windows – Expert Advice on Effective Techniques | ZDNet</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-the-gateway-to-youtube-stardom-via-studio-expertise/"><u>[New] In 2024, The Gateway to YouTube Stardom via Studio Expertise</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-cutting-edge-strategies-for-efficient-speech-translation-with-google/"><u>[Updated] 2024 Approved Cutting Edge Strategies for Efficient Speech Translation with Google</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-unlocking-youtube-success-with-savvy-backlinking/"><u>[Updated] Unlocking YouTube Success with Savvy Backlinking</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/approved-break-bot-patterns-enhance-organic-video-reach/"><u>2024 Approved Break Bot Patterns, Enhance Organic Video Reach</u></a></li>
+<li><a href="https://win-hot.techidaily.com/get-your-hands-on-microsoft-office-2019-at-only-25-compatible-with-windows-and-mac-discover-the-secrets-here/"><u>Get Your Hands on Microsoft Office 2019 at Only $25 - Compatible with Windows & Mac! Discover the Secrets Here</u></a></li>
+<li><a href="https://win-hot.techidaily.com/googles-dominance-and-its-impact-on-modern-pc-usage-insights-from-zdnet/"><u>Google's Dominance and Its Impact on Modern PC Usage – Insights From ZDNet</u></a></li>
+<li><a href="https://win-hot.techidaily.com/microsoft-and-samsungs-potential-breakthrough-in-mainstreaming-cloud-gaming-an-insight-by-zdnet/"><u>Microsoft & Samsung's Potential Breakthrough in Mainstreaming Cloud Gaming: An Insight by ZDNet</u></a></li>
+<li><a href="https://win-hot.techidaily.com/microsofts-recent-upgrade-might-escalate-after-hours-job-hassles-reports-zdnet/"><u>Microsoft's Recent Upgrade Might Escalate After-Hours Job Hassles, Reports ZDNET</u></a></li>
+<li><a href="https://win-hot.techidaily.com/resolving-post-april-windows-update-vpn-issues-the-complete-guide/"><u>Resolving Post-April Windows Update VPN Issues - The Complete Guide</u></a></li>
+<li><a href="https://some-tips.techidaily.com/tips-for-att-andra-storleken-pa-videofilmer-i-windows-och-mac-os-en-lattlastande-resa-till-guide/"><u>Tips För Att Ändra Storleken På Videofilmer I Windows Och Mac OS - en Lättlästande Resa Till Guide</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/transformar-contenido-de-video-al-formato-quicktime-en-sistemas-operativos-macos-y-windows-efectivamente/"><u>Transformar Contenido De Video Al Formato QuickTime en Sistemas Operativos MacOS Y Windows Efectivamente</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/troubleshooting-guide-why-isnt-my-msi-mystic-light-functioning-on-windows/"><u>Troubleshooting Guide: Why Isn't My MSI Mystic Light Functioning on Windows?</u></a></li>
+<li><a href="https://win-tips.techidaily.com/urgent-challenge-microsoft-must-fix-major-issues-with-windows-10-in-just-one-year-insights-by-zdnet/"><u>Urgent Challenge: Microsoft Must Fix Major Issues with Windows 10 in Just One Year - Insights by ZDNet</u></a></li>
 </ul></div>
 

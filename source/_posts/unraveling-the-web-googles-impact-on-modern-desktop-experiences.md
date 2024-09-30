@@ -1,7 +1,7 @@
 ---
 title: "Unraveling the Web: Google's Impact on Modern Desktop Experiences"
-date: 2024-09-18T20:03:50.264Z
-updated: 2024-09-25T17:29:00.907Z
+date: 2024-09-25T16:24:50.174Z
+updated: 2024-09-30T06:57:51.130Z
 tags:
   - microsoft
 categories:
@@ -53,6 +53,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -64,10 +71,10 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868586/19272" target="_top" id="1868586">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868586" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148649/16836" target="_top" id="2148649">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148649" border="0" alt="https://techidaily.com" width="720" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868586/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148649/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
@@ -91,10 +98,10 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047366/19272" target="_top" id="2047366">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047366" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037358/7443" target="_top" id="2037358">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037358" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047366/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037358/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
@@ -129,29 +136,22 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151859/7443" target="_top" id="2151859">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151859/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052063/7443" target="_top" id="2052063">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052063" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052063/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111965/7443" target="_top" id="2111965">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111965" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111965/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -196,22 +196,24 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/ed-clearing-your-browsers-watched-videos/"><u>[Updated] Clearing Your Browser's Watched Videos</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-organize-and-download-fb-links-optimized-tools-for-23-for-2024/"><u>[Updated] Organize and Download FB Links Optimized Tools for '23 for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-pioneering-the-future-top-tips-for-remotely-capturing-talent/"><u>[Updated] Pioneering the Future Top Tips for Remotely Capturing Talent</u></a></li>
-<li><a href="https://win-hot.techidaily.com/44cm6auy5zob6loq44gq44k944ov44oi44km44kn44ki44ks5a6j5ywo44gr5aoy44kl44k144kk44oi44cn/"><u>「高品質なソフトウェアを安全に売るサイト」</u></a></li>
-<li><a href="https://win-hot.techidaily.com/1726030394773-aviutl/"><u>「AviUtl」アプリによる画面記録は、技術的なハンドルがどの程度簡単ですか？</u></a></li>
-<li><a href="https://fox-http.techidaily.com/2024-approved-crafting-a-unified-brand-presence-on-youtube/"><u>2024 Approved Crafting a Unified Brand Presence on YouTube</u></a></li>
-<li><a href="https://win-hot.techidaily.com/4-essential-tips-for-recording-your-omegle-video-conversations/"><u>4 Essential Tips for Recording Your Omegle Video Conversations</u></a></li>
-<li><a href="https://win-hot.techidaily.com/5yuv55s75ps56imv77ya44k544oe44o844oi44gn6lu944ke44gl44gq44ki44k544oa44kv44oi5qplusu5asj5oplusb5oml6acg/"><u>動画改良：スマートで軽やかなアスペクト比変換手順</u></a></li>
-<li><a href="https://win-hot.techidaily.com/avi2/"><u>AVI形式へのビデオ変換手順：効果的な2つの方法</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/enthralling-virtual-pastimes-7-entertaining-online-options-for-your-childs-fun-time/"><u>Enthralling Virtual Pastimes: 7 Entertaining Online Options for Your Child’s Fun Time</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-enable-usb-debugging-on-a-locked-realme-gt-3-phone-by-drfone-android/"><u>In 2024, How To Enable USB Debugging on a Locked Realme GT 3 Phone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-looking-for-a-location-changer-on-samsung-galaxy-a23-5g-look-no-further-drfone-by-drfone-virtual-android/"><u>In 2024, Looking For A Location Changer On Samsung Galaxy A23 5G? Look No Further | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/in-2024-youtube-on-your-iphoneipad-the-ultimate-downloading-guide/"><u>In 2024, Youtube on Your iPhone/iPad The Ultimate Downloading Guide</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/instagram-video-promotion-mastery-craft-your-winning-market-plan-for-2024/"><u>Instagram Video Promotion Mastery Craft Your Winning Market Plan for 2024</u></a></li>
-<li><a href="https://win-hot.techidaily.com/1726029574815-iphonewav/"><u>IPhone専用着メロへのWAVファイル変換ガイド</u></a></li>
-<li><a href="https://win-hot.techidaily.com/1726030612148-mp4-vlc/"><u>MP4ファイル変換: VLCメディアプレーヤーを使った効果的なテクニックと、変換が不可能な場合の代替オプション</u></a></li>
-<li><a href="https://win-hot.techidaily.com/1726030441304-mp4windows-1011/"><u>MP4ファイルを修正するための基本的な手順：Windows 10および11ユーザ向け指南</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-navigating-a-world-of-videos-made-easy-with-vidas-aid/"><u>[New] Navigating a World of Videos Made Easy with Vida's Aid</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-scouring-deals-low-priced-gopro-cameras/"><u>[Updated] Scouring Deals Low-Priced GoPro Cameras</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-swift-restoration-of-photos-viewer-performance-in-windows-10-for-2024/"><u>[Updated] Swift Restoration of Photos Viewer Performance in Windows 10 for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/2024-approved-youtube-videos-making-a-statement-on-instagram/"><u>2024 Approved YouTube Videos Making a Statement on Instagram</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-photos-files-on-vivo-x-fold-2-by-fonelab-android-recover-photos/"><u>Complete guide for recovering photos files on Vivo X Fold 2.</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/comprehensive-acid-pro-evaluation-and-alternative-software/"><u>Comprehensive ACID Pro Evaluation & Alternative Software</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/discover-which-prebuilt-desktop-for-gamers-matches-your-needs-best/"><u>Discover Which Prebuilt Desktop for Gamers Matches Your Needs Best</u></a></li>
+<li><a href="https://win-hot.techidaily.com/dont-ignore-the-deadline-prepare-for-end-of-life-on-windows-11-versions-21h2-and-22h2-now-zdnet/"><u>Don't Ignore the Deadline: Prepare for End of Life on Windows 11 Versions 21H2 and 22H2 Now | ZDNet</u></a></li>
+<li><a href="https://win-hot.techidaily.com/enhancing-microsoft-edge-security-expert-strategies-revealed-on-zdnet/"><u>Enhancing Microsoft Edge Security: Expert Strategies Revealed on ZDNet</u></a></li>
+<li><a href="https://win-hot.techidaily.com/extended-lifespan-and-enhanced-security-paying-for-continued-microsoft-windows-n-10-maintenance/"><u>Extended Lifespan and Enhanced Security: Paying for Continued Microsoft Windows N 10 Maintenance</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/hitting-the-high-score-in-ps4-game-capture-mastery-for-2024/"><u>Hitting the High Score in PS4 Game Capture Mastery for 2024</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-asus-rog-phone-7-ultimate-drfone-by-drfone-virtual/"><u>In 2024, 9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Asus ROG Phone 7 Ultimate | Dr.fone</u></a></li>
+<li><a href="https://win-hot.techidaily.com/leading-mini-desktops-and-nodes-of-2pacy-ranked-by-tech-gurus-your-comprehensive-guide-to-2024s-compact-powerhouses/"><u>Leading Mini Desktops and Nodes of 2Pacy, Ranked by Tech Gurus: Your Comprehensive Guide to 2024'S Compact Powerhouses</u></a></li>
+<li><a href="https://win-hot.techidaily.com/maximizing-productivity-expert-analysis-of-the-innocn-ultrawide-40c1r-monitor-at-144hz/"><u>Maximizing Productivity: Expert Analysis of the Innocn Ultrawide 40C1R Monitor at 144Hz</u></a></li>
+<li><a href="https://win-hot.techidaily.com/maximizing-productivity-how-using-various-os-boosts-my-work-efficiency-insights-from-a-tech-enthusiast/"><u>Maximizing Productivity: How Using Various OS Boosts My Work Efficiency - Insights From a Tech Enthusiast</u></a></li>
+<li><a href="https://win-hot.techidaily.com/new-survey-reveals-windows-11-takes-the-lead-over-windows-amo-in-pc-gamers-choice-insights-from-zdnet/"><u>New Survey Reveals Windows 11 Takes the Lead Over Windows Amo in PC Gamers' Choice | Insights From ZDNet</u></a></li>
+<li><a href="https://win-hot.techidaily.com/next-year-prepare-to-pay-for-windows-11-updates-what-you-need-to-know-about-microsofts-latest-move-zdnet/"><u>Next Year, Prepare to Pay for Windows 11 Updates: What You Need to Know About Microsoft's Latest Move | ZDNet</u></a></li>
+<li><a href="https://win-hot.techidaily.com/persistent-security-flaws-in-windows-os-highlighted-by-latest-analysis-zdnet/"><u>Persistent Security Flaws in Windows OS Highlighted by Latest Analysis - ZDNet</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/quick-setup-for-new-intel-nvme-driver-downloads-user-friendly-tips-and-tricks/"><u>Quick Setup for New Intel NVMe Driver Downloads | User-Friendly Tips & Tricks</u></a></li>
 </ul></div>
 

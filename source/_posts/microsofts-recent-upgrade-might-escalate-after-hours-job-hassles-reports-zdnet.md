@@ -1,7 +1,7 @@
 ---
 title: Microsoft's Recent Upgrade Might Escalate After-Hours Job Hassles, Reports ZDNET
-date: 2024-09-22T16:56:49.908Z
-updated: 2024-09-25T19:50:13.952Z
+date: 2024-09-25T01:39:26.951Z
+updated: 2024-09-29T19:04:24.821Z
 tags:
   - microsoft
 categories:
@@ -54,10 +54,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100527/7443" target="_top" id="2100527">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1521325/16446" target="_top" id="1521325">
+  <img src="//a.impactradius-go.com/display-ad/16446-1521325" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100527/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1521325/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -69,6 +69,13 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -91,10 +98,10 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896527/19272" target="_top" id="1896527">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896527" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148640/16836" target="_top" id="2148640">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148640" border="0" alt="https://techidaily.com" width="234" height="60"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896527/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148640/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
@@ -130,10 +137,16 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1630055">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -141,13 +154,6 @@ I'd only go with an ESU, myself, if I _really_ had no other choice.
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
 
@@ -196,20 +202,24 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-videos.techidaily.com/new-behind-the-screen-a-strategic-approach-for-secret-youtube-videos/"><u>[New] Behind the Screen A Strategic Approach for Secret YouTube Videos</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-connecting-twitters-vids-with-fb-audience/"><u>[Updated] 2024 Approved Connecting Twitter's Vids with FB Audience</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-high-definition-vision-recorder-devices/"><u>[Updated] High Definition Vision Recorder Devices</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-amplify-content-reach-essential-strategies-to-skyrocket-views/"><u>[Updated] In 2024, Amplify Content Reach Essential Strategies to Skyrocket Views</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-mastering-tiktok-step-by-step-caption-techniques/"><u>[Updated] Mastering TikTok Step-by-Step Caption Techniques</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-expert-pathway-for-webp-to-jpg-transformation/"><u>2024 Approved Expert Pathway for WebP-to-JPG Transformation</u></a></li>
-<li><a href="https://win-hot.techidaily.com/batch-renaming-multiple-files-efficiently-on-windows-using-powerrename-a-step-by-step-guide/"><u>Batch Renaming Multiple Files Efficiently on Windows Using PowerRename: A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-hot.techidaily.com/dont-ignore-the-deadline-prepare-for-end-of-life-on-windows-11-versions-21h2-and-22h2-now-zdnet/"><u>Don't Ignore the Deadline: Prepare for End of Life on Windows 11 Versions 21H2 and 22H2 Now | ZDNet</u></a></li>
-<li><a href="https://win-hot.techidaily.com/enhancing-microsoft-edge-security-expert-strategies-revealed-on-zdnet/"><u>Enhancing Microsoft Edge Security: Expert Strategies Revealed on ZDNet</u></a></li>
-<li><a href="https://win-hot.techidaily.com/extended-lifespan-and-enhanced-security-paying-for-continued-microsoft-windows-n-10-maintenance/"><u>Extended Lifespan and Enhanced Security: Paying for Continued Microsoft Windows N 10 Maintenance</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/facebooks-flash-video-frenzy/"><u>Facebook's Flash Video Frenzy</u></a></li>
-<li><a href="https://win-hot.techidaily.com/leading-mini-desktops-and-nodes-of-2pacy-ranked-by-tech-gurus-your-comprehensive-guide-to-2024s-compact-powerhouses/"><u>Leading Mini Desktops and Nodes of 2Pacy, Ranked by Tech Gurus: Your Comprehensive Guide to 2024'S Compact Powerhouses</u></a></li>
-<li><a href="https://win-hot.techidaily.com/maximizing-productivity-expert-analysis-of-the-innocn-ultrawide-40c1r-monitor-at-144hz/"><u>Maximizing Productivity: Expert Analysis of the Innocn Ultrawide 40C1R Monitor at 144Hz</u></a></li>
-<li><a href="https://win-hot.techidaily.com/maximizing-productivity-how-using-various-os-boosts-my-work-efficiency-insights-from-a-tech-enthusiast/"><u>Maximizing Productivity: How Using Various OS Boosts My Work Efficiency - Insights From a Tech Enthusiast</u></a></li>
-<li><a href="https://media-tips.techidaily.com/portable-style-meets-cutting-edge-technology-discover-lgs-latest-compact-4k-projector/"><u>Portable Style Meets Cutting-Edge Technology: Discover LG's Latest Compact 4K Projector</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-capturing-the-moment-a-practical-guide-to-google-meetings-screen-recordings/"><u>[New] 2024 Approved Capturing the Moment A Practical Guide to GooGle Meetings' Screen Recordings</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-enhance-social-gaming-on-xbox-using-zoom-for-2024/"><u>[New] Enhance Social Gaming on Xbox Using Zoom for 2024</u></a></li>
+<li><a href="https://win-hot.techidaily.com/25-microsoft-office-2019-licenses-available-for-pc-and-mac-buy-online-now/"><u>$25 Microsoft Office 2019 Licenses Available for PC and Mac - Buy Online Now</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/3-easy-ways-to-factory-reset-a-locked-apple-iphone-11-pro-without-itunes-by-drfone-ios/"><u>3 Easy Ways to Factory Reset a Locked Apple iPhone 11 Pro Without iTunes</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-techniques-to-transfer-data-from-poco-f5-pro-5g-to-iphone-15141312-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Techniques to Transfer Data from Poco F5 Pro 5G to iPhone 15/14/13/12 | Dr.fone</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/building-your-youtube-empire-kit-overview-for-2024/"><u>Building Your YouTube Empire Kit Overview for 2024</u></a></li>
+<li><a href="https://win-hot.techidaily.com/decoding-surface-pro-options-arm-or-intel-core-dilemma-explained-deep-dive-with-zdnet/"><u>Decoding Surface Pro Options: ARM or Intel Core Dilemma Explained | Deep Dive with ZDNet</u></a></li>
+<li><a href="https://win-hot.techidaily.com/enhanced-usability-on-windows-11-strategies-to-refine-and-streamline-your-taskbar/"><u>Enhanced Usability on Windows 11: Strategies to Refine and Streamline Your Taskbar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/find-out-which-dvd-to-mp4-upgrader-is-supreme-in-202n4-for-pc-users-of-windows-1011/"><u>Find Out Which DVD to MP4 Upgrader Is Supreme in 202N4 for PC Users of Windows 10/11</u></a></li>
+<li><a href="https://win-hot.techidaily.com/get-your-hands-on-microsoft-office-2019-at-only-25-compatible-with-windows-and-mac-discover-the-secrets-here/"><u>Get Your Hands on Microsoft Office 2019 at Only $25 - Compatible with Windows & Mac! Discover the Secrets Here</u></a></li>
+<li><a href="https://win-hot.techidaily.com/googles-dominance-and-its-impact-on-modern-pc-usage-insights-from-zdnet/"><u>Google's Dominance and Its Impact on Modern PC Usage – Insights From ZDNet</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/gratis-emulation-software-for-nintendo-switch-for-2024/"><u>Gratis Emulation Software for Nintendo Switch for 2024</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-5-best-route-generator-apps-you-should-try-on-apple-iphone-15-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, 5 Best Route Generator Apps You Should Try On Apple iPhone 15 Pro | Dr.fone</u></a></li>
+<li><a href="https://win-hot.techidaily.com/microsoft-and-samsungs-potential-breakthrough-in-mainstreaming-cloud-gaming-an-insight-by-zdnet/"><u>Microsoft & Samsung's Potential Breakthrough in Mainstreaming Cloud Gaming: An Insight by ZDNet</u></a></li>
+<li><a href="https://win-blog.techidaily.com/pc-issues-and-fixes-resolving-necromunda-hired-gun-continuous-crashes/"><u>PC Issues & Fixes: Resolving 'Necromunda: Hired Gun' Continuous Crashes</u></a></li>
+<li><a href="https://win-hot.techidaily.com/resolving-post-april-windows-update-vpn-issues-the-complete-guide/"><u>Resolving Post-April Windows Update VPN Issues - The Complete Guide</u></a></li>
+<li><a href="https://win-hot.techidaily.com/securing-your-dream-job-in-technology-a-guide-to-joining-the-team-at-microsoft/"><u>Securing Your Dream Job in Technology: A Guide to Joining the Team at Microsoft</u></a></li>
+<li><a href="https://win-dash.techidaily.com/top-generic-bluetooth-connectivity-drivers-new-release-compatible-with-windows/"><u>Top Generic Bluetooth Connectivity Drivers – New Release | Compatible with Windows</u></a></li>
+<li><a href="https://win-hot.techidaily.com/unraveling-the-web-googles-impact-on-modern-desktop-experiences/"><u>Unraveling the Web: Google's Impact on Modern Desktop Experiences</u></a></li>
 </ul></div>
 

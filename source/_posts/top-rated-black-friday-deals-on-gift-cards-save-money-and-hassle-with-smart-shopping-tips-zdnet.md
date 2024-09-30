@@ -1,7 +1,7 @@
 ---
 title: "Top-Rated Black Friday Deals on Gift Cards: Save Money and Hassle with Smart Shopping Tips | ZDNet"
-date: 2024-09-20T22:02:37.072Z
-updated: 2024-09-25T20:21:57.186Z
+date: 2024-09-25T22:11:09.856Z
+updated: 2024-09-29T16:53:17.441Z
 tags:
   - microsoft
 categories:
@@ -54,10 +54,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111994/7443" target="_top" id="2111994">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111994" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2080312/19272" target="_top" id="2080312">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080312" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111994/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080312/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -69,6 +69,13 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043856/7443" target="_top" id="2043856">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043856" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043856/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -89,6 +96,13 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148644/16836" target="_top" id="2148644">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148644" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148644/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -123,10 +137,10 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144309/7443" target="_top" id="2144309">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144309" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144309/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -135,29 +149,9 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
-<!-- affiliate ads begin -->
-<span id="1977032">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -202,22 +196,22 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-video-recordings.techidaily.com/new-where-to-buy-tiktok-followers-safe-and-secure-for-2024/"><u>[New] Where to Buy TikTok Followers [Safe and Secure] for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-discreet-insta-story-enthusiasts-best-5-tools/"><u>[Updated] In 2024, Discreet Insta-Story Enthusiast's Best 5 Tools</u></a></li>
-<li><a href="https://howto.techidaily.com/11-ways-to-fix-it-when-my-xiaomi-redmi-k70e-wont-charge-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Ways to Fix it When My Xiaomi Redmi K70E Wont Charge | Dr.fone</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-designing-instagrams-ideal-square-video-with-imovie/"><u>2024 Approved Designing Instagram's Ideal Square Video with iMovie</u></a></li>
-<li><a href="https://win-hot.techidaily.com/iuwlleeuuplusocsplusodsplusodhuodsplusodhoobppluswkueaenoeahoobquwrvewqjeajiplusazlsa6ioipsplusoblplusobhoocroocpoodisi/"><u>動画コンテンツで効果的な命名手法 : 詳しいガイド</u></a></li>
-<li><a href="https://location-social.techidaily.com/does-find-my-friends-work-on-realme-11-5g-drfone-by-drfone-virtual-android/"><u>Does find my friends work on Realme 11 5G | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/download-anytime-anythnough-how-to-get-past-or-latest-itunes-versions-for-pcs-and-apple-devices-without-paying-a-dime/"><u>Download Anytime, Anythnough: How to Get Past or Latest iTunes Versions for PCs and Apple Devices Without Paying a Dime</u></a></li>
-<li><a href="https://win-hot.techidaily.com/download-your-favorite-animes-for-free-the-ultimate-guide-to-top-torrents/"><u>Download Your Favorite Animes for Free: The Ultimate Guide to Top Torrents</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/easy-conversion-techniques-for-upgrading-your-music-collection-from-cda-to-lossless-flac-files/"><u>Easy Conversion Techniques for Upgrading Your Music Collection From CDA to Lossless FLAC Files</u></a></li>
-<li><a href="https://win-hot.techidaily.com/jpegmp4/"><u>JPEG動画ファイルの効率的なMP4変換手順：詳しく解説</u></a></li>
-<li><a href="https://win-hot.techidaily.com/1726029613466-p90x-dvd/"><u>P90X DVDコピー技術：高度なフィットネスに勝利しよう!</u></a></li>
-<li><a href="https://win-hot.techidaily.com/step-by-step-guide-for-hd-dvd-ripping-and-converting-to-wmv-using-windows-tools/"><u>Step-by-Step Guide for HD DVD Ripping and Converting to WMV Using Windows Tools</u></a></li>
-<li><a href="https://games-able.techidaily.com/streams-money-back-promise-executing-a-perfect-refund/"><u>Stream's Money-Back Promise: Executing a Perfect Refund</u></a></li>
-<li><a href="https://win-hot.techidaily.com/ultimate-tutorial-easily-changing-mov-videos-to-compatible-3gp-files-with-online-tools-and-software/"><u>Ultimate Tutorial: Easily Changing MOV Videos to Compatible ^3Gp Files with Online Tools and Software</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/ultralive-cam-professional-video-streaming-and-remote-webcam-solutions/"><u>UltraLive Cam: Professional Video Streaming & Remote Webcam Solutions</u></a></li>
-<li><a href="https://win-hot.techidaily.com/44kq44oz44oh44oe44oz44oj44gn44ot44oh44kq44go44kq44o844oh44kj44kq44kz44oz44og44oz44oe44gu44k544og44o844k644gq5yan55sf44ks5a6f54plusplus/"><u>オンデマンドでビデオとオーディオコンテンツのスムーズな再生を実現</u></a></li>
-<li><a href="https://win-hot.techidaily.com/44op44k444kq55wq57we44gu5pmc6zat54sh5yi26zmq6yyy6zplusz5pa55rov77ya5bcc55so44k944ov44oi44km44kn44ki44o744ki44ox44oq44kx44o844k344on44oz44ks44gu5qsc6kio44gp482/"><u>ラジオ番組の時間無制限録音方法：専用ソフトウェア・アプリケーションをご検討ください</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-the-insiders-guide-to-snapchats-spotlight-feature/"><u>[New] In 2024, The Insider's Guide to Snapchat's Spotlight Feature</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-tiktokplusinstagram-social-media-fusion-guide/"><u>[New] TikTok+Instagram Social Media Fusion Guide</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-mastering-the-art-of-valheim-gardening/"><u>2024 Approved Mastering the Art of Valheim Gardening</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/enhance-your-livestreams-with-manycam-the-leading-choice-for-virtual-webcams-and-video-editing-tools/"><u>Enhance Your Livestreams with ManyCam - The Leading Choice for Virtual Webcams and Video Editing Tools</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/how-i-eliminated-back-pain-from-extended-gameplay-marathons/"><u>How I Eliminated Back Pain From Extended Gameplay Marathons</u></a></li>
+<li><a href="https://win-hot.techidaily.com/maximizing-productivity-how-using-various-os-boosts-my-work-efficiency-insights-from-a-tech-enthusiast/"><u>Maximizing Productivity: How Using Various OS Boosts My Work Efficiency - Insights From a Tech Enthusiast</u></a></li>
+<li><a href="https://win-hot.techidaily.com/new-survey-reveals-windows-11-takes-the-lead-over-windows-amo-in-pc-gamers-choice-insights-from-zdnet/"><u>New Survey Reveals Windows 11 Takes the Lead Over Windows Amo in PC Gamers' Choice | Insights From ZDNet</u></a></li>
+<li><a href="https://win-hot.techidaily.com/next-year-prepare-to-pay-for-windows-11-updates-what-you-need-to-know-about-microsofts-latest-move-zdnet/"><u>Next Year, Prepare to Pay for Windows 11 Updates: What You Need to Know About Microsoft's Latest Move | ZDNet</u></a></li>
+<li><a href="https://win-hot.techidaily.com/persistent-security-flaws-in-windows-os-highlighted-by-latest-analysis-zdnet/"><u>Persistent Security Flaws in Windows OS Highlighted by Latest Analysis - ZDNet</u></a></li>
+<li><a href="https://win-hot.techidaily.com/planning-ahead-for-windows-10-enhancements-the-price-youll-pay-to-stay-updated-next-year-zdnet-insights/"><u>Planning Ahead for Windows 10 Enhancements: The Price You'll Pay to Stay Updated Next Year | ZDNET Insights</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/secrets-of-the-social-elite-6-actionable-tips-for-growing-instagram-followers-for-2024/"><u>Secrets of the Social Elite 6 Actionable Tips for Growing Instagram Followers for 2024</u></a></li>
+<li><a href="https://win-hot.techidaily.com/simplifying-cross-device-sharing-mastering-the-use-of-google-quick-share-for-windows-and-android-integration-digital-guide/"><u>Simplifying Cross-Device Sharing: Mastering the Use of Google Quick Share for Windows and Android Integration - Digital Guide</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-drone-racers-companion-basics-to-aces-and-top-5-fpv-brands-for-2024/"><u>The Drone Racer's Companion Basics to Aces and Top 5 FPV Brands for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-ultimate-comparison-chatbot-face-off-between-gpt-and-huggingchat/"><u>The Ultimate Comparison: Chatbot Face-Off Between GPT & HuggingChat</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshoot-and-resolve-silent-mic-issues-with-steelseries-arctis-5-guide/"><u>Troubleshoot and Resolve Silent Mic Issues with SteelSeries Arctis 5 [GUIDE]</u></a></li>
+<li><a href="https://win-hot.techidaily.com/understanding-the-role-of-tpm-in-securing-windows-11-a-detailed-guide/"><u>Understanding the Role of TPM in Securing Windows 11: A Detailed Guide</u></a></li>
+<li><a href="https://win-hot.techidaily.com/unveiling-excellence-the-macbook-pro-with-m1-pro-chip-delivers-outstanding-windows-1nnovation-reviewed-by-zdnet/"><u>Unveiling Excellence: The MacBook Pro with M1 Pro Chip Delivers Outstanding Windows 1Nnovation, Reviewed by ZDNet</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Misconception Debunked: Microsoft Continues Support for Windows Control Panel - ZDNet Report"
-date: 2024-09-20T19:16:14.283Z
-updated: 2024-09-25T21:36:21.559Z
+date: 2024-09-24T02:15:07.342Z
+updated: 2024-09-29T17:28:42.587Z
 tags:
   - microsoft
 categories:
@@ -54,10 +54,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868571/19272" target="_top" id="1868571">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868571" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144271/7443" target="_top" id="2144271">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144271" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868571/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144271/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -69,13 +69,6 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/1062450/7443" target="_top" id="1062450">
-  <img src="//a.impactradius-go.com/display-ad/7443-1062450" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062450/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -98,10 +91,10 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148649/16836" target="_top" id="2148649">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148649" border="0" alt="https://techidaily.com" width="720" height="90"/>
+<a href="https://homestyler.sjv.io/c/5597632/1943750/22993" target="_top" id="1943750">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943750" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148649/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943750/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
@@ -136,22 +129,29 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047406/19272" target="_top" id="2047406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047406" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/1943647/22993" target="_top" id="1943647">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943647" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094480/7443" target="_top" id="2094480">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094480" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094480/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -196,22 +196,24 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-streamline-your-workflow-with-aiseesoft-recording-tools/"><u>[New] 2024 Approved Streamline Your Workflow with Aiseesoft Recording Tools</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-in-2024-vivacut-review-unpacking-the-latest-editing-advancements/"><u>[New] In 2024, VivaCut Review Unpacking the Latest Editing Advancements</u></a></li>
-<li><a href="https://win-hot.techidaily.com/1-easy-guide-setting-up-your-professional-email-signature-on-microsoft-outlook-tips-and-tricks/"><u>1. 'Easy Guide: Setting Up Your Professional Email Signature on Microsoft Outlook - Tips & Tricks'</u></a></li>
-<li><a href="https://win-hot.techidaily.com/beware-recent-microsoft-enhancements-might-intensify-professional-burnout-during-evenings-analysis-by-zdnet/"><u>Beware! Recent Microsoft Enhancements Might Intensify Professional Burnout During Evenings – Analysis by ZDNet</u></a></li>
-<li><a href="https://win-hot.techidaily.com/beyond-debloating-effective-techniques-for-optimizing-windows-performance-according-to-zdnet/"><u>Beyond Debloating: Effective Techniques for Optimizing Windows Performance, According to ZDNet</u></a></li>
-<li><a href="https://location-social.techidaily.com/change-location-on-yik-yak-for-your-vivo-v29e-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>Change Location on Yik Yak For your Vivo V29e to Enjoy More Fun | Dr.fone</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/constructing-imagery-wonders-with-montages/"><u>Constructing Imagery Wonders with Montages</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-instant-access-to-reliable-windows-10-usb-c-support-and-download-tools/"><u>Get Instant Access to Reliable Windows 10 USB-C Support and Download Tools</u></a></li>
-<li><a href="https://win-hot.techidaily.com/get-ready-microsoft-announces-paid-windows-10-update-model-starting-next-year-estimated-cost-breakdown/"><u>Get Ready: Microsoft Announces Paid Windows 10 Update Model Starting Next Year - Estimated Cost Breakdown</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-audio-craftsmanship-weaving-voiceovers-into-visual-tapestries/"><u>In 2024, Audio Craftsmanship Weaving Voiceovers Into Visual Tapestries</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-full-guide-on-mirroring-your-xiaomi-civi-3-disney-100th-anniversary-edition-to-your-pcmac-drfone-by-drfone-android/"><u>In 2024, Full Guide on Mirroring Your Xiaomi Civi 3 Disney 100th Anniversary Edition to Your PC/Mac | Dr.fone</u></a></li>
-<li><a href="https://win-forum.techidaily.com/mastering-admin-access-consistently-launching-apps-with-elevated-privileges-on-windows-11/"><u>Mastering Admin Access: Consistently Launching Apps with Elevated Privileges on Windows 11</u></a></li>
-<li><a href="https://win-hot.techidaily.com/microsofts-urgent-challenge-resolving-the-windows-11-dilemma-within-a-year-tech-news-by-zdnet/"><u>Microsoft's Urgent Challenge: Resolving the Windows 11 Dilemma Within a Year | Tech News by ZDNet</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/overcoming-audio-driver-glitches-with-your-dell-computer-on-windows/"><u>Overcoming Audio Driver Glitches with Your Dell Computer on Windows</u></a></li>
-<li><a href="https://win-hot.techidaily.com/revamp-your-typing-experience-with-microsofts-powertoys-master-key-mapping/"><u>Revamp Your Typing Experience with Microsoft's PowerToys - Master Key Mapping</u></a></li>
-<li><a href="https://win-hot.techidaily.com/ultimate-tutorial-easily-changing-mov-videos-to-compatible-3gp-files-with-online-tools-and-software/"><u>Ultimate Tutorial: Easily Changing MOV Videos to Compatible ^3Gp Files with Online Tools and Software</u></a></li>
-<li><a href="https://win-hot.techidaily.com/why-microsofts-revamped-windows-copilot-app-will-delight-users-according-to-zdnet-insights/"><u>Why Microsoft's Revamped Windows Copilot App Will Delight Users, According to ZDNet Insights</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-listeners-lens-sound-study/"><u>[New] 2024 Approved Listener's Lens Sound Study</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-transform-your-recording-experience-moving-past-fbx-methods-for-2024/"><u>[New] Transform Your Recording Experience Moving Past FBX Methods for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-discover-the-best-insta-grid-creators-our-leading-ten-picks-for-2024/"><u>[Updated] Discover the Best Insta Grid Creators Our Leading Ten Picks for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-top-sites-for-digital-metallic-text-with-a-golden-twist/"><u>[Updated] Top Sites for Digital Metallic Text with a Golden Twist</u></a></li>
+<li><a href="https://win-hot.techidaily.com/mp4srt/"><u>最適な技術：絶えざる品質保持のためのMP4動画とSRT字幕のシームレス統合</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/amd-to-revolutionize-mobile-computing-zen-5-chip-brings-desktops-115w-strength-in-a-portable-package-teased-by-the-mighty-ryzen-strix-halo-with-16-cores-and80/"><u>AMD to Revolutionize Mobile Computing: Zen 5 Chip Brings Desktop's 115W Strength in a Portable Package, Teased by the Mighty Ryzen Strix Halo with 16 Cores & RDNA iGPU</u></a></li>
+<li><a href="https://win-hot.techidaily.com/extending-your-instagram-videos-a-step-by-step-guide/"><u>Extending Your Instagram Videos: A Step-by-Step Guide</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/full-guide-to-unlock-your-realme-note-50-by-drfone-android/"><u>Full Guide to Unlock Your Realme Note 50</u></a></li>
+<li><a href="https://win-hot.techidaily.com/how-to-convert-and-enjoy-dvd-folders-as-mp4-videos-a-guide-with-three-straightforward-techniques/"><u>How to Convert and Enjoy DVD Folders as MP4 Videos: A Guide with Three Straightforward Techniques</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-messages-files-from-honor-by-fonelab-android-recover-messages/"><u>How To Restore Missing Messages Files from Honor</u></a></li>
+<li><a href="https://driver-error.techidaily.com/hp-wireless-keyboard-malfunction-heres-what-you-need-to-know/"><u>HP Wireless Keyboard Malfunction? Here's What You Need to Know</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-top-10-fingerprint-lock-apps-to-lock-your-xiaomi-redmi-k70-phone-by-drfone-android/"><u>In 2024, Top 10 Fingerprint Lock Apps to Lock Your Xiaomi Redmi K70 Phone</u></a></li>
+<li><a href="https://win-hot.techidaily.com/mastering-the-controls-essential-techniques-for-optimizing-output-configuration-settings/"><u>Mastering the Controls: Essential Techniques for Optimizing Output Configuration Settings</u></a></li>
+<li><a href="https://win-hot.techidaily.com/pcyoutube4k/"><u>PC向けにYouTubeから安全に4Kビデオダウンロードガイド</u></a></li>
+<li><a href="https://win-hot.techidaily.com/quick-and-easy-guide-transforming-mov-videos-into-avi-with-minimal-hitches/"><u>Quick and Easy Guide: Transforming MOV Videos Into AVI with Minimal Hitches</u></a></li>
+<li><a href="https://win-hot.techidaily.com/seamless-conversion-of-videos-and-dvds-into-avi-format-with-handbrake/"><u>Seamless Conversion of Videos & DVDs Into AVI Format with HandBrake</u></a></li>
+<li><a href="https://win-hot.techidaily.com/step-by-step-guide-to-transforming-pal-format-dvds-into-ntsc/"><u>Step-by-Step Guide to Transforming PAL Format DVDs Into NTSC</u></a></li>
+<li><a href="https://win-hot.techidaily.com/step-by-step-guide-removing-a-dvds-regional-lock/"><u>Step-by-Step Guide: Removing a DVD's Regional Lock</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/troubleshooting-microsoft-teams-microphone-problems-on-windows-1110-devices/"><u>Troubleshooting Microsoft Teams Microphone Problems on Windows 11/10 Devices</u></a></li>
 </ul></div>
 

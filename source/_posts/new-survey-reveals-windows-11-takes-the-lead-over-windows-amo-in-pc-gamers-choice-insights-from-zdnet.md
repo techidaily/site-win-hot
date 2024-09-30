@@ -1,7 +1,7 @@
 ---
 title: New Survey Reveals Windows 11 Takes the Lead Over Windows Amo in PC Gamers' Choice | Insights From ZDNet
-date: 2024-09-24T19:27:50.342Z
-updated: 2024-09-25T21:16:19.420Z
+date: 2024-09-22T23:32:53.877Z
+updated: 2024-09-30T03:29:34.918Z
 tags:
   - windows
 categories:
@@ -44,10 +44,16 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982570">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -85,10 +91,10 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918698/19272" target="_top" id="1918698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918698" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918698/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -106,10 +112,10 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068417/7443" target="_top" id="2068417">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068417" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068417/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -181,21 +187,24 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/updated-in-2024-building-a-competitive-advantage-through-in-depth-industry-analysis/"><u>[Updated] In 2024, Building a Competitive Advantage Through In-Depth Industry Analysis</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-reconnecting-sound-tracks-to-obs-broadcasts/"><u>[Updated] Reconnecting Sound Tracks to OBS Broadcasts</u></a></li>
-<li><a href="https://win-hot.techidaily.com/25-microsoft-office-2019-licenses-available-for-pc-and-mac-buy-online-now/"><u>$25 Microsoft Office 2019 Licenses Available for PC and Mac - Buy Online Now</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/4-ways-to-sync-contacts-from-apple-iphone-12-to-ipad-easily-drfone-by-drfone-transfer-from-ios/"><u>4 Ways to Sync Contacts from Apple iPhone 12 to iPad Easily | Dr.fone</u></a></li>
-<li><a href="https://win-hot.techidaily.com/decoding-surface-pro-options-arm-or-intel-core-dilemma-explained-deep-dive-with-zdnet/"><u>Decoding Surface Pro Options: ARM or Intel Core Dilemma Explained | Deep Dive with ZDNet</u></a></li>
-<li><a href="https://win-hot.techidaily.com/enhanced-usability-on-windows-11-strategies-to-refine-and-streamline-your-taskbar/"><u>Enhanced Usability on Windows 11: Strategies to Refine and Streamline Your Taskbar</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/expert-analysis-of-kensuns-travel-ready-tire-inflator-robust-performance-in-a-compact-design/"><u>Expert Analysis of Kensun's Travel-Ready Tire Inflator: Robust Performance in a Compact Design</u></a></li>
-<li><a href="https://win-hot.techidaily.com/future-of-windows-control-panel-secure-as-microsoft-confirms-continuation-post-rumors-according-to-zdnet-analysis/"><u>Future of Windows Control Panel Secure as Microsoft Confirms Continuation Post Rumors, According to ZDNet Analysis</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-reset-your-honor-magic-6-lite-lock-screen-password-by-drfone-android/"><u>In 2024, How to Reset your Honor Magic 6 Lite Lock Screen Password</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/onlinereconvertor-movavi-zonder-kostes-vervangen-van-flac-naar-mpeg-gratis-bepaalde-stappen/"><u>Onlinereconvertor Movavi: Zonder Kostes Vervangen Van FLAC Naar MPEG - Gratis Bepaalde Stappen</u></a></li>
-<li><a href="https://change-location.techidaily.com/pokemon-go-no-gps-signal-heres-every-possible-solution-on-xiaomi-13-ultra-drfone-by-drfone-virtual-android/"><u>Pokemon Go No GPS Signal? Heres Every Possible Solution On Xiaomi 13 Ultra | Dr.fone</u></a></li>
-<li><a href="https://win-hot.techidaily.com/resolving-post-april-windows-update-vpn-issues-the-complete-guide/"><u>Resolving Post-April Windows Update VPN Issues - The Complete Guide</u></a></li>
-<li><a href="https://win-hot.techidaily.com/securing-your-dream-job-in-technology-a-guide-to-joining-the-team-at-microsoft/"><u>Securing Your Dream Job in Technology: A Guide to Joining the Team at Microsoft</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/solving-the-d3dx934dll-file-doesnt-exist-mishap/"><u>Solving the d3dx9_34.dll File Doesn't Exist Mishap</u></a></li>
-<li><a href="https://video-capture.techidaily.com/streamlining-your-iphone-memo-experience-for-2024/"><u>Streamlining Your iPhone Memo Experience for 2024</u></a></li>
-<li><a href="https://win-hot.techidaily.com/unraveling-the-web-googles-impact-on-modern-desktop-experiences/"><u>Unraveling the Web: Google's Impact on Modern Desktop Experiences</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-crafting-powerful-instagram-content-top-strategies-for-video-marketing/"><u>[New] 2024 Approved Crafting Powerful Instagram Content Top Strategies for Video Marketing</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-elite-uploader-mp4-files-directly-for-fb/"><u>[New] 2024 Approved Elite Uploader MP4 Files Directly for FB</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-immersive-virtue-verse-selection-for-ar-vr-worlds-for-2024/"><u>[New] Immersive Virtue Verse Selection for AR-VR Worlds for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-essential-8-platforms-for-private-screenings/"><u>[New] In 2024, Essential 8 Platforms for Private Screenings</u></a></li>
+<li><a href="https://win-hot.techidaily.com/44cm6auy5zob6loq44gq44k944ov44oi44km44kn44ki44ks5a6j5ywo44gr5aoy44kl44k144kk44oi44cn/"><u>「高品質なソフトウェアを安全に売るサイト」</u></a></li>
+<li><a href="https://win-hot.techidaily.com/5yuv55s75ps56imv77ya44k544oe44o844oi44gn6lu944ke44gl44gq44ki44k544oa44kv44oi5qplusu5asj5oplusb5oml6acg/"><u>動画改良：スマートで軽やかなアスペクト比変換手順</u></a></li>
+<li><a href="https://win-hot.techidaily.com/dm/"><u>様々なデバイスからツイッターの個人的DM動画を保存する完全解析</u></a></li>
+<li><a href="https://win-hot.techidaily.com/avi2/"><u>AVI形式へのビデオ変換手順：効果的な2つの方法</u></a></li>
+<li><a href="https://win-hot.techidaily.com/batch-converting-videos-efficiently-a-step-by-step-guide-with-handbrake/"><u>Batch Converting Videos Efficiently: A Step-by-Step Guide with Handbrake</u></a></li>
+<li><a href="https://win-hot.techidaily.com/essential-specifications-for-tweets-a-guide-to-optimizing-your-video-content-on-twitter/"><u>Essential Specifications for Tweets: A Guide to Optimizing Your Video Content on Twitter</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/expert-advice-how-to-permanently-remove-pictures-from-facebook/"><u>Expert Advice: How to Permanently Remove Pictures From Facebook</u></a></li>
+<li><a href="https://win-hot.techidaily.com/extending-your-instagram-videos-a-step-by-step-guide/"><u>Extending Your Instagram Videos: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-hot.techidaily.com/how-to-convert-and-enjoy-dvd-folders-as-mp4-videos-a-guide-with-three-straightforward-techniques/"><u>How to Convert and Enjoy DVD Folders as MP4 Videos: A Guide with Three Straightforward Techniques</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-spy-on-text-messages-from-computer-and-motorola-moto-g34-5g-drfone-by-drfone-virtual-android/"><u>How to Spy on Text Messages from Computer & Motorola Moto G34 5G | Dr.fone</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-key-components-to-successful-ad-textual-content-creation/"><u>In 2024, Key Components to Successful Ad Textual Content Creation</u></a></li>
+<li><a href="https://win-hot.techidaily.com/mastering-the-controls-essential-techniques-for-optimizing-output-configuration-settings/"><u>Mastering the Controls: Essential Techniques for Optimizing Output Configuration Settings</u></a></li>
+<li><a href="https://windows11.techidaily.com/resolving-unfunctional-enter-key-in-windows-os/"><u>Resolving Unfunctional Enter Key in Windows OS</u></a></li>
+<li><a href="https://win-great.techidaily.com/step-by-step-tutorial-for-adding-functional-links-to-text-and-imagery-within-flipbuilders-digital-books/"><u>Step-by-Step Tutorial for Adding Functional Links to Text & Imagery Within FlipBuilder's Digital Books</u></a></li>
+<li><a href="https://win11.techidaily.com/tutorial-restoring-original-input-layout-on-windows-11-pcs/"><u>Tutorial: Restoring Original Input Layout on Windows 11 PCs</u></a></li>
 </ul></div>
 
