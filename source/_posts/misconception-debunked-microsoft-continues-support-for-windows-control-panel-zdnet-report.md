@@ -1,7 +1,7 @@
 ---
 title: "Misconception Debunked: Microsoft Continues Support for Windows Control Panel - ZDNet Report"
-date: 2024-09-24T02:15:07.342Z
-updated: 2024-09-29T17:28:42.587Z
+date: 2024-10-02T19:40:41.499Z
+updated: 2024-10-05T20:17:59.693Z
 tags:
   - microsoft
 categories:
@@ -53,13 +53,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144271/7443" target="_top" id="2144271">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144271" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144271/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -91,10 +84,10 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
 
 <!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943750/22993" target="_top" id="1943750">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943750" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/1001453/11832" target="_top" id="1001453">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001453" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943750/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001453/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
@@ -130,10 +123,16 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047406/19272" target="_top" id="2047406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047406" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983588">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -143,15 +142,28 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
 <!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943647/22993" target="_top" id="1943647">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943647" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151883/7443" target="_top" id="2151883">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151883" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151883/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
+
+<!-- affiliate ads begin -->
+<span id="1982485">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -196,24 +208,24 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-listeners-lens-sound-study/"><u>[New] 2024 Approved Listener's Lens Sound Study</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-transform-your-recording-experience-moving-past-fbx-methods-for-2024/"><u>[New] Transform Your Recording Experience Moving Past FBX Methods for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-discover-the-best-insta-grid-creators-our-leading-ten-picks-for-2024/"><u>[Updated] Discover the Best Insta Grid Creators Our Leading Ten Picks for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-top-sites-for-digital-metallic-text-with-a-golden-twist/"><u>[Updated] Top Sites for Digital Metallic Text with a Golden Twist</u></a></li>
-<li><a href="https://win-hot.techidaily.com/mp4srt/"><u>最適な技術：絶えざる品質保持のためのMP4動画とSRT字幕のシームレス統合</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/amd-to-revolutionize-mobile-computing-zen-5-chip-brings-desktops-115w-strength-in-a-portable-package-teased-by-the-mighty-ryzen-strix-halo-with-16-cores-and80/"><u>AMD to Revolutionize Mobile Computing: Zen 5 Chip Brings Desktop's 115W Strength in a Portable Package, Teased by the Mighty Ryzen Strix Halo with 16 Cores & RDNA iGPU</u></a></li>
-<li><a href="https://win-hot.techidaily.com/extending-your-instagram-videos-a-step-by-step-guide/"><u>Extending Your Instagram Videos: A Step-by-Step Guide</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/full-guide-to-unlock-your-realme-note-50-by-drfone-android/"><u>Full Guide to Unlock Your Realme Note 50</u></a></li>
-<li><a href="https://win-hot.techidaily.com/how-to-convert-and-enjoy-dvd-folders-as-mp4-videos-a-guide-with-three-straightforward-techniques/"><u>How to Convert and Enjoy DVD Folders as MP4 Videos: A Guide with Three Straightforward Techniques</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-messages-files-from-honor-by-fonelab-android-recover-messages/"><u>How To Restore Missing Messages Files from Honor</u></a></li>
-<li><a href="https://driver-error.techidaily.com/hp-wireless-keyboard-malfunction-heres-what-you-need-to-know/"><u>HP Wireless Keyboard Malfunction? Here's What You Need to Know</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-top-10-fingerprint-lock-apps-to-lock-your-xiaomi-redmi-k70-phone-by-drfone-android/"><u>In 2024, Top 10 Fingerprint Lock Apps to Lock Your Xiaomi Redmi K70 Phone</u></a></li>
-<li><a href="https://win-hot.techidaily.com/mastering-the-controls-essential-techniques-for-optimizing-output-configuration-settings/"><u>Mastering the Controls: Essential Techniques for Optimizing Output Configuration Settings</u></a></li>
-<li><a href="https://win-hot.techidaily.com/pcyoutube4k/"><u>PC向けにYouTubeから安全に4Kビデオダウンロードガイド</u></a></li>
-<li><a href="https://win-hot.techidaily.com/quick-and-easy-guide-transforming-mov-videos-into-avi-with-minimal-hitches/"><u>Quick and Easy Guide: Transforming MOV Videos Into AVI with Minimal Hitches</u></a></li>
-<li><a href="https://win-hot.techidaily.com/seamless-conversion-of-videos-and-dvds-into-avi-format-with-handbrake/"><u>Seamless Conversion of Videos & DVDs Into AVI Format with HandBrake</u></a></li>
-<li><a href="https://win-hot.techidaily.com/step-by-step-guide-to-transforming-pal-format-dvds-into-ntsc/"><u>Step-by-Step Guide to Transforming PAL Format DVDs Into NTSC</u></a></li>
-<li><a href="https://win-hot.techidaily.com/step-by-step-guide-removing-a-dvds-regional-lock/"><u>Step-by-Step Guide: Removing a DVD's Regional Lock</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/troubleshooting-microsoft-teams-microphone-problems-on-windows-1110-devices/"><u>Troubleshooting Microsoft Teams Microphone Problems on Windows 11/10 Devices</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-budget-pc-screen-capture-apps/"><u>[New] Budget PC Screen Capture Apps</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-non-retweeting-video-tweets-from-your-phone/"><u>[Updated] 2024 Approved Non-Retweeting Video Tweets From Your Phone</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-syma-x5c-exploration-top-choice-for-novice-aerial-enthusiasts/"><u>[Updated] Syma X5C Exploration Top Choice for Novice Aerial Enthusiasts</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-the-cryptographers-guide-to-masked-recordings/"><u>[Updated] The Cryptographer's Guide to Masked Recordings</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-showcase-of-top-movie-teasers/"><u>2024 Approved Showcase of Top Movie Teasers</u></a></li>
+<li><a href="https://win-hot.techidaily.com/demystifying-cyber-threats-understanding-zero-day-assaults-with-expert-insights-from-malwarefox/"><u>Demystifying Cyber Threats: Understanding Zero-Day Assaults with Expert Insights From MalwareFox</u></a></li>
+<li><a href="https://win-hot.techidaily.com/guide-to-hd-video-capture-how-to-use-your-macs-built-in-webcam-with-excellent-quality/"><u>Guide to HD Video Capture: How to Use Your Mac's Built-In Webcam with Excellent Quality</u></a></li>
+<li><a href="https://win-hot.techidaily.com/how-to-efficiently-shrink-mov-video-files-without-spending-a-penny/"><u>How to Efficiently Shrink MOV Video Files Without Spending a Penny</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/identifying-and-resolving-common-errors-in-chatgpt-systems/"><u>Identifying and Resolving Common Errors in ChatGPT Systems</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-do-i-stop-someone-from-tracking-my-vivo-s18-drfone-by-drfone-virtual-android/"><u>In 2024, How Do I Stop Someone From Tracking My Vivo S18? | Dr.fone</u></a></li>
+<li><a href="https://win-hot.techidaily.com/is-windows-defender-effective-in-identifying-threats-insights-from-malwarefox/"><u>Is Windows Defender Effective in Identifying Threats? Insights From MalwareFox</u></a></li>
+<li><a href="https://techtrends.techidaily.com/mastering-pc-control-of-your-google-home-a-comprehensive-guide/"><u>Mastering PC Control of Your Google Home: A Comprehensive Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/pinpoint-public-ip-with-commands-windows-edition/"><u>Pinpoint Public IP with Commands, Windows Edition</u></a></li>
+<li><a href="https://win-hot.techidaily.com/simple-steps-to-clearing-your-iphones-entire-inbox/"><u>Simple Steps to Clearing Your iPhone's Entire Inbox</u></a></li>
+<li><a href="https://win-hot.techidaily.com/step-by-step-guide-downloading-music-videos-from-official-sources/"><u>Step-by-Step Guide: Downloading Music Videos From Official Sources</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/the-artisans-code-a-complete-blueprint-for-flawless-windows-tv-recording-for-2024/"><u>The Artisan's Code A Complete Blueprint for Flawless Windows TV Recording for 2024</u></a></li>
+<li><a href="https://win-hot.techidaily.com/top-mp3-downloading-apps-for-your-windows-phone-a-comprehensive-guide/"><u>Top MP3 Downloading Apps for Your Windows Phone: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-hot.techidaily.com/troubleshooting-steps-to-resolve-apowerrec-malfunctioning-record-capabilities/"><u>Troubleshooting Steps to Resolve aPowerREC Malfunctioning Record Capabilities</u></a></li>
+<li><a href="https://win-hot.techidaily.com/ultimate-guide-mastering-the-art-of-playing-bud-on-your-computer/"><u>Ultimate Guide: Mastering the Art of Playing Bud on Your Computer</u></a></li>
 </ul></div>
 

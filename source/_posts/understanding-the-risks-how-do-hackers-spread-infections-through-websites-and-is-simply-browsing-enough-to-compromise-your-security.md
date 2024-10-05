@@ -1,7 +1,7 @@
 ---
 title: "Understanding the Risks: How Do Hackers Spread Infections Through Websites, and Is Simply Browsing Enough To Compromise Your Security?"
-date: 2024-09-23T18:26:42.966Z
-updated: 2024-09-29T19:50:39.497Z
+date: 2024-10-03T16:22:07.548Z
+updated: 2024-10-05T18:45:34.553Z
 tags:
   - product
   - antivirus
@@ -54,6 +54,13 @@ Also, even websites created by developers rely on different tools and packages t
 
 **​Yes**. While having a clean browsing habit reduces the chances of infection, you are still vulnerable online. Here are a few ways:
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925489/19272" target="_top" id="1925489">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925489/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Drive-bys and Exploit Kits
 
 A drive-by download is a general term which refers to automatically downloading malware on a computer without the user’s knowledge. A malware downloads and installs itself without prompting the user.
@@ -61,10 +68,10 @@ A drive-by download is a general term which refers to automatically downloading 
 How can it do that? Infected websites may contain exploit kits. [Exploit kits](https://www.f-secure.com/en/web/labs%5Fglobal/exploit-kits) are pieces of a program which aims to examine software and operating systems for vulnerabilities. Once it identifies any weakness, it downloads malware to “exploit” the vulnerability. It can happen without you noticing anything.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Malicious Advertising
@@ -84,21 +91,28 @@ Your browser automatically runs Javascript files. An infected website may contai
 [Java Security Issues – How to Fix](https://tools.techidaily.com/malwarefox/products/)
 
 <!-- affiliate ads begin -->
-<span id="1982462">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
+<span id="1976998">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Vulnerable Websites
 
 Many websites have several layers of protection. However, you should be on the lookout for these types websites. These sites are commonly malicious and can infect your system.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111964/7443" target="_top" id="2111964">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111964" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111964/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Porn
 
@@ -111,13 +125,6 @@ Porn websites, especially community generated ones, earn through ads. Hackers ca
 Piracy sites and torrent aggregators illegally offer content for free. Torrents itself is not an illegal method of downloading. However, it is a popular option to download pirated movies, music, and other content because of its private nature. Small torrent aggregators are still pop-up even with the [crackdown of popular sites in the past years](https://gadgets.ndtv.com/internet/news/after-kickass-torrents-torrentzeu-shuts-down-869594).
 
 These websites often rely on ads for revenue. That is why you will see torrent sites with multiple ads on the page. They are also not known to have the best security layers. It also attracts questionable visitors because of its nature, which makes it open for hackers to use the website to infect computers.
-
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576477/17382" target="_top" id="1576477">
-  <img src="//a.impactradius-go.com/display-ad/17382-1576477" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576477/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Download Websites
 
@@ -136,10 +143,10 @@ Protecting yourself against malicious websites is similar to defending yourself 
 ![](https://malwarefox.com/wp-content/uploads/2018/01/2.png "2")
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139114/17108" target="_top" id="2139114">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139114" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105869/7443" target="_top" id="2105869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105869" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139114/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105869/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 VirusTotal is a robust online tool to check if a website is malicious. It inspects files, websites (using URLs), and file hash for any viruses, worms, and other malware. It employs over 70 antivirus scanners to catch any threats effectively. Copy and paste a URL before even visiting a website. It runs fast and rates the trustworthiness of a site. It is always updated because it lives online. You can also check for detailed results.
@@ -154,16 +161,16 @@ Sucuri SiteCheck is a free website scanner. It accepts URLs and scans a website 
 
 [Get Sucuri SiteCheck](https://sitecheck.sucuri.net)
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### MalwareFox Anti-Malware
 
 ![](https://malwarefox.com/wp-content/uploads/2017/10/MalwareFox-1.jpg "MalwareFox")
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136620/26400" target="_top" id="2136620">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136620" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136620/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 The best way to protect yourself is to have both an online and offline security. Installing an excellent anti-malware, such as MalwareFox, ensures the protection all the time. MalwareFox protects you from various threats while browsing. It prevents ads, pop-ups, and toolbars from infecting your system. The anti-malware solution is lightweight enough to run in the background all the time.
 
@@ -176,19 +183,6 @@ Moreover, it checks malicious files on your computer. It quarantines a file once
 ## Final Thoughts
 
 The options above are just some of the tools you can use to prevent malicious websites from infecting your system. You also have to make sure that everything on your machine is updated, including browsers, antivirus, anti-malware, and your operating system. There are new threats every day, and it takes a little bit of extra effort to adequately protect yourself.
-
-<!-- affiliate ads begin -->
-<span id="1484963">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Leave a Comment [Cancel reply](https://tools.techidaily.com/malwarefox/products/)
 
@@ -215,22 +209,19 @@ Save my name, email, and website in this browser for the next time I comment.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-in-2024-spectral-time-freeze-instruction/"><u>[New] In 2024, Spectral Time-Freeze Instruction</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-how-to-schedule-effective-reliable-virtual-team-meetings-with-google/"><u>[Updated] 2024 Approved How to Schedule Effective, Reliable Virtual Team Meetings with Google</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-elevate-your-live-streams-high-quality-360-options/"><u>[Updated] Elevate Your Live Streams High-Quality 360° Options</u></a></li>
-<li><a href="https://win-hot.techidaily.com/25-microsoft-office-2019-licenses-available-for-pc-and-mac-buy-online-now/"><u>$25 Microsoft Office 2019 Licenses Available for PC and Mac - Buy Online Now</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/accessing-ais-boundless-potential-secret-methods/"><u>Accessing AI's Boundless Potential: Secret Methods</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/contrast-and-surprise/"><u>Contrast and Surprise</u></a></li>
-<li><a href="https://win-hot.techidaily.com/decoding-surface-pro-options-arm-or-intel-core-dilemma-explained-deep-dive-with-zdnet/"><u>Decoding Surface Pro Options: ARM or Intel Core Dilemma Explained | Deep Dive with ZDNet</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/deep-dive-the-high-tech-world-of-dji-phantom-3-professional/"><u>Deep Dive The High-Tech World of DJI Phantom 3 Professional</u></a></li>
-<li><a href="https://win-able.techidaily.com/flawless-gaming-setup-dealing-with-and-correcting-geforce-experience-shutdown-errors-for-an-uninterrupted-flow/"><u>Flawless Gaming Setup: Dealing with and Correcting GeForce Experience Shutdown Errors for an Uninterrupted Flow</u></a></li>
-<li><a href="https://win-hot.techidaily.com/googles-dominance-and-its-impact-on-modern-pc-usage-insights-from-zdnet/"><u>Google's Dominance and Its Impact on Modern PC Usage – Insights From ZDNet</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/guide-to-troubleshooting-video-playback-problems-on-ipads/"><u>Guide to Troubleshooting Video Playback Problems on iPads.</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-fixing-foneazy-mockgo-not-working-on-apple-iphone-8-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, Fixing Foneazy MockGo Not Working On Apple iPhone 8 Plus | Dr.fone</u></a></li>
-<li><a href="https://win-hot.techidaily.com/microsoft-and-samsungs-potential-breakthrough-in-mainstreaming-cloud-gaming-an-insight-by-zdnet/"><u>Microsoft & Samsung's Potential Breakthrough in Mainstreaming Cloud Gaming: An Insight by ZDNet</u></a></li>
-<li><a href="https://win-hot.techidaily.com/microsofts-recent-upgrade-might-escalate-after-hours-job-hassles-reports-zdnet/"><u>Microsoft's Recent Upgrade Might Escalate After-Hours Job Hassles, Reports ZDNET</u></a></li>
-<li><a href="https://win-hot.techidaily.com/resolving-post-april-windows-update-vpn-issues-the-complete-guide/"><u>Resolving Post-April Windows Update VPN Issues - The Complete Guide</u></a></li>
-<li><a href="https://win-hot.techidaily.com/securing-your-dream-job-in-technology-a-guide-to-joining-the-team-at-microsoft/"><u>Securing Your Dream Job in Technology: A Guide to Joining the Team at Microsoft</u></a></li>
-<li><a href="https://win-hot.techidaily.com/unraveling-the-web-googles-impact-on-modern-desktop-experiences/"><u>Unraveling the Web: Google's Impact on Modern Desktop Experiences</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-youtube-to-mp4-get-free-hd1080p-from-facebook-vids/"><u>[New] In 2024, YouTube-to-MP4 Get Free HD/1080P From Facebook Vids</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-ranking-premium-free-excellence-the-finest-free-lut-selections/"><u>[New] Ranking Premium-Free Excellence The Finest Free LUT Selections</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-time-saving-tactics-for-saving-google-voice-speeches/"><u>[New] Time-Saving Tactics for Saving Google Voice Speeches</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-silent-scribes-selection-top-choices-in-offline-recognition-tech/"><u>2024 Approved Silent Scribes' Selection Top Choices in Offline Recognition Tech</u></a></li>
+<li><a href="https://win-hot.techidaily.com/best-windows-11-screenshot-and-recording-tools-beyond-the-game-bar/"><u>Best Windows 11 Screenshot & Recording Tools: Beyond the Game Bar</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/bringing-your-nikon-videos-to-life-editing-software-and-techniques-for-2024/"><u>Bringing Your Nikon Videos to Life Editing Software and Techniques for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/demystifying-screen-recording-how-bandicam-changes-the-game/"><u>Demystifying Screen Recording How Bandicam Changes the Game</u></a></li>
+<li><a href="https://win-hot.techidaily.com/download-your-next-playlist-free-songs-from-songrs-latest-hits/"><u>Download Your Next Playlist: Free Songs From Songr's Latest Hits</u></a></li>
+<li><a href="https://win-hot.techidaily.com/easy-conversion-techniques-how-to-change-a-3ga-file-into-an-mp3-audio-format/"><u>Easy Conversion Techniques: How to Change a 3GA File Into an MP3 Audio Format</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-unable-to-see-video-sony-a6400-troubleshoot-guide/"><u>In 2024, Unable To See Video Sony A6400 Troubleshoot Guide</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/insta-photography-enhancement-hacks-for-professionals-for-2024/"><u>Insta-Photography Enhancement Hacks for Professionals for 2024</u></a></li>
+<li><a href="https://win-hot.techidaily.com/leading-professional-tools-for-stunning-instagram-photo-edits/"><u>Leading Professional Tools for Stunning Instagram Photo Edits</u></a></li>
+<li><a href="https://win-hot.techidaily.com/manual-removal-of-android-viruses-step-by-step-the-expert-guide/"><u>Manual Removal of Android Viruses Step-by-Step: The Expert Guide</u></a></li>
+<li><a href="https://win-hot.techidaily.com/top-secrets-and-proven-hacks-for-maximizing-your-iphone-experience/"><u>Top Secrets and Proven Hacks for Maximizing Your iPhone Experience</u></a></li>
 </ul></div>
 
