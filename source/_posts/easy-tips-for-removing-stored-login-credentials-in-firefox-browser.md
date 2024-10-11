@@ -1,7 +1,7 @@
 ---
 title: Easy Tips for Removing Stored Login Credentials in Firefox Browser
-date: 2024-10-01T18:31:13.696Z
-updated: 2024-10-05T19:12:46.116Z
+date: 2024-10-08T22:34:38.028Z
+updated: 2024-10-10T22:17:47.017Z
 tags:
   - product
   - antivirus
@@ -57,10 +57,10 @@ That’s it you have now cleared all passwords from the Firefox.
 [Are Password Managers Safe?](https://tools.techidaily.com/malwarefox/products/)
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Method 2 – Delete Saved Passwords in Firefox using Windows Explorer
@@ -71,22 +71,21 @@ To locate this file, you need to find the profile folder. To do that, click on t
 
 ![Delete Saved Password Firefox 2-1](https://www.malwarefox.com/wp-content/uploads/2019/10/Delete-Saved-Password-Firefox-2-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Now click on **Troubleshooting Information**.
 
 ![Delete Saved Password Firefox 2-2](https://www.malwarefox.com/wp-content/uploads/2019/10/Delete-Saved-Password-Firefox-2-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915810/19272" target="_top" id="1915810">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915810" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915810/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977004">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Now you will see the details that are essential in case of troubleshooting. On this page, you will find the location of **Profile Folder**. Click on **Open Folder** to open it directly.
@@ -97,16 +96,22 @@ Now locate the **logins.jason** file and **Delete** it.
 
 ![Delete Saved Password Firefox 2-4](https://www.malwarefox.com/wp-content/uploads/2019/10/Delete-Saved-Password-Firefox-2-4.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 That’s it, all the saved password from Firefox is gone.
 
 [How to Block Trackers in FireFox](https://tools.techidaily.com/malwarefox/products/)
+
+<!-- affiliate ads begin -->
+<span id="1155462">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 1 thought on “How to Delete Saved Passwords in Firefox”
 
@@ -115,6 +120,13 @@ multumescmult
 [January 5, 2021 at 7:50 pm](https://tools.techidaily.com/malwarefox/products/)  
 thank you very much.. method 2 was what ı was looking for..  
 [Reply](https://tools.techidaily.com/malwarefox/products/)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Leave a Comment [Cancel reply](https://tools.techidaily.com/malwarefox/products/)
 
@@ -141,24 +153,24 @@ Save my name, email, and website in this browser for the next time I comment.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-2024-approved-the-ultimate-guide-to-capturing-youtube-videos-subtitles-in-srt-format/"><u>[New] 2024 Approved The Ultimate Guide to Capturing YouTube Videos' Subtitles in SRT Format</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-in-2024-reflect-and-record-capture-your-window-world/"><u>[New] In 2024, Reflect & Record Capture Your Window World</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ichest-youtubers-for-2024/"><u>[New] Richest YouTubers for 2024</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/artistic-expressions-redefined-reviewing-auras-frames/"><u>Artistic Expressions Redefined - Reviewing Aura's Frames</u></a></li>
-<li><a href="https://win-hot.techidaily.com/effortless-methods-a-step-by-step-guide-to-reflecting-android-content-on-your-ipad/"><u>Effortless Methods: A Step-by-Step Guide to Reflecting Android Content on Your iPad</u></a></li>
-<li><a href="https://win-hot.techidaily.com/effortless-techniques-for-converting-pdf-tables-into-microsoft-excel-format/"><u>Effortless Techniques for Converting PDF Tables Into Microsoft Excel Format</u></a></li>
-<li><a href="https://win-hot.techidaily.com/effortless-techniques-to-enhance-your-videos-brightness/"><u>Effortless Techniques to Enhance Your Videos' Brightness</u></a></li>
-<li><a href="https://win-hot.techidaily.com/elevate-visual-storytelling-innovative-techniques-for-turning-written-words-into-engaging-videos-with-artifice-intelligence/"><u>Elevate Visual Storytelling: Innovative Techniques for Turning Written Words Into Engaging Videos with Artifice Intelligence</u></a></li>
-<li><a href="https://win-hot.techidaily.com/how-to-effortlessly-move-iphone-playlists-and-songs-onto-a-windows-or-mac-desktop/"><u>How to Effortlessly Move iPhone Playlists and Songs Onto a Windows or Mac Desktop</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-a-vivo-s17-pro-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Vivo S17 Pro Phone That Is Locked | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-best-pokemons-for-pvp-matches-in-pokemon-go-for-zte-axon-40-lite-drfone-by-drfone-virtual-android/"><u>In 2024, Best Pokemons for PVP Matches in Pokemon Go For ZTE Axon 40 Lite | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-prevent-cross-site-tracking-on-oppo-reno-10-5g-and-browser-drfone-by-drfone-virtual-android/"><u>In 2024, Prevent Cross-Site Tracking on Oppo Reno 10 5G and Browser | Dr.fone</u></a></li>
-<li><a href="https://win-hot.techidaily.com/introducing-the-cutting-edge-apowerrescue-software-experience-exceptional-new-functionality-today/"><u>Introducing the Cutting-Edge ApowerRescue Software - Experience Exceptional New Functionality Today!</u></a></li>
-<li><a href="https://win-hot.techidaily.com/protecting-your-visuals-on-insta-the-ultimate-tutorial-for-applying-image-watermarks/"><u>Protecting Your Visuals on Insta – The Ultimate Tutorial for Applying Image Watermarks</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1721398147316-revolutionizing-ai-communication-explore-openais-tailored-store/"><u>Revolutionizing AI Communication: Explore OpenAI’s Tailored Store</u></a></li>
-<li><a href="https://fox-that.techidaily.com/top-5-hurdles-in-sending-presents-via-iphone-or-ipad/"><u>Top 5 Hurdles in Sending Presents via iPhone or iPad</u></a></li>
-<li><a href="https://win-hot.techidaily.com/ultimate-guide-choosing-the-best-3-bookmark-backup-tools-for-your-android-device/"><u>Ultimate Guide: Choosing the Best 3 Bookmark Backup Tools for Your Android Device</u></a></li>
-<li><a href="https://win-hot.techidaily.com/understanding-and-removing-trojan-droppers-a-complete-guide-by-malwarefox/"><u>Understanding and Removing Trojan Droppers: A Complete Guide by MalwareFox</u></a></li>
-<li><a href="https://win-answers.techidaily.com/use-smaller-brushes-for-fine-details-like-lines-dots-or-small-shapes/"><u>Use Smaller Brushes for Fine Details Like Lines, Dots, or Small Shapes</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-become-an-iconic-crafter-kapwings-meme-toolkit/"><u>[New] Become an Iconic Crafter Kapwing's Meme Toolkit</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-top-tips-for-effective-story-emoji-integration-on-instagram/"><u>[New] In 2024, Top Tips for Effective Story Emoji Integration on Instagram</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-expert-strategies-for-effective-angle-rotations-on-android/"><u>2024 Approved Expert Strategies for Effective Angle Rotations on Android</u></a></li>
+<li><a href="https://win-hot.techidaily.com/capture-cute-moments-with-the-ultimate-selection-of-7-baby-passport-shot-apps-on-ios-and-android-devices/"><u>Capture Cute Moments with the Ultimate Selection of 7 Baby Passport Shot Apps on iOS and Android Devices</u></a></li>
+<li><a href="https://win-hot.techidaily.com/clarity-restored-discover-the-best-2021-apps-to-correct-and-enhance-fuzzy-images/"><u>Clarity Restored: Discover the Best 2021 Apps to Correct and Enhance Fuzzy Images</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/complete-guide-on-unlocking-apple-iphone-14-with-a-broken-screen-by-drfone-ios/"><u>Complete Guide on Unlocking Apple iPhone 14 with a Broken Screen?</u></a></li>
+<li><a href="https://win-hot.techidaily.com/effortlessly-transform-your-pdf-files-into-ppt-presentations-on-android-devices-in-2020/"><u>Effortlessly Transform Your PDF Files Into PPT Presentations on Android Devices in 2020</u></a></li>
+<li><a href="https://win-hot.techidaily.com/eliminate-yahoo-search-from-chrome-easily-using-malwarefox-tips/"><u>Eliminate Yahoo Search From Chrome Easily Using MalwareFox Tips</u></a></li>
+<li><a href="https://win-hot.techidaily.com/essential-malware-inspection-instruments-leading-solutions-for-effective-cybersecurity-defense/"><u>Essential Malware Inspection Instruments: Leading Solutions for Effective Cybersecurity Defense</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/ffmpeg-analysis-maintaining-audio-format-integrity-for-2024/"><u>FFmpeg Analysis Maintaining Audio Format Integrity for 2024</u></a></li>
+<li><a href="https://win-hot.techidaily.com/galaxy-note-2-a-step-by-step-guide-to-transferring-your-favorite-tunes/"><u>Galaxy Note 2: A Step-by-Step Guide to Transferring Your Favorite Tunes</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-a-detailed-vpna-fake-gps-location-free-review-on-samsung-galaxy-f54-5g-drfone-by-drfone-virtual-android/"><u>In 2024, A Detailed VPNa Fake GPS Location Free Review On Samsung Galaxy F54 5G | Dr.fone</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-selecting-the-finest-screen-recorders-1-to-5-android/"><u>In 2024, Selecting the Finest Screen Recorders, #1 to #5 (Android)</u></a></li>
+<li><a href="https://win-hot.techidaily.com/introducing-apoweredit-the-new-cutting-edge-editing-software-for-macs-brimming-with-exceptional-features/"><u>Introducing ApowerEdit: The New Cutting-Edge Editing Software for Macs Brimming with Exceptional Features</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/level-up-your-game-with-discounted-lenovo-legion-immersive-experience-rtx-graphics-and-crystal-clear-240-hz-visuals-at-unbeatable-prices/"><u>Level Up Your Game with Discounted Lenovo Legion: Immersive Experience, RTX Graphics & Crystal-Clear 240 Hz Visuals at Unbeatable Prices!</u></a></li>
+<li><a href="https://win-able.techidaily.com/re5-wont-boot-on-pc-discover-proven-strategies-to-get-it-running-smoothly/"><u>RE5 Won't Boot on PC? Discover Proven Strategies to Get It Running Smoothly</u></a></li>
+<li><a href="https://win-hot.techidaily.com/revive-your-missing-iphone-contacts-a-guide-for-recovering-erased-connections/"><u>Revive Your Missing iPhone Contacts: A Guide for Recovering Erased Connections</u></a></li>
+<li><a href="https://fox-info.techidaily.com/the-ultimate-review-for-adrenaline-seekers-and-filmmakers-for-2024/"><u>The Ultimate Review for Adrenaline Seekers & Filmmakers for 2024</u></a></li>
+<li><a href="https://win-hot.techidaily.com/unlock-your-pdfs-ultimate-guide-to-bypassing-and-eliminating-file-restrictions/"><u>Unlock Your PDFs: Ultimate Guide to Bypassing and Eliminating File Restrictions</u></a></li>
 </ul></div>
 

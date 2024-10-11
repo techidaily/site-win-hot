@@ -1,7 +1,7 @@
 ---
 title: "Guide: Disabling Browser Trackers on Mozilla Firefox for Enhanced Privacy"
-date: 2024-09-28T19:21:58.457Z
-updated: 2024-10-05T17:18:40.101Z
+date: 2024-10-04T23:07:20.549Z
+updated: 2024-10-10T20:10:56.517Z
 tags:
   - product
   - antivirus
@@ -32,38 +32,24 @@ Firefox started blocking content to protect the privacy of users. Several websit
 
 > **Note:-** Blocking all cookies or all third-party cookies may cause websites to break. Some parts may not load properly if you block the cookies.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Activate Content Blocking
 
 Click on the **Firefox Menu** and choose **Content Blocking**. If you don’t see the option meaning you haven’t updated the Firefox. This option is available after the Firefox 65 update.![Block Trackers in Firefox 1](https://www.malwarefox.com/wp-content/uploads/2019/06/Block-Trackers-in-Firefox-1.jpg)Now select a mode according to your need.![Block Trackers in Firefox 2](https://www.malwarefox.com/wp-content/uploads/2019/06/Block-Trackers-in-Firefox-2.jpg)The **Standard** and **Strict** mode are pre-configured. However, the **Custom** mode allows you to configure the settings a little bit more. You can block the tracker in either private windows or all windows. Also, there is four option to select in case of blocking the cookies – third-party trackers, cookies from unvisited websites, all third-party cookies, and all cookies.![Block Trackers in Firefox 3](https://www.malwarefox.com/wp-content/uploads/2019/06/Block-Trackers-in-Firefox-3.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151866/7443" target="_top" id="2151866">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151866" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151866/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Changing the Block List
 
 Below the Trackers, there is an option **Change block list**, click on it.![Change block list](https://www.malwarefox.com/wp-content/uploads/2019/06/Change-block-list.jpg)It contains level 1 and level 2 list of trackers. The **Level 1 blocklist** allows some trackers so that the websites don’t break. However, the **Level 2 blocklist** blocks all the trackers, and some website may not load properly.![Change block list 2](https://www.malwarefox.com/wp-content/uploads/2019/06/Change-block-list-2.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/857869/11832" target="_top" id="857869">
+  <img src="//a.impactradius-go.com/display-ad/11832-857869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857869/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Send Do Not Track Request
 
 You can even send the **Do Not Track** request to the websites. Two options to choose from one is **Always**, and another one is when **Firefox is set to block known trackers**.![Do Not Track Request](https://www.malwarefox.com/wp-content/uploads/2019/06/Do-Not-Track-Request.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027195/19272" target="_top" id="2027195">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027195" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027195/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### How to Know Firefox is Blocking Content
 
@@ -73,9 +59,23 @@ Now the content blocking on the Firefox is set. It will prevent the content as p
 
 If you trust a website and doesn’t want to block the content, then you can disable the content blocking for particular sites. If certain websites that you use regularly are misbehaving or not loading correctly, then you disable the content blocking for that website also. Click on the **Shield icon** that represents the content blocking, then click on **Turn off Blocking for This Site**.![Adding Exception for Content Blocking](https://www.malwarefox.com/wp-content/uploads/2019/06/Adding-Exception-for-Content-Blocking.jpg)Now the website will reload, and the content blocking icon will have a **cross line** that represents all the content from this website is allowed.![Content Blocking Off Icon](https://www.malwarefox.com/wp-content/uploads/2019/06/Content-Blocking-Off-Icon.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 [How does Malicious Website Infect You?](https://tools.techidaily.com/malwarefox/products/)
 
 ![TotalAv Logo](https://www.malwarefox.com/wp-content/uploads/2024/02/totalav-svg.webp "totalav-svg")
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049370/7443" target="_top" id="2049370">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049370" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049370/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Stay malware-free with reliable antivirus**
 
@@ -92,10 +92,10 @@ Don't compromise your Data and Privacy. TotalAV is a top-notch antivirus program
 [](https://tools.techidaily.com/malwarefox/products/) Get TotalAV > 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902278/19272" target="_top" id="1902278">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902278" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151864/7443" target="_top" id="2151864">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151864" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902278/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151864/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Leave a Comment [Cancel reply](https://tools.techidaily.com/malwarefox/products/)
@@ -123,22 +123,19 @@ Save my name, email, and website in this browser for the next time I comment.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-twitpic-saver-streamline-ios-video-downloads-from-tweets/"><u>[Updated] In 2024, TwitPic Saver Streamline iOS Video Downloads From Tweets</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/approved-professional-level-youtube-editing-techniques-you-need-to-know/"><u>2024 Approved Professional-Level Youtube Editing Techniques You Need To Know</u></a></li>
-<li><a href="https://win-hot.techidaily.com/all-you-need-to-know-about-the-upcoming-launch-of-minecraft-earth-arrival-forecasts-inside/"><u>All You Need to Know About the Upcoming Launch of Minecraft Earth - Arrival Forecasts Inside!</u></a></li>
-<li><a href="https://win-hot.techidaily.com/comprehensive-analysis-best-tools-for-screenshotting-and-creating-gifs/"><u>Comprehensive Analysis: Best Tools for Screenshotting and Creating GIFs</u></a></li>
-<li><a href="https://win-hot.techidaily.com/creating-diy-sticker-designs-for-the-trendiest-2/"><u>Creating DIY Sticker Designs for the Trendiest 2#</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/download-nvidia-quadro-graphics-drivers-for-windows-11-latest-version/"><u>Download NVIDIA Quadro Graphics Drivers for Windows 11 - Latest Version</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/dvd-frente-a-blu-ray-contra-archivos-digitales-como-elegir-el-mejor-sistema-de-almacenamiento-para-su-coleccion/"><u>DVD Frente a Blu-Ray Contra Archivos Digitales: Cómo Elegir El Mejor Sistema De Almacenamiento Para Su Colección</u></a></li>
-<li><a href="https://win-hot.techidaily.com/fast-and-simple-conversion-of-vob-video-format-into-mp4-using-top-free-services-online/"><u>Fast & Simple Conversion of VOB Video Format Into MP4 Using Top Free Services Online</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/mastering-farsi-ancient-insights-future-opportunities/"><u>Mastering Farsi: Ancient Insights, Future Opportunities</u></a></li>
-<li><a href="https://win-hot.techidaily.com/mastering-time-lapse-photography-simple-strategies-for-seamlessly-documenting-your-projects/"><u>Mastering Time-Lapse Photography: Simple Strategies for Seamlessly Documenting Your Projects</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/proven-methods-for-downloading-a-thousand-tiktoks-at-once/"><u>Proven Methods for Downloading a Thousand TikToks at Once</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/quick-fix-to-apex-crash-here-we-come/"><u>Quick Fix to Apex Crash, Here We Come</u></a></li>
-<li><a href="https://games-able.techidaily.com/revolutionize-your-ps5-games-effortlessly/"><u>Revolutionize Your PS5 Games, Effortlessly</u></a></li>
-<li><a href="https://win11.techidaily.com/revolutionizing-the-taskbar-in-windows-11-top-6-suggested-enhancements/"><u>Revolutionizing the Taskbar in Windows 11: Top 6 Suggested Enhancements</u></a></li>
-<li><a href="https://win-hot.techidaily.com/simple-techniques-for-removing-logos-from-videos-top-tips-for-2020/"><u>Simple Techniques for Removing Logos From Videos - Top Tips for 2020</u></a></li>
-<li><a href="https://win-hot.techidaily.com/step-by-step-guide-transforming-avi-videos-into-webm-format/"><u>Step-by-Step Guide: Transforming AVI Videos Into WebM Format</u></a></li>
-<li><a href="https://win-hot.techidaily.com/the-ultimate-guide-converting-your-dailymotion-content-into-high-quality-mp3-audio-a-trio-of-techniques/"><u>The Ultimate Guide: Converting Your DailyMotion Content Into High-Quality MP3 Audio – A Trio of Techniques</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-advanced-practices-for-capturing-iptv-visuals-for-2024/"><u>[Updated] Advanced Practices for Capturing IPTV Visuals for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-gamegazers-graphic-guide-for-2024/"><u>[Updated] GameGazer's Graphic Guide for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-best-low-end-screen-recorder-options-summarized/"><u>2024 Approved Best Low-End Screen Recorder Options Summarized</u></a></li>
+<li><a href="https://win-hot.techidaily.com/best-practices-for-recording-academic-sessions-compatible-with-pc-and-mac-os/"><u>Best Practices for Recording Academic Sessions: Compatible with PC & Mac OS</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/building-connections-through-collaborative-playlists/"><u>Building Connections Through Collaborative Playlists</u></a></li>
+<li><a href="https://win-hot.techidaily.com/elevate-visual-storytelling-innovative-techniques-for-turning-written-words-into-engaging-videos-with-artifice-intelligence/"><u>Elevate Visual Storytelling: Innovative Techniques for Turning Written Words Into Engaging Videos with Artifice Intelligence</u></a></li>
+<li><a href="https://win-hot.techidaily.com/how-to-effortlessly-move-iphone-playlists-and-songs-onto-a-windows-or-mac-desktop/"><u>How to Effortlessly Move iPhone Playlists and Songs Onto a Windows or Mac Desktop</u></a></li>
+<li><a href="https://win-hot.techidaily.com/identifying-and-eliminating-the-idp-generic-threat-understanding-its-risks-and-removal-strategies/"><u>Identifying and Eliminating the IDP Generic Threat: Understanding Its Risks & Removal Strategies</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-lustrous-frameworks-structuring-illumination-in-film/"><u>In 2024, Lustrous Frameworks Structuring Illumination in Film</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-the-ultimate-self-bio-blueprint-for-building-a-distinctive-online-presence/"><u>In 2024, The Ultimate Self-Bio Blueprint for Building a Distinctive Online Presence</u></a></li>
+<li><a href="https://win-hot.techidaily.com/seamlessly-shift-your-icloud-contacts-to-android-in-just-3-steps/"><u>Seamlessly Shift Your iCloud Contacts to Android in Just 3 Steps</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/the-ultimate-guide-to-the-oculus-quest-2-top-tier-vr-fun-without-breaking-the-bank/"><u>The Ultimate Guide to the Oculus Quest 2: Top-Tier VR Fun Without Breaking the Bank!</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/top-10-password-cracking-tools-for-tecno-spark-go-2023-by-drfone-android/"><u>Top 10 Password Cracking Tools For Tecno Spark Go (2023)</u></a></li>
+<li><a href="https://win-hot.techidaily.com/ultimate-guide-choosing-the-best-3-bookmark-backup-tools-for-your-android-device/"><u>Ultimate Guide: Choosing the Best 3 Bookmark Backup Tools for Your Android Device</u></a></li>
 </ul></div>
 

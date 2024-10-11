@@ -1,7 +1,7 @@
 ---
 title: "Top-Rated Black Friday Deals on Gift Cards: Save Money and Hassle with Smart Shopping Tips | ZDNet"
-date: 2024-09-30T18:24:26.611Z
-updated: 2024-10-05T19:09:40.554Z
+date: 2024-10-06T19:31:09.789Z
+updated: 2024-10-10T21:36:48.943Z
 tags:
   - microsoft
 categories:
@@ -53,6 +53,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094421/7443" target="_top" id="2094421">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094421" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094421/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -64,10 +71,10 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047411/19272" target="_top" id="2047411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047411" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
@@ -123,10 +130,10 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896555/19272" target="_top" id="1896555">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896555" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896555/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -136,28 +143,15 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
 <!-- affiliate ads begin -->
-<span id="1498635">
-					<video width="320" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1938745/19272" target="_top" id="1938745">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938745" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938745/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139114/17108" target="_top" id="2139114">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139114" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139114/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -202,24 +196,20 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-social-media-success-strategies-for-effective-facebook-reel-creation/"><u>[New] 2024 Approved Social Media Success Strategies for Effective Facebook Reel Creation</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-mc-homestead-plans-the-top-6/"><u>[New] MC Homestead Plans The Top 6</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-diving-into-the-interface-of-magix-music-maker-2024/"><u>[Updated] Diving Into the Interface of Magix Music Maker 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-top-ten-windows-phones-for-seamless-video-streaming/"><u>2024 Approved Top Ten Windows Phones for Seamless Video Streaming</u></a></li>
-<li><a href="https://howto.techidaily.com/7-solutions-to-fix-chrome-crashes-or-wont-open-on-tecno-spark-20-proplus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Chrome Crashes or Wont Open on Tecno Spark 20 Pro+ | Dr.fone</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/bilingual-bliss-embrace-germanys-idioms-in-25-words/"><u>Bilingual Bliss: Embrace Germany's Idioms in 25 Words</u></a></li>
-<li><a href="https://win-hot.techidaily.com/effortless-methods-a-step-by-step-guide-to-reflecting-android-content-on-your-ipad/"><u>Effortless Methods: A Step-by-Step Guide to Reflecting Android Content on Your iPad</u></a></li>
-<li><a href="https://win-hot.techidaily.com/effortless-techniques-for-converting-pdf-tables-into-microsoft-excel-format/"><u>Effortless Techniques for Converting PDF Tables Into Microsoft Excel Format</u></a></li>
-<li><a href="https://win-hot.techidaily.com/effortless-techniques-to-enhance-your-videos-brightness/"><u>Effortless Techniques to Enhance Your Videos' Brightness</u></a></li>
-<li><a href="https://win-hot.techidaily.com/head-to-head-showdown-how-does-samsung-galaxy-s6-hold-up-against-the-iphone-6-in-depth-review-insights/"><u>Head-to-Head Showdown: How Does Samsung Galaxy S6 Hold Up Against the iPhone 6 – In-Depth Review Insights!</u></a></li>
-<li><a href="https://win-hot.techidaily.com/how-to-effortlessly-move-iphone-playlists-and-songs-onto-a-windows-or-mac-desktop/"><u>How to Effortlessly Move iPhone Playlists and Songs Onto a Windows or Mac Desktop</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-remove-apple-iphone-15-pro-device-from-icloud-by-drfone-ios/"><u>How to Remove Apple iPhone 15 Pro Device from iCloud</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/in-depth-study-of-video-tech-outside-manycam/"><u>In-Depth Study of Video Tech Outside ManyCam</u></a></li>
-<li><a href="https://win-hot.techidaily.com/introducing-the-cutting-edge-apowerrescue-software-experience-exceptional-new-functionality-today/"><u>Introducing the Cutting-Edge ApowerRescue Software - Experience Exceptional New Functionality Today!</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/master-the-skill-linking-up-printers-to-facilitate-device-wide-use/"><u>Master the Skill: Linking Up Printers to Facilitate Device-Wide Use</u></a></li>
-<li><a href="https://win-hot.techidaily.com/privacy-battle-comparing-duckduckgo-and-google-as-top-secretive-search-engines/"><u>Privacy Battle: Comparing DuckDuckGo and Google as Top Secretive Search Engines</u></a></li>
-<li><a href="https://win-hot.techidaily.com/protecting-your-visuals-on-insta-the-ultimate-tutorial-for-applying-image-watermarks/"><u>Protecting Your Visuals on Insta – The Ultimate Tutorial for Applying Image Watermarks</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/step-by-step-tutorial-connect-and-manage-via-remote-for-samsung-smart-televisions/"><u>Step-by-Step Tutorial: Connect and Manage via Remote for Samsung Smart Televisions</u></a></li>
-<li><a href="https://win-hot.techidaily.com/understanding-and-removing-trojan-droppers-a-complete-guide-by-malwarefox/"><u>Understanding and Removing Trojan Droppers: A Complete Guide by MalwareFox</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-jumpstart-your-collaboration-zooms-screen-share-essentials/"><u>[New] 2024 Approved Jumpstart Your Collaboration Zoom's Screen-Share Essentials</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-the-art-of-differentiating-real-vs-fake-facebook-likes/"><u>[New] The Art of Differentiating Real vs Fake Facebook Likes</u></a></li>
+<li><a href="https://solve-latest.techidaily.com/1-nakano-city-tokyo-enhancing-government-efficiency-with-abbyy-intelligent-automation-save-time-and-money-up-to-30/"><u>1. Nakano City, Tokyo: Enhancing Government Efficiency with ABBYY Intelligent Automation - Save Time & Money up to 30%</u></a></li>
+<li><a href="https://win-hot.techidaily.com/accessible-language-solutions-convert-your-multimedia-content-with-these-free-video-translation-services/"><u>Accessible Language Solutions: Convert Your Multimedia Content with These Free Video Translation Services</u></a></li>
+<li><a href="https://win-hot.techidaily.com/avoid-compromising-your-mac-understand-the-risks-of-persistent-pop-ups-and-effective-removal-techniques-by-malwarefox-experts/"><u>Avoid Compromising Your Mac: Understand the Risks of Persistent Pop-Ups & Effective Removal Techniques by MalwareFox Experts</u></a></li>
+<li><a href="https://facebook.techidaily.com/collective-charisma-cultivating-a-thriving-online-band/"><u>Collective Charisma: Cultivating a Thriving Online Band</u></a></li>
+<li><a href="https://win-hot.techidaily.com/creating-a-standout-linkedin-presence-with-your-smartphone-simple-steps-to-success/"><u>Creating a Standout LinkedIn Presence with Your Smartphone: Simple Steps to Success</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/detailed-dissection-what-makes-obs-a-top-recorder/"><u>Detailed Dissection What Makes OBS a Top Recorder?</u></a></li>
+<li><a href="https://win-hot.techidaily.com/discover-the-finest-selection-of-7-premium-ad-free-video-trimmers-for-seamless-edits/"><u>Discover the Finest Selection of 7 Premium, Ad-Free Video Trimmers for Seamless Edits</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-2022-olympic-highlights-in-short-track-racing/"><u>In 2024, 2022 Olympic Highlights in Short Track Racing</u></a></li>
+<li><a href="https://win-hot.techidaily.com/pc-livestream-mastery-on-instagram-a-comprehensive-tutorial-for-beginners/"><u>PC Livestream Mastery on Instagram: A Comprehensive Tutorial for Beginners</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/precision-in-practice-tailoring-ps4-recordings-to-suit-your-style-for-2024/"><u>Precision in Practice Tailoring PS4 Recordings to Suit Your Style for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/speech-to-text-solutions-for-engaging-ppts-for-2024/"><u>Speech-to-Text Solutions for Engaging PPTs for 2024</u></a></li>
+<li><a href="https://win-hot.techidaily.com/ultimate-tutorial-switching-your-primary-pdf-reader-in-windows-11/"><u>Ultimate Tutorial: Switching Your Primary PDF Reader in Windows 11</u></a></li>
+<li><a href="https://win-hot.techidaily.com/unveiling-the-reasons-behind-youtubes-video-converter-prompt-expert-level-antivirusguide-insights/"><u>Unveiling the Reasons Behind YouTube's Video Converter Prompt: Expert-Level AntiVirusGuide Insights</u></a></li>
 </ul></div>
 

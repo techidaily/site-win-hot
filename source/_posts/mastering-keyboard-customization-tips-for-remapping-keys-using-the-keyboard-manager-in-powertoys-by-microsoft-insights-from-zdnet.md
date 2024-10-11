@@ -1,7 +1,7 @@
 ---
 title: "Mastering Keyboard Customization: Tips for Remapping Keys Using the Keyboard Manager in PowerToys by Microsoft - Insights From ZDNet"
-date: 2024-10-04T20:08:36.419Z
-updated: 2024-10-05T19:08:41.589Z
+date: 2024-10-04T21:52:28.715Z
+updated: 2024-10-11T03:16:33.494Z
 tags:
   - microsoft
 categories:
@@ -63,6 +63,19 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
+<!-- affiliate ads begin -->
+<span id="1983553">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **3\. Switch to ChromeOS**
 
 You can use a web browser, right? If you really can't see yourself learning Linux, try ChromeOS.
@@ -84,10 +97,10 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/1062450/7443" target="_top" id="1062450">
-  <img src="//a.impactradius-go.com/display-ad/7443-1062450" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062450/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
@@ -123,10 +136,10 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886003/19272" target="_top" id="1886003">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886003" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886003/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -136,22 +149,15 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1186864/12108" target="_top" id="1186864">
-  <img src="//a.impactradius-go.com/display-ad/12108-1186864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/1001453/11832" target="_top" id="1001453">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001453" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186864/12108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001453/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -196,18 +202,19 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-from-static-to-sprightly-bouncing-text-animations/"><u>[Updated] From Static to Sprightly Bouncing Text Animations</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-nostalgic-shots-iphone-x-retro-photo-session/"><u>[Updated] Nostalgic Shots IPhone X Retro Photo Session</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-unraveling-youtubes-ranks-the-deciding-elements-for-2024/"><u>[Updated] Unraveling YouTube's Ranks The Deciding Elements for 2024</u></a></li>
-<li><a href="https://fox-http.techidaily.com/2024-approved-explore-the-best-phone-options-for-enhanced-gear-vr-immersion/"><u>2024 Approved Explore the Best Phone Options for Enhanced Gear VR Immersion</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/2024-approved-setting-up-a-flawless-stream-on-macos-with-mixer/"><u>2024 Approved Setting Up a Flawless Stream on macOS with Mixer</u></a></li>
-<li><a href="https://win-hot.techidaily.com/creating-a-standout-linkedin-presence-with-your-smartphone-simple-steps-to-success/"><u>Creating a Standout LinkedIn Presence with Your Smartphone: Simple Steps to Success</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/diverse-template-online-for-2024/"><u>Diverse Template | Online for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/in-2024-comedy-in-code-transformative-steps-for-tailoring-gif-laughter/"><u>In 2024, Comedy in Code Transformative Steps for Tailoring GIF Laughter</u></a></li>
-<li><a href="https://review-topics.techidaily.com/infinix-tutorial-bypass-lock-screen-security-password-pin-fingerprint-pattern-by-drfone-android-unlock-android-unlock/"><u>Infinix Tutorial - Bypass Lock Screen,Security Password Pin,Fingerprint,Pattern</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/play-store-stuck-on-downloading-of-nubia-red-magic-8s-proplus-7-ways-to-resolve-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Stuck on Downloading Of Nubia Red Magic 8S Pro+? 7 Ways to Resolve | Dr.fone</u></a></li>
-<li><a href="https://win-hot.techidaily.com/step-by-step-guide-downloading-music-videos-from-official-sources/"><u>Step-by-Step Guide: Downloading Music Videos From Official Sources</u></a></li>
-<li><a href="https://win-hot.techidaily.com/top-mp3-downloading-apps-for-your-windows-phone-a-comprehensive-guide/"><u>Top MP3 Downloading Apps for Your Windows Phone: A Comprehensive Guide</u></a></li>
-<li><a href="https://win-hot.techidaily.com/wannacry-ransomware-defense-tactics-unveiled-by-experts-at-malwarefox/"><u>WannaCry Ransomware Defense Tactics Unveiled by Experts at MalwareFox</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-boost-traffic-to-your-videos-top-seo-practices-for-youtube-success/"><u>[New] 2024 Approved Boost Traffic to Your Videos Top SEO Practices for YouTube Success</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-celebrated-scripts-spanning-eight-movie-segments/"><u>[New] 2024 Approved Celebrated Scripts Spanning Eight Movie Segments</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-listening-out-loud-deciphering-the-differences-between-podcasts-and-youtube/"><u>[New] 2024 Approved Listening Out Loud Deciphering the Differences Between Podcasts & YouTube</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-virtually-vivacious-top-humorous-memes-for-the-metaverse-enthusiasts/"><u>[New] Virtually Vivacious Top Humorous Memes for the Metaverse Enthusiasts</u></a></li>
+<li><a href="https://win-hot.techidaily.com/2014s-highest-grossing-youtube-music-hits-top-10-list/"><u>2014'S Highest-Grossing YouTube Music Hits: Top 10 List!</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-auditory-augmentation-for-win11-clips/"><u>2024 Approved Auditory Augmentation for Win11 Clips</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-enjoy-a-stream-of-nine-complete-christmas-capsules-on-youtube/"><u>2024 Approved Enjoy a Stream of Nine Complete Christmas Capsules on YouTube</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/amazon-kindle-paperwhite-time-change-instructions-made-easy/"><u>Amazon Kindle Paperwhite Time Change Instructions Made Easy</u></a></li>
+<li><a href="https://win-hot.techidaily.com/best-5-compatible-screen-mirroring-programs-for-your-huawei-p30-pro/"><u>Best 5 Compatible Screen Mirroring Programs for Your Huawei P30 Pro</u></a></li>
+<li><a href="https://win-hot.techidaily.com/eliminating-the-windows-support-alert-error-and-unblocking-your-pc-a-step-by-step-guide-with-malwarefox/"><u>Eliminating the 'Windows Support Alert' Error & Unblocking Your PC: A Step-by-Step Guide with MalwareFox</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-can-you-cast-your-apple-iphone-11-pro-to-windows-pc-with-ease-drfone-by-drfone-ios/"><u>How Can You Cast Your Apple iPhone 11 Pro to Windows PC With Ease? | Dr.fone</u></a></li>
+<li><a href="https://win-hot.techidaily.com/mastering-audio-production-in-windows-tips-and-tricks-for-garageband-users/"><u>Mastering Audio Production in Windows: Tips and Tricks for GarageBand Users</u></a></li>
+<li><a href="https://win-hot.techidaily.com/outstanding-techniques-to-mirror-your-iphone-display-on-a-computer/"><u>Outstanding Techniques to Mirror Your iPhone Display on a Computer</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/transformative-tutorial-turning-vids-on-twitter-into-catchy-animated-memes-gifs/"><u>Transformative Tutorial Turning Vids on Twitter Into Catchy Animated Memes (GIFs)</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Revamp Your Typing Experience with Microsoft's PowerToys - Master Key Mapping
-date: 2024-10-02T17:21:12.641Z
-updated: 2024-10-05T19:56:36.723Z
+date: 2024-10-06T21:22:36.388Z
+updated: 2024-10-10T20:33:12.698Z
 tags:
   - microsoft
 categories:
@@ -53,6 +53,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
+  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -62,6 +69,13 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484909/16446" target="_top" id="1484909">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484909" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484909/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -82,13 +96,6 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528703/16446" target="_top" id="1528703">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528703" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528703/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -123,10 +130,10 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925544/19272" target="_top" id="1925544">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925544" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925544/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -135,28 +142,15 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
-<!-- affiliate ads begin -->
-<span id="1492813">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135370/19272" target="_top" id="2135370">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135370" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144282/7443" target="_top" id="2144282">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144282" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135370/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144282/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -202,14 +196,20 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/updated-photos-unbound-choosing-between-cost-free-and-premium-cloud-options-for-2024/"><u>[Updated] Photos Unbound Choosing Between Cost-Free and Premium Cloud Options for 2024</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-the-ultimate-guide-dslr-streaming-on-personal-devices-for-2024/"><u>[Updated] The Ultimate Guide DSLR Streaming on Personal Devices for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-fix-for-sudden-audio-gaps-in-obs-captures/"><u>2024 Approved Fix for Sudden Audio Gaps in OBS Captures</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/advanced-file-deletion-solution-experience-the-power-of-stellars-standard-edition-eraser-pro-5-for-windows/"><u>Advanced File Deletion Solution: Experience the Power of Stellar's Standard Edition - Eraser Pro 5 for Windows</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-wildlife-wonders-at-fingertips-top-mobile-simulators/"><u>[New] In 2024, Wildlife Wonders at Fingertips Top Mobile Simulators</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-squared-up-crafting-square-format-videos-with-imovie-and-instagram/"><u>[New] Squared Up Crafting Square-Format Videos with iMovie and Instagram</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-perfecting-slow-motion-cinematography-for-social-media-engagement-on-instagram/"><u>[Updated] 2024 Approved Perfecting Slow Motion Cinematography for Social Media Engagement on Instagram</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-free-and-uncomplicated-youtube-image-extractor-tools-reviewed/"><u>[Updated] Free and Uncomplicated YouTube Image Extractor Tools Reviewed</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-mastering-visibility-after-a-tiktok-blackout/"><u>[Updated] Mastering Visibility After a TikTok Blackout</u></a></li>
 <li><a href="https://win-hot.techidaily.com/creating-a-standout-linkedin-presence-with-your-smartphone-simple-steps-to-success/"><u>Creating a Standout LinkedIn Presence with Your Smartphone: Simple Steps to Success</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-instantaneously-obscured-identities-quick-tips-with-piscart/"><u>In 2024, Instantaneously Obscured Identities Quick Tips with Piscart</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/in-2024-breaking-the-screens-top-10-most-popular-female-youtubers/"><u>In 2024, Breaking the Screens Top 10 Most Popular Female YouTubers</u></a></li>
 <li><a href="https://win-hot.techidaily.com/pc-livestream-mastery-on-instagram-a-comprehensive-tutorial-for-beginners/"><u>PC Livestream Mastery on Instagram: A Comprehensive Tutorial for Beginners</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ess-screen-stretch-cycle-youtube-on-television-display-for-2024/"><u>Seamless Screen Stretch Cycle YouTube on Television Display for 2024</u></a></li>
+<li><a href="https://win-hot.techidaily.com/simple-steps-to-clearing-your-iphones-entire-inbox/"><u>Simple Steps to Clearing Your iPhone's Entire Inbox</u></a></li>
+<li><a href="https://win-hot.techidaily.com/step-by-step-guide-downloading-music-videos-from-official-sources/"><u>Step-by-Step Guide: Downloading Music Videos From Official Sources</u></a></li>
+<li><a href="https://win-hot.techidaily.com/top-mp3-downloading-apps-for-your-windows-phone-a-comprehensive-guide/"><u>Top MP3 Downloading Apps for Your Windows Phone: A Comprehensive Guide</u></a></li>
 <li><a href="https://win-hot.techidaily.com/ultimate-tutorial-switching-your-primary-pdf-reader-in-windows-11/"><u>Ultimate Tutorial: Switching Your Primary PDF Reader in Windows 11</u></a></li>
 <li><a href="https://win-hot.techidaily.com/wannacry-ransomware-defense-tactics-unveiled-by-experts-at-malwarefox/"><u>WannaCry Ransomware Defense Tactics Unveiled by Experts at MalwareFox</u></a></li>
+<li><a href="https://driver-error.techidaily.com/windows-11-hd-audio-crisis-averted/"><u>Windows 11: HD Audio Crisis Averted</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Beyond Debloating: Effective Techniques for Optimizing Windows Performance, According to ZDNet"
-date: 2024-10-04T19:18:14.857Z
-updated: 2024-10-05T17:22:11.709Z
+date: 2024-10-04T21:07:56.855Z
+updated: 2024-10-11T02:35:48.386Z
 tags:
   - microsoft
 categories:
@@ -54,10 +54,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/798165/11305" target="_top" id="798165">
-  <img src="//a.impactradius-go.com/display-ad/11305-798165" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2002019/7443" target="_top" id="2002019">
+  <img src="//a.impactradius-go.com/display-ad/7443-2002019" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798165/11305" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002019/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -69,13 +69,6 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118325/7443" target="_top" id="2118325">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118325" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118325/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -96,13 +89,6 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036496/19272" target="_top" id="2036496">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036496" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036496/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -136,6 +122,13 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880931/19272" target="_top" id="1880931">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880931" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880931/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
@@ -143,15 +136,22 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -196,17 +196,24 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-picture-perfection-the-ultimate-iosandroid-covers-app/"><u>[Updated] 2024 Approved Picture Perfection The Ultimate iOS/Android Covers App</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-financial-outcomes-dailymotion-versus-youtube-earning-potential/"><u>[Updated] Financial Outcomes Dailymotion versus YouTube Earning Potential</u></a></li>
-<li><a href="https://win-hot.techidaily.com/best-mac-osx-file-retrieval-tools-a-comprehensive-guide-beyond-recuva/"><u>Best Mac OSX File Retrieval Tools: A Comprehensive Guide Beyond Recuva</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/five-minute-secrets-for-high-quality-backup-of-oldnew-dvd-collections/"><u>Five-Minute Secrets for High-Quality Backup of Old/New DVD Collections</u></a></li>
-<li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-samsung-galaxy-a23-5g-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Samsung Galaxy A23 5G Phones with/without a PC</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-unleash-creativity-free-premiere-pro-2023-templates/"><u>In 2024, Unleash Creativity Free Premiere Pro 2023 Templates</u></a></li>
-<li><a href="https://techtrends.techidaily.com/mastering-fixes-for-http-504-timeout-problems-on-websites/"><u>Mastering Fixes for HTTP 504 Timeout Problems on Websites</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/the-end-of-an-era-exploring-the-uncertainty-surrounding-next-gen-handheld-ps5-devices/"><u>The End of an Era? Exploring the Uncertainty Surrounding Next-Gen Handheld PS5 Devices</u></a></li>
-<li><a href="https://win-hot.techidaily.com/top-3-simple-online-programs-for-quickly-resizing-images/"><u>Top 3 Simple Online Programs for Quickly Resizing Images</u></a></li>
-<li><a href="https://win-hot.techidaily.com/top-rated-photoshop-tools-for-effortless-removal-of-unwanted-elements-from-images/"><u>Top Rated Photoshop Tools for Effortless Removal of Unwanted Elements From Images</u></a></li>
-<li><a href="https://win-hot.techidaily.com/transferring-iphone-video-content-seamlessly-onto-your-windows-11-pc/"><u>Transferring iPhone Video Content Seamlessly Onto Your Windows 11 PC</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/unraveling-the-mysteries-of-sci-fi-in-gaming-an-engrossing-review-of-torment-tides-of-numenera-a-journey-in-rpg-excellence/"><u>Unraveling the Mysteries of Sci-Fi in Gaming: An Engrossing Review of 'Torment: Tides of Numenera', A Journey in RPG Excellence</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-best-action-camera-gear-reviewed-by-hunters/"><u>[New] Best Action Camera Gear Reviewed by Hunters</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-investigating-the-top-10-cost-effective-video-collaboration-tools-in-corporateedu-settings/"><u>[New] Investigating the Top 10 Cost-Effective Video Collaboration Tools in Corporate/Edu Settings</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-unlocking-seamless-ocean-footage-with-these-7-hacks/"><u>[New] Unlocking Seamless Ocean Footage with These 7 Hacks</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-ultimate-camera-test-hero5-meets-sjcam/"><u>[Updated] 2024 Approved Ultimate Camera Test Hero5 Meets SJCAM</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-channel-finale-101-insider-tricks-for-successful-outros/"><u>[Updated] In 2024, Channel Finale 101 Insider Tricks for Successful Outros</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-how-much-do-you-really-earn-the-podcaster-perspective/"><u>2024 Approved How Much Do You Really Earn? - The Podcaster Perspective</u></a></li>
+<li><a href="https://howto.techidaily.com/6-solutions-to-fix-error-505-in-google-play-store-on-samsung-galaxy-s23-ultra-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Solutions to Fix Error 505 in Google Play Store on Samsung Galaxy S23 Ultra | Dr.fone</u></a></li>
+<li><a href="https://win-hot.techidaily.com/effortless-methods-a-step-by-step-guide-to-reflecting-android-content-on-your-ipad/"><u>Effortless Methods: A Step-by-Step Guide to Reflecting Android Content on Your iPad</u></a></li>
+<li><a href="https://win-hot.techidaily.com/effortless-techniques-for-converting-pdf-tables-into-microsoft-excel-format/"><u>Effortless Techniques for Converting PDF Tables Into Microsoft Excel Format</u></a></li>
+<li><a href="https://win-hot.techidaily.com/effortless-techniques-to-enhance-your-videos-brightness/"><u>Effortless Techniques to Enhance Your Videos' Brightness</u></a></li>
+<li><a href="https://win-hot.techidaily.com/how-to-effortlessly-move-iphone-playlists-and-songs-onto-a-windows-or-mac-desktop/"><u>How to Effortlessly Move iPhone Playlists and Songs Onto a Windows or Mac Desktop</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-two-ways-to-sync-contacts-from-xiaomi-redmi-note-12-5g-to-gmail-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Two Ways to Sync Contacts from Xiaomi Redmi Note 12 5G to Gmail | Dr.fone</u></a></li>
+<li><a href="https://win-hot.techidaily.com/introducing-the-cutting-edge-apowerrescue-software-experience-exceptional-new-functionality-today/"><u>Introducing the Cutting-Edge ApowerRescue Software - Experience Exceptional New Functionality Today!</u></a></li>
+<li><a href="https://win-hot.techidaily.com/privacy-battle-comparing-duckduckgo-and-google-as-top-secretive-search-engines/"><u>Privacy Battle: Comparing DuckDuckGo and Google as Top Secretive Search Engines</u></a></li>
+<li><a href="https://win-hot.techidaily.com/protecting-your-visuals-on-insta-the-ultimate-tutorial-for-applying-image-watermarks/"><u>Protecting Your Visuals on Insta – The Ultimate Tutorial for Applying Image Watermarks</u></a></li>
+<li><a href="https://win-hot.techidaily.com/ultimate-guide-choosing-the-best-3-bookmark-backup-tools-for-your-android-device/"><u>Ultimate Guide: Choosing the Best 3 Bookmark Backup Tools for Your Android Device</u></a></li>
+<li><a href="https://win-hot.techidaily.com/understanding-and-removing-trojan-droppers-a-complete-guide-by-malwarefox/"><u>Understanding and Removing Trojan Droppers: A Complete Guide by MalwareFox</u></a></li>
+<li><a href="https://win11.techidaily.com/unlock-the-code-navigating-through-lost-windows-1110-patches/"><u>Unlock the Code: Navigating Through Lost Windows 11/10 Patches</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/unlock-the-full-potential-of-vr-on-your-android-device/"><u>Unlock the Full Potential of VR on Your Android Device</u></a></li>
 </ul></div>
 

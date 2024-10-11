@@ -1,7 +1,7 @@
 ---
 title: "Urgent Update Needed: Microsoft Faces Critical Deadline to Fix Windows 10 Issues by Next Year | CyberNews Report"
-date: 2024-10-02T20:07:55.314Z
-updated: 2024-10-05T19:36:50.689Z
+date: 2024-10-08T16:14:28.239Z
+updated: 2024-10-10T17:03:20.596Z
 tags:
   - microsoft
 categories:
@@ -53,6 +53,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068408/7443" target="_top" id="2068408">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068408" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068408/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -84,10 +91,10 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886015/19272" target="_top" id="1886015">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886015" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886015/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
@@ -123,10 +130,10 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151855/7443" target="_top" id="2151855">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151855" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1885932/19272" target="_top" id="1885932">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885932" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151855/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885932/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -135,22 +142,21 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136626/26400" target="_top" id="2136626">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136626" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136626/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068417/7443" target="_top" id="2068417">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068417" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068417/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1912746">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -196,16 +202,24 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-in-2024-listeners-language-decoded-without-the-charge/"><u>[New] In 2024, Listeners' Language Decoded, Without the Charge</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-unlocking-personalized-vocal-elements-on-instagram/"><u>[Updated] In 2024, Unlocking Personalized Vocal Elements on Instagram</u></a></li>
-<li><a href="https://win-hot.techidaily.com/eliminate-lockscreen-ads-from-your-android-device-with-ease-a-step-by-step-guide/"><u>Eliminate Lockscreen Ads From Your Android Device with Ease: A Step-by-Step Guide</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/funny-facades-top-quality-free-meme-files/"><u>Funny Facades Top-Quality, FREE Meme Files</u></a></li>
-<li><a href="https://win-hot.techidaily.com/identifying-and-eliminating-iphone-spying-tools-using-malwarefox-solutions/"><u>Identifying and Eliminating iPhone Spying Tools Using MalwareFox Solutions</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/propel-your-virtual-presence-with-these-gadgets-for-2024/"><u>Propel Your Virtual Presence with These Gadgets for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/resolving-time-and-date-discrepancies-on-mac-a-comprehensive-8-step-guide/"><u>Resolving Time & Date Discrepancies on Mac: A Comprehensive 8-Step Guide</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/revealed-the-best-videos-from-facebooks-pages/"><u>Revealed The Best Videos From Facebook’s Pages</u></a></li>
-<li><a href="https://win-hot.techidaily.com/step-by-step-process-shifting-audio-files-from-an-iphone-onto-a-galaxy-s5/"><u>Step-by-Step Process: Shifting Audio Files From an iPhone Onto a Galaxy S5</u></a></li>
-<li><a href="https://win-hot.techidaily.com/top-reliable-online-services-for-converting-youtube-content-into-high-quality-mp3-audio/"><u>Top Reliable Online Services for Converting YouTube Content Into High-Quality MP3 Audio</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-tactical-cut-discarding-audible-elements-from-multimedia-files-mp4-mkv-avi-mov-wmv/"><u>Updated Tactical Cut Discarding Audible Elements From Multimedia Files (MP4, MKV, AVI, MOV, WMV)</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-capturing-your-xbox-playtime-for-sharing-for-2024/"><u>[New] Capturing Your Xbox Playtime for Sharing for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-masters-of-illusion-top-vr-producers-for-2024/"><u>[New] Masters of Illusion Top VR Producers for 2024</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-recovering-from-a-youtube-penalty/"><u>[New] Recovering From a Youtube Penalty</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-rhythmic-reworks-for-enhanced-imovie-experience/"><u>[Updated] Rhythmic Reworks for Enhanced iMovie Experience</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/3-ways-for-android-pokemon-go-spoofing-on-tecno-spark-20-drfone-by-drfone-virtual-android/"><u>3 Ways for Android Pokemon Go Spoofing On Tecno Spark 20 | Dr.fone</u></a></li>
+<li><a href="https://win-hot.techidaily.com/capture-cute-moments-with-the-ultimate-selection-of-7-baby-passport-shot-apps-on-ios-and-android-devices/"><u>Capture Cute Moments with the Ultimate Selection of 7 Baby Passport Shot Apps on iOS and Android Devices</u></a></li>
+<li><a href="https://win-hot.techidaily.com/clarity-restored-discover-the-best-2021-apps-to-correct-and-enhance-fuzzy-images/"><u>Clarity Restored: Discover the Best 2021 Apps to Correct and Enhance Fuzzy Images</u></a></li>
+<li><a href="https://article-files.techidaily.com/cutting-edge-techniques-for-3d-text-illustration-for-2024/"><u>Cutting-Edge Techniques for 3D Text Illustration for 2024</u></a></li>
+<li><a href="https://win-hot.techidaily.com/discover-apowersofts-latest-android-record-app-enhanced-functionality-and-new-innovations/"><u>Discover Apowersoft's Latest Android Record App: Enhanced Functionality and New Innovations</u></a></li>
+<li><a href="https://fox-links.techidaily.com/edit-away-bloat-organizing-your-overflow-of-tiktok-saves/"><u>Edit Away Bloat Organizing Your Overflow of TikTok Saves</u></a></li>
+<li><a href="https://win-hot.techidaily.com/essential-malware-inspection-instruments-leading-solutions-for-effective-cybersecurity-defense/"><u>Essential Malware Inspection Instruments: Leading Solutions for Effective Cybersecurity Defense</u></a></li>
+<li><a href="https://win-hot.techidaily.com/galaxy-note-2-a-step-by-step-guide-to-transferring-your-favorite-tunes/"><u>Galaxy Note 2: A Step-by-Step Guide to Transferring Your Favorite Tunes</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-create-an-apple-developer-account-from-iphone-8-plus-by-drfone-ios/"><u>In 2024, How To Create an Apple Developer Account From iPhone 8 Plus</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-mastering-clear-webcam-footage-recording-and-editing-tips/"><u>In 2024, Mastering Clear Webcam Footage Recording & Editing Tips</u></a></li>
+<li><a href="https://win-hot.techidaily.com/introducing-apoweredit-the-new-cutting-edge-editing-software-for-macs-brimming-with-exceptional-features/"><u>Introducing ApowerEdit: The New Cutting-Edge Editing Software for Macs Brimming with Exceptional Features</u></a></li>
+<li><a href="https://win-premium.techidaily.com/movavi-screen-recorder-mac-guide-how-to-easily-record-your-screen/"><u>Movavi Screen Recorder Mac Guide - How To Easily Record Your Screen</u></a></li>
+<li><a href="https://win-hot.techidaily.com/online-game-console-simulation-enjoy-retro-gaming-in-your-web-browser-instantly/"><u>Online Game Console Simulation: Enjoy Retro Gaming in Your Web Browser Instantly!</u></a></li>
+<li><a href="https://win-hot.techidaily.com/revive-your-missing-iphone-contacts-a-guide-for-recovering-erased-connections/"><u>Revive Your Missing iPhone Contacts: A Guide for Recovering Erased Connections</u></a></li>
+<li><a href="https://win-hot.techidaily.com/unlock-your-pdfs-ultimate-guide-to-bypassing-and-eliminating-file-restrictions/"><u>Unlock Your PDFs: Ultimate Guide to Bypassing and Eliminating File Restrictions</u></a></li>
 </ul></div>
 

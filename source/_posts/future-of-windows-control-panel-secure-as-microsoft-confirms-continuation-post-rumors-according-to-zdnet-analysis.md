@@ -1,7 +1,7 @@
 ---
 title: Future of Windows Control Panel Secure as Microsoft Confirms Continuation Post Rumors, According to ZDNet Analysis
-date: 2024-10-04T17:38:00.753Z
-updated: 2024-10-05T17:07:45.074Z
+date: 2024-10-05T01:52:39.281Z
+updated: 2024-10-10T20:36:29.202Z
 tags:
   - microsoft
 categories:
@@ -53,13 +53,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -71,10 +64,10 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484950/16446" target="_top" id="1484950">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484950" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484950/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
@@ -98,10 +91,10 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://dhgate.sjv.io/c/5597632/2106658/12108" target="_top" id="2106658">
+  <img src="//a.impactradius-go.com/display-ad/12108-2106658" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106658/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
@@ -137,16 +130,10 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<span id="1976998">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -154,6 +141,13 @@ I'd only go with an ESU, myself, if I _really_ had no other choice.
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
+
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/1943647/22993" target="_top" id="1943647">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943647" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
 
@@ -202,19 +196,22 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-in-2024-simplifying-the-complexities-of-vr-devices/"><u>[New] In 2024, Simplifying the Complexities of VR Devices</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-the-key-to-connecting-your-youtube-channel-with-a-facebook-page/"><u>[New] The Key to Connecting Your YouTube Channel with a Facebook Page</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-transforming-your-channel-url-step-by-step-instructions/"><u>[Updated] 2024 Approved Transforming Your Channel URL Step-by-Step Instructions</u></a></li>
-<li><a href="https://win-hot.techidaily.com/capturing-your-macs-display-in-el-capitan-the-ultimate-tutorial-for-easy-screenshots/"><u>Capturing Your Mac's Display in El Capitan: The Ultimate Tutorial for Easy Screenshots</u></a></li>
-<li><a href="https://win-hot.techidaily.com/comprehensive-guide-to-countering-jigsaw-ransomware-threats-securetech-solutions/"><u>Comprehensive Guide to Countering Jigsaw Ransomware Threats - SecureTech Solutions</u></a></li>
-<li><a href="https://win-hot.techidaily.com/effortlessly-refresh-your-tiktok-photo-top-strategies/"><u>Effortlessly Refresh Your TikTok Photo: Top Strategies</u></a></li>
-<li><a href="https://win-answers.techidaily.com/evil-genius-2-audio-issues-resolved-restoring-sounds/"><u>Evil Genius 2 Audio Issues Resolved: Restoring Sounds</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-how-to-enter-the-ispoofer-discord-server-on-apple-iphone-13-drfone-by-drfone-virtual-ios/"><u>In 2024, How to enter the iSpoofer discord server On Apple iPhone 13 | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/mastering-starfield-audio-performance-solutions-for-intermittent-cuts-and-hitches/"><u>Mastering Starfield Audio Performance: Solutions for Intermittent Cuts and Hitches</u></a></li>
-<li><a href="https://win-hot.techidaily.com/proven-techniques-for-capturing-quick-snaps-in-safari/"><u>Proven Techniques for Capturing Quick Snaps in Safari</u></a></li>
-<li><a href="https://win-hot.techidaily.com/step-by-step-guide-editing-and-cropping-images-within-a-pdf-file-on-your-windows-computer/"><u>Step-by-Step Guide: Editing and Cropping Images Within a PDF File on Your Windows Computer</u></a></li>
-<li><a href="https://win-hot.techidaily.com/step-by-step-guide-moving-your-phone-numbers-from-a-nokia-device-to-the-samsung-galaxy-s5/"><u>Step-by-Step Guide: Moving Your Phone Numbers From a Nokia Device to the Samsung Galaxy S5</u></a></li>
-<li><a href="https://games-able.techidaily.com/step-by-step-ps4-factory-reset-process/"><u>Step-by-Step PS4 Factory Reset Process</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/unboxing-the-acer-xfa240-performance-prioritized-in-this-powerful-pc-system/"><u>Unboxing the Acer XFA240: Performance Prioritized in This Powerful PC System</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-advanced-tips-for-adding-effects-on-digital-videos/"><u>[New] Advanced Tips for Adding Effects on Digital Videos</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-how-to-maximize-your-content-impact-with-imovie-on-vimeo/"><u>[New] How to Maximize Your Content Impact with iMovie on Vimeo</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/aving-the-way-to-success-with-professional-insights-into-youtube-banners/"><u>[New] Paving the Way to Success with Professional Insights Into YouTube Banners</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-efficiency-in-advertising-post-facebook-algorithm-overhaul/"><u>2024 Approved Efficiency in Advertising Post-Facebook Algorithm Overhaul</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/action-camera-showdown-2022-gopro-vs-garmin-virb-face-off/"><u>Action Camera Showdown 2022 GoPro Vs. Garmin VIRB Face-Off</u></a></li>
+<li><a href="https://win-hot.techidaily.com/best-windows-11-screenshot-and-recording-tools-beyond-the-game-bar/"><u>Best Windows 11 Screenshot & Recording Tools: Beyond the Game Bar</u></a></li>
+<li><a href="https://win-hot.techidaily.com/comprehensive-analysis-best-tools-for-screenshotting-and-creating-gifs/"><u>Comprehensive Analysis: Best Tools for Screenshotting and Creating GIFs</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/crucial-specification-verify-your-pc-features-a-compatible-d3d11-gpu-to-function/"><u>Crucial Specification: Verify Your PC Features a Compatible D3D11 GPU to Function</u></a></li>
+<li><a href="https://win-hot.techidaily.com/download-your-next-playlist-free-songs-from-songrs-latest-hits/"><u>Download Your Next Playlist: Free Songs From Songr's Latest Hits</u></a></li>
+<li><a href="https://win-hot.techidaily.com/easy-conversion-techniques-how-to-change-a-3ga-file-into-an-mp3-audio-format/"><u>Easy Conversion Techniques: How to Change a 3GA File Into an MP3 Audio Format</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/how-to-fix-jdownloader-issues-with-youtube-downloads-a-step-by-step-guide/"><u>How to Fix JDownloader Issues with YouTube Downloads - A Step-by-Step Guide</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-pc-screen-to-oppo-f25-pro-5g-phones-drfone-by-drfone-android/"><u>In 2024, How to Mirror PC Screen to Oppo F25 Pro 5G Phones? | Dr.fone</u></a></li>
+<li><a href="https://win-hot.techidaily.com/leading-professional-tools-for-stunning-instagram-photo-edits/"><u>Leading Professional Tools for Stunning Instagram Photo Edits</u></a></li>
+<li><a href="https://discover-community.techidaily.com/lossless-conversion-techniques-transforming-hevc-files-into-high-quality-mp4/"><u>Lossless Conversion Techniques: Transforming HEVC Files Into High-Quality MP4</u></a></li>
+<li><a href="https://win-hot.techidaily.com/manual-removal-of-android-viruses-step-by-step-the-expert-guide/"><u>Manual Removal of Android Viruses Step-by-Step: The Expert Guide</u></a></li>
+<li><a href="https://win-hot.techidaily.com/step-by-step-instructions-for-editing-and-submitting-pdfs-on-your-apple-computer/"><u>Step-by-Step Instructions for Editing and Submitting PDFs on Your Apple Computer</u></a></li>
+<li><a href="https://win-hot.techidaily.com/top-secrets-and-proven-hacks-for-maximizing-your-iphone-experience/"><u>Top Secrets and Proven Hacks for Maximizing Your iPhone Experience</u></a></li>
 </ul></div>
 

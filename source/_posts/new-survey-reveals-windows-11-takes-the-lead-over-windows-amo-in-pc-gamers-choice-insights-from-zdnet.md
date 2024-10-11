@@ -1,7 +1,7 @@
 ---
 title: New Survey Reveals Windows 11 Takes the Lead Over Windows Amo in PC Gamers' Choice | Insights From ZDNet
-date: 2024-10-01T19:11:06.378Z
-updated: 2024-10-05T17:57:39.615Z
+date: 2024-10-03T21:33:09.542Z
+updated: 2024-10-10T22:52:26.908Z
 tags:
   - windows
 categories:
@@ -44,10 +44,10 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948891/19272" target="_top" id="1948891">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948891" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1915830/19272" target="_top" id="1915830">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915830" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948891/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915830/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -85,16 +85,10 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<span id="1983582">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2144279/7443" target="_top" id="2144279">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144279" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144279/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -112,10 +106,10 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettiit.sjv.io/c/5597632/2148127/17093" target="_top" id="2148127">
+  <img src="//a.impactradius-go.com/display-ad/17093-2148127" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148127/17093" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -187,16 +181,20 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-turn-a-minute-into-millions-maximizing-viewership-for-youtubers/"><u>[Updated] In 2024, How to Turn a Minute Into Millions Maximizing Viewership for YouTubers</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-the-comedic-journey-an-evaluation-of-goofy-adventures/"><u>2024 Approved The Comedic Journey An Evaluation of 'Goofy Adventures'</u></a></li>
-<li><a href="https://blog-min.techidaily.com/5-ways-to-teach-you-to-transfer-files-from-vivo-y55s-5g-2023-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways To Teach You To Transfer Files from Vivo Y55s 5G (2023) to Other Android Devices Easily | Dr.fone</u></a></li>
-<li><a href="https://win-hot.techidaily.com/capture-cute-moments-with-the-ultimate-selection-of-7-baby-passport-shot-apps-on-ios-and-android-devices/"><u>Capture Cute Moments with the Ultimate Selection of 7 Baby Passport Shot Apps on iOS and Android Devices</u></a></li>
-<li><a href="https://win-hot.techidaily.com/discover-apowersofts-latest-android-record-app-enhanced-functionality-and-new-innovations/"><u>Discover Apowersoft's Latest Android Record App: Enhanced Functionality and New Innovations</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-remove-or-bypass-knox-enrollment-service-on-realme-narzo-60-pro-5g-by-drfone-android/"><u>In 2024, How To Remove or Bypass Knox Enrollment Service On Realme Narzo 60 Pro 5G</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-sim-unlock-vivo-x100-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/"><u>In 2024, Sim Unlock Vivo X100 Phones without Code 2 Ways to Remove Android Sim Lock</u></a></li>
-<li><a href="https://article-posts.techidaily.com/in-2024-unparalleled-background-music-compilation/"><u>In 2024, Unparalleled Background Music Compilation</u></a></li>
-<li><a href="https://win-hot.techidaily.com/online-game-console-simulation-enjoy-retro-gaming-in-your-web-browser-instantly/"><u>Online Game Console Simulation: Enjoy Retro Gaming in Your Web Browser Instantly!</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/step-by-step-solution-for-error-0x80004005-a-complete-walkthrough/"><u>Step-by-Step Solution for Error 0X80004005 - A Complete Walkthrough</u></a></li>
-<li><a href="https://win-hot.techidaily.com/unlock-your-pdfs-ultimate-guide-to-bypassing-and-eliminating-file-restrictions/"><u>Unlock Your PDFs: Ultimate Guide to Bypassing and Eliminating File Restrictions</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-maximizing-channel-visibility-banner-size-and-art-dimensions-explained/"><u>[New] In 2024, Maximizing Channel Visibility Banner Size and Art Dimensions Explained</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-the-visual-vintner-techniques-for-flavorful-films/"><u>[Updated] 2024 Approved The Visual Vintner Techniques for Flavorful Films</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-effective-streaming-across-platforms-including-facebook-and-twitch-for-2024/"><u>[Updated] Effective Streaming Across Platforms, Including Facebook and Twitch for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/10-best-live-tv-streaming-services-with-comparison/"><u>10 Best Live TV Streaming Services - With Comparison</u></a></li>
+<li><a href="https://win-hot.techidaily.com/2014s-highest-grossing-youtube-music-hits-top-10-list/"><u>2014'S Highest-Grossing YouTube Music Hits: Top 10 List!</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-examining-the-unique-features-of-youtubes-and-dailymentions/"><u>2024 Approved Examining the Unique Features of YouTubes and DailyMentions</u></a></li>
+<li><a href="https://win-hot.techidaily.com/become-a-pro-at-digital-mischief-10-essential-strategies-to-convince-friends-youre-a-hacker-just-kidding/"><u>Become a Pro at Digital Mischief: 10 Essential Strategies to Convince Friends You're a Hacker (Just Kidding!)</u></a></li>
+<li><a href="https://win-hot.techidaily.com/best-5-compatible-screen-mirroring-programs-for-your-huawei-p30-pro/"><u>Best 5 Compatible Screen Mirroring Programs for Your Huawei P30 Pro</u></a></li>
+<li><a href="https://win-hot.techidaily.com/eliminating-the-windows-support-alert-error-and-unblocking-your-pc-a-step-by-step-guide-with-malwarefox/"><u>Eliminating the 'Windows Support Alert' Error & Unblocking Your PC: A Step-by-Step Guide with MalwareFox</u></a></li>
+<li><a href="https://win-answers.techidaily.com/expert-tips-for-fixing-minecraft-not-loading-errors/"><u>Expert Tips for Fixing Minecraft Not Loading Errors</u></a></li>
+<li><a href="https://win-hot.techidaily.com/leading-gameplay-recorder-applications-for-ultimate-streaming-success/"><u>Leading Gameplay Recorder Applications for Ultimate Streaming Success</u></a></li>
+<li><a href="https://win-hot.techidaily.com/mastering-audio-production-in-windows-tips-and-tricks-for-garageband-users/"><u>Mastering Audio Production in Windows: Tips and Tricks for GarageBand Users</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/streamline-mov-repair-with-stellar-help/"><u>Streamline MOV Repair with Stellar Help</u></a></li>
+<li><a href="https://win-hot.techidaily.com/top-noteworthy-enhancements-of-iphone-x-and-iphone-n-explored/"><u>Top Noteworthy Enhancements of iPhone X & iPhone N Explored</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-steps-for-resolving-modern-warfare-dev-error-6034-on-pc-and-xbox/"><u>Troubleshooting Steps for Resolving Modern Warfare Dev Error 6034 on PC and Xbox</u></a></li>
 </ul></div>
 

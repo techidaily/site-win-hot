@@ -1,7 +1,7 @@
 ---
 title: Why Microsoft's Revamped Windows Copilot App Will Delight Users, According to ZDNet Insights
-date: 2024-10-02T18:05:26.102Z
-updated: 2024-10-05T19:02:34.121Z
+date: 2024-10-03T16:25:39.051Z
+updated: 2024-10-11T03:04:52.160Z
 tags:
   - microsoft
 categories:
@@ -53,6 +53,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -62,13 +69,6 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2145009/26400" target="_top" id="2145009">
-  <img src="//a.impactradius-go.com/display-ad/26400-2145009" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2145009/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -89,6 +89,13 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
+
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2141683/17092" target="_top" id="2141683">
+  <img src="//a.impactradius-go.com/display-ad/17092-2141683" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141683/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -123,10 +130,10 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885928/19272" target="_top" id="1885928">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885928" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885928/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -136,22 +143,15 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1528688/16446" target="_top" id="1528688">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528688" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528688/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868571/19272" target="_top" id="1868571">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868571" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868571/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -196,24 +196,18 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-premiere-selection-of-virtual-gaming-essentials/"><u>[New] Premiere Selection of Virtual Gaming Essentials</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-snap-it-all-top-5-windows-11-recording-strategies-for-gamers-for-2024/"><u>[New] Snap It All! Top 5 Windows 11 Recording Strategies for Gamers for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-unveiling-vr-video-versus-spherical-capture-tech-distinctions/"><u>[New] Unveiling VR Video versus Spherical Capture Tech Distinctions</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/4-ways-to-extract-data-from-corrupt-excel-2021-file-by-stellar-guide/"><u>4 Ways to extract data from corrupt Excel 2021 file</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-easily-connect-to-the-cloud-and-post-from-your-camera-roll/"><u>[New] Easily Connect to the Cloud and Post From Your Camera Roll</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-screen-to-file-high-quality-professional-record/"><u>[Updated] Screen to File High-Quality Professional Record</u></a></li>
 <li><a href="https://win-hot.techidaily.com/accessible-language-solutions-convert-your-multimedia-content-with-these-free-video-translation-services/"><u>Accessible Language Solutions: Convert Your Multimedia Content with These Free Video Translation Services</u></a></li>
 <li><a href="https://win-hot.techidaily.com/avoid-compromising-your-mac-understand-the-risks-of-persistent-pop-ups-and-effective-removal-techniques-by-malwarefox-experts/"><u>Avoid Compromising Your Mac: Understand the Risks of Persistent Pop-Ups & Effective Removal Techniques by MalwareFox Experts</u></a></li>
-<li><a href="https://win-hot.techidaily.com/capture-cute-moments-with-the-ultimate-selection-of-7-baby-passport-shot-apps-on-ios-and-android-devices/"><u>Capture Cute Moments with the Ultimate Selection of 7 Baby Passport Shot Apps on iOS and Android Devices</u></a></li>
-<li><a href="https://win-hot.techidaily.com/discover-apowersofts-latest-android-record-app-enhanced-functionality-and-new-innovations/"><u>Discover Apowersoft's Latest Android Record App: Enhanced Functionality and New Innovations</u></a></li>
+<li><a href="https://win-answers.techidaily.com/cod-world-war-ii-error-4128-explained-and-resolved-easily/"><u>COD World War II Error 4128 Explained and Resolved Easily</u></a></li>
 <li><a href="https://win-hot.techidaily.com/discover-the-finest-selection-of-7-premium-ad-free-video-trimmers-for-seamless-edits/"><u>Discover the Finest Selection of 7 Premium, Ad-Free Video Trimmers for Seamless Edits</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-fix-when-apple-account-locked-on-apple-iphone-15-pro-max-by-drfone-ios/"><u>How to Fix when Apple Account Locked On Apple iPhone 15 Pro Max?</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-best-3-realme-c51-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>In 2024, Best 3 Realme C51 Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/in-2024-mastering-youtube-on-facebook-the-art-of-video-creation/"><u>In 2024, Mastering YouTube on Facebook The Art of Video Creation</u></a></li>
-<li><a href="https://win-hot.techidaily.com/introducing-apoweredit-the-new-cutting-edge-editing-software-for-macs-brimming-with-exceptional-features/"><u>Introducing ApowerEdit: The New Cutting-Edge Editing Software for Macs Brimming with Exceptional Features</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/exploring-a-fresh-environment-in-depth-analysis-of-watch-dogs-legion/"><u>Exploring a Fresh Environment: In-Depth Analysis of Watch Dogs: Legion</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-your-honor-x9a-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>How to Mirror Your Honor X9a Screen to PC with Chromecast | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-a-guide-motorola-edge-2023-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>In 2024, A Guide Motorola Edge 2023 Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/navigating-whatsapps-latest-privacy-shifts-comprehensive-analysis-by-malwarefox/"><u>Navigating WhatsApp's Latest Privacy Shifts – Comprehensive Analysis by MalwareFox</u></a></li>
 <li><a href="https://win-hot.techidaily.com/online-game-console-simulation-enjoy-retro-gaming-in-your-web-browser-instantly/"><u>Online Game Console Simulation: Enjoy Retro Gaming in Your Web Browser Instantly!</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/professional-tips-for-hd-streaming-success-on-social-media-fb-for-2024/"><u>Professional Tips for HD Streaming Success on Social Media (FB) for 2024</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/say-goodbye-to-steam-link-woes-uncover-powerful-open-source-streamers-like-moonlight-and-sunshine/"><u>Say Goodbye to Steam Link Woes! Uncover Powerful Open-Source Streamers Like Moonlight & Sunshine.</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/tackling-maxed-gpt-on-windows-platforms/"><u>Tackling Maxed GPT on Windows Platforms</u></a></li>
-<li><a href="https://win-hot.techidaily.com/unlock-your-pdfs-ultimate-guide-to-bypassing-and-eliminating-file-restrictions/"><u>Unlock Your PDFs: Ultimate Guide to Bypassing and Eliminating File Restrictions</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/proposed-alterations-streamlining-the-chatgpt-plugin-shop/"><u>Proposed Alterations: Streamlining the ChatGPT Plugin Shop</u></a></li>
 <li><a href="https://win-hot.techidaily.com/unveiling-the-reasons-behind-youtubes-video-converter-prompt-expert-level-antivirusguide-insights/"><u>Unveiling the Reasons Behind YouTube's Video Converter Prompt: Expert-Level AntiVirusGuide Insights</u></a></li>
 </ul></div>
 
