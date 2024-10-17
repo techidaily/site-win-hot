@@ -1,7 +1,7 @@
 ---
 title: "Windows 11 USB Recovery Techniques: Discover 3 Effective Methods"
-date: 2024-10-09T21:17:29.965Z
-updated: 2024-10-10T16:23:04.151Z
+date: 2024-10-10T06:38:56.476Z
+updated: 2024-10-16T16:19:35.441Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/918ad49eae4bb09e7bbe637c097999923379261d114b5800bdb87d98b552aa6d.jpg
@@ -49,10 +49,10 @@ If you are looking for methods on how to recover ransomware-infected files, you 
 [![Recover Files From Ransomware](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/others/recover-files-from-ransomware.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to recover files from ransomware attack in 4 ways
@@ -121,22 +121,22 @@ Step 2\. Press the **Restore personal files** button on the left panel. Please m
 
 [![Restore Personal Files](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows/restore-personal-files.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step 3\. Find the files you want to recover and click the arrow pointing left or right to choose the version you need. And then, click the **Recover** button.
 
 [![Restore Deleted File](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows/restore-deleted-file.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886048/19272" target="_top" id="1886048">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886048" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886048/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075483/7443" target="_top" id="2075483">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075483" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075483/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Method 4\. Recover from ransomware through system restore
@@ -150,22 +150,15 @@ Step 1\. Press **Win + S** to open the Windows search box, type **Create a resto
 [![Create A Restore Point Open](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows/create-a-restore-point-open.png)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134236/18498" target="_top" id="2134236">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134236" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134236/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Step 2\. Click on **System Restore** \> **Next**.
 
 [![System Drive On System Restore Next](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows/system-drive-on-system-restore-next.png)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Step 3\. Choose a restore point from the list and tap on **Scan for affected programs** to check the items that will be deleted after the restore. Then, click **Close**.
 
@@ -176,13 +169,6 @@ Step 4\. Press **Next**. Confirm the selected restore point and click **Finish**
 If there is no restore point, it might be because the system protection isn't turned on. You can check **Protection Settings** on the System Protection tab. If the Protection Settings for your system drive shows as **Off**, you can click on **Configure** \> **Turn on System protection**, and then OK to turn it on.
 
 [![Turn On System Protection Ok](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows/turn-on-system-protection-ok.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049387/7443" target="_top" id="2049387">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049387" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049387/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Notes:✎...
 
@@ -209,15 +195,22 @@ Was the provided information useful? Your vote is important to us!
 
 ![Kelsey](https://www.ubackup.com/assets/images/author/kelsey-avatar.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094476/7443" target="_top" id="2094476">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094476" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094476/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 [Kelsey](https://tools.techidaily.com/ubackup/products/) · Editor
 
 Kelsey is an English editor of AOMEI Technology. She is passionate about helping people find effective ways to deal with all problems in computer. She has great insights into data backup and recovery, disk partition and clone, and other data protection measures. She likes learn computer skills to improve herself and enjoy quality time with family and friends. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886019/19272" target="_top" id="1886019">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886019" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049382/7443" target="_top" id="2049382">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049382" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886019/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049382/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Related Articles
@@ -248,13 +241,26 @@ Recover deleted & lost data from any disasters in Windows.
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-secure-16.svg) 100% Clean & Secure
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896546/19272" target="_top" id="1896546">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896546" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896546/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://www.ubackup.com/resource/images/ub-mr-theme/ub-article-mr-img-dibu.png)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1975658">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
@@ -272,19 +278,17 @@ Recover deleted & lost data from any disasters in Windows.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-television-or-projector-unraveling-the-best-for-4k-viewing-pleasure/"><u>[New] Television or Projector? Unraveling the Best for 4K Viewing Pleasure</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-from-oven-to-screen-cooking-videos-unveiled/"><u>[Updated] 2024 Approved From Oven to Screen Cooking Videos Unveiled</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-a-viewer-friendly-approach-implementing-commentary-and-alerts-on-youtube-for-2024/"><u>[Updated] A Viewer-Friendly Approach Implementing Commentary and Alerts on YouTube for 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/2024-approved-capture-video-like-a-pro-on-modern-laptops/"><u>2024 Approved Capture Video Like a Pro on Modern Laptops</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/ai-content-generation-what-can-you-do-if-your-job-is-now-considered-automated/"><u>AI Content Generation: What Can You Do If Your Job Is Now Considered Automated?</u></a></li>
-<li><a href="https://win-hot.techidaily.com/common-challenges-when-trying-to-download-the-f4f-file/"><u>Common Challenges When Trying to Download the F4F File</u></a></li>
-<li><a href="https://win-hot.techidaily.com/discover-the-top-ranking-free-sms-organizers-for-your-android-device/"><u>Discover the Top-Ranking Free SMS Organizers for Your Android Device</u></a></li>
-<li><a href="https://win-hot.techidaily.com/eliminating-intrusive-advertisements-on-youtube-the-ultimate-guide-with-malwarefox/"><u>Eliminating Intrusive Advertisements on YouTube: The Ultimate Guide with MalwareFox</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-find-ispoofer-pro-activation-key-on-oppo-a58-4g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Find iSpoofer Pro Activation Key On Oppo A58 4G? | Dr.fone</u></a></li>
-<li><a href="https://win-hot.techidaily.com/introducing-the-updated-mac-audio-recorder-by-apowersoft-v20-advanced-editing-and-conversion-capabilities-now-at-your-fingertips/"><u>Introducing the Updated Mac Audio Recorder by Apowersoft (v2.0): Advanced Editing and Conversion Capabilities Now at Your Fingertips</u></a></li>
-<li><a href="https://win-hot.techidaily.com/mastering-the-art-of-slicing-a-comprehensive-guide-to-vertical-video-editing/"><u>Mastering the Art of Slicing: A Comprehensive Guide to Vertical Video Editing</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/quick-start-deploying-and-operating-the-codegpt-tool-inside-your-visual-studio-environment/"><u>Quick Start: Deploying and Operating the CodeGPT Tool Inside Your Visual Studio Environment</u></a></li>
-<li><a href="https://win-hot.techidaily.com/simplified-guide-how-to-combine-multiple-pdf-documents-into-a-single-file-2020/"><u>Simplified Guide: How to Combine Multiple PDF Documents Into a Single File (2020)</u></a></li>
-<li><a href="https://techidaily.com/unlock-android-phone-if-you-don-t-have-lava-blaze-pro-5g-fingerprint-by-drfone-android-unlock-android-unlock/"><u>Unlock android phone if you don't have Lava Blaze Pro 5G fingerprint</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-2024-approved-unlocking-growth-potential-with-top-7-tiktok-tools/"><u>[Updated] 2024 Approved Unlocking Growth Potential with Top 7 TikTok Tools</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-selecting-your-next-travel-cinema-device-for-2024/"><u>[Updated] Selecting Your Next Travel Cinema Device for 2024</u></a></li>
+<li><a href="https://win-hot.techidaily.com/3-easy-methods-for-transferring-your-email-data-from-windows-11-to-an-external-storage-device/"><u>3 Easy Methods for Transferring Your Email Data From Windows 11 to an External Storage Device</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/202-cufflinks-imageinfonewjsonlimportancetrue-5/"><u>如何在202 cufflinks-image_info_new.jsonlimportance:true步上更高的图像清晰度 - 5个最有效的技巧</u></a></li>
+<li><a href="https://win-hot.techidaily.com/como-hacer-que-tus-archivos-y-directorios-se-mantengan-actualizados-bajo-el-sistema-operativo-windows-7/"><u>Cómo Hacer Que Tus Archivos Y Directorios Se Mantengan Actualizados Bajo El Sistema Operativo Windows 7</u></a></li>
+<li><a href="https://win-hot.techidaily.com/defis-et-performances-xcopy-par-rapport-a-robocopy-un-guide-complet-pour-les-utilisateurs-dos-windows/"><u>Défis Et Performances : Xcopy Par Rapport À Robocopy - Un Guide Complet Pour Les Utilisateurs D'OS Windows</u></a></li>
+<li><a href="https://change-location.techidaily.com/here-are-some-of-the-best-pokemon-discord-servers-to-join-on-vivo-y55s-5g-2023-drfone-by-drfone-virtual-android/"><u>Here are Some of the Best Pokemon Discord Servers to Join On Vivo Y55s 5G (2023) | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-recover-lost-data-on-apple-iphone-15-plus-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How To Recover Lost Data on Apple iPhone 15 Plus? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-pokemon-go-error-12-failed-to-detect-location-on-samsung-galaxy-xcover-6-pro-tactical-edition-drfone-by-drfone-virtual-android/"><u>In 2024, Pokemon Go Error 12 Failed to Detect Location On Samsung Galaxy XCover 6 Pro Tactical Edition? | Dr.fone</u></a></li>
+<li><a href="https://win-hot.techidaily.com/migrating-from-an-old-hard-drive-to-a-new-one/"><u>Migrating From an Old Hard Drive to a New One</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/step-by-step-solution-for-nonfunctional-windows-wallpapers-in-windows-11/"><u>Step-by-Step Solution for Nonfunctional Windows Wallpapers in Windows 11</u></a></li>
+<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-oppo-reno-11-pro-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Oppo Reno 11 Pro 5G Hard Reset | Dr.fone</u></a></li>
 </ul></div>
 
