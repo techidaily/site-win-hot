@@ -1,7 +1,7 @@
 ---
 title: Resetting an Outdoor QNAP NAS Unit's External HDD Username and Password – Guide
-date: 2024-11-02T16:14:42.892Z
-updated: 2024-11-03T16:41:31.619Z
+date: 2024-11-10T18:54:31.713Z
+updated: 2024-11-12T17:46:13.296Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/5a4d47d2bc28159ccd90a432752164871c06ebbcaaa0d991f5b2af6c3794c92c.jpg
@@ -70,10 +70,10 @@ Alcune applicazioni di terze parti o conflitti software potrebbero interferire c
 Ora, esploriamo cinque soluzioni per affrontare il problema di non poter digitare nulla nella casella di ricerca su Windows 10, garantendo un'esperienza utente fluida.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880940/19272" target="_top" id="1880940">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880940" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880940/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Soluzione 1: Riavvio dei Servizi Cortana e Ricerca di Windows
@@ -94,6 +94,13 @@ Passo 4\. Prova a Digitare nella Barra di Ricerca:
 
 Prova a digitare nella barra di ricerca dopo aver riavviato i servizi.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151871/7443" target="_top" id="2151871">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151871" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151871/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Soluzione 2: Esegui il Risolutore dei Problemi di Ricerca e Indicizzazione
 
 Passo 1\. Apri Impostazioni:
@@ -111,13 +118,6 @@ Fai clic su Risoluzioni aggiuntive, fai clic su "Ricerca e Indicizzazione", e pr
 Passo 4\. Segui le Istruzioni Visualizzate:
 
 Segui le istruzioni visualizzate per completare il processo di risoluzione dei problemi e verifica se il problema di non poter digitare nella barra di ricerca di Windows è risolto.
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Soluzione 3: Ricostruisci le Opzioni di Indicizzazione
 
@@ -198,10 +198,10 @@ Passo 4\. Avvia il Backup:
 Clicca su "Avvia Backup" per creare un backup completo del tuo sistema Windows 10.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049378/7443" target="_top" id="2049378">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049378" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2012434/19272" target="_top" id="2012434">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012434" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049378/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012434/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Domande Frequenti su Impossibilità di Digitare nella Barra di Ricerca su Windows 10
@@ -217,13 +217,6 @@ La ricostruzione dell'indice non influisce sui file, ma migliora la funzionalit�
 #3: AOMEI Backupper può ripristinare il mio sistema se necessario?
 
 Sì, AOMEI Backupper fornisce una soluzione affidabile per il ripristino del sistema in caso di problemi.
-
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1175223/12108" target="_top" id="1175223">
-  <img src="//a.impactradius-go.com/display-ad/12108-1175223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1175223/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Consigli per un'Operazione Fluida di Windows 10
 
@@ -246,10 +239,10 @@ Le informazioni fornite sono state utili? Il tuo voto è importante per noi!
 ![Aira](https://www.ubackup.com/assets/images/author/aira.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885999/19272" target="_top" id="1885999">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885999" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144279/7443" target="_top" id="2144279">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144279" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885999/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144279/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 [Aira](https://tools.techidaily.com/ubackup/products/) · Editore
@@ -262,6 +255,13 @@ Le informazioni fornite sono state utili? Il tuo voto è importante per noi!
 
 [Sì](https://tools.techidaily.com/ubackup/products/)[No](https://tools.techidaily.com/ubackup/products/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880960/19272" target="_top" id="1880960">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880960/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Scarica Gratis AOMEI Backupper Ora
 
 Proteggi tutti i dati del tuo computer con backup, sincronizzazione e clonazione.
@@ -270,14 +270,14 @@ Proteggi tutti i dati del tuo computer con backup, sincronizzazione e clonazione
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-secure-16.svg) 100% Pulito e Sicuro
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151870/7443" target="_top" id="2151870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151870/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-medium-img-pc@2x.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -294,24 +294,24 @@ Proteggi tutti i dati del tuo computer con backup, sincronizzazione e clonazione
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-ensuring-copyright-compliance-in-youtube-to-mp4-for-2024/"><u>[New] Ensuring Copyright Compliance in Youtube-to-MP4 for 2024</u></a></li>
-<li><a href="https://network-issues.techidaily.com/troubleshooted-cod-cold-wars-network-issues/"><u>[TROUBLESHOOTED]: CoD Cold War's Network Issues</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-discovering-the-top-tools-for-engaging-video-beginnings/"><u>[Updated] 2024 Approved Discovering the Top Tools for Engaging Video Beginnings</u></a></li>
-<li><a href="https://win-hot.techidaily.com/cd3/"><u>「Cドライブへの移動からDドライブへの移動まで、高速・省力ファイル変更ガイド【3つ採用方法】」</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-expedited-srt-to-txt-conversion-2023s-efficient-method/"><u>2024 Approved Expedited SRT to TXT Conversion 2023'S Efficient Method</u></a></li>
-<li><a href="https://win-hot.techidaily.com/4-effective-ways-to-use-your-iphone-as-a-usb-drive-without-itunes-for-free/"><u>4 Effective Ways to Use Your iPhone As a USB Drive Without iTunes for Free</u></a></li>
-<li><a href="https://win-hot.techidaily.com/hdd-windows-11top3/"><u>外部HDD不要! Windows 11の効果的バックアップ手順TOP3</u></a></li>
-<li><a href="https://win-hot.techidaily.com/comment-reparer-avec-succes-une-carte-micro-sd-non-fonctionnelle-guide-complet/"><u>Comment Réparer Avec Succès Une Carte Micro-SD Non Fonctionnelle: Guide Complet</u></a></li>
-<li><a href="https://win-hot.techidaily.com/comment-resoudre-les-problemes-derreur-dans-le-registre-windows-10-un-manuel-exhaustif/"><u>Comment Résoudre Les Problèmes D'Erreur Dans Le Registre Windows 10 : Un Manuel Exhaustif</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/crafted-fun-by-chatgpt-are-digital-bards-of-humor/"><u>Crafted Fun by ChatGPT: Are Digital Bards of Humor?</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/discover-the-8-greatest-mobile-video-games-for-ultimate-fun/"><u>Discover the 8 Greatest Mobile Video Games for Ultimate Fun</u></a></li>
-<li><a href="https://win-hot.techidaily.com/effizientes-herunterladen-und-synchronisieren-automatischer-dateien-auf-google-drive-erkunden-sie-4-strategien/"><u>Effizientes Herunterladen Und Synchronisieren Automatischer Dateien Auf Google Drive - Erkunden Sie 4 Strategien</u></a></li>
-<li><a href="https://win-hot.techidaily.com/guide-express-pour-configurer-un-support-amovible-a-partition-booteable/"><u>Guide Express Pour Configurer Un Support Amovible À Partition Booteable</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-3-easy-ways-to-factory-reset-a-locked-apple-iphone-6s-plus-without-itunes-by-drfone-ios/"><u>In 2024, 3 Easy Ways to Factory Reset a Locked Apple iPhone 6s Plus Without iTunes</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-can-you-transfer-files-from-tecno-camon-30-pro-5g-to-iphone-151413-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How Can You Transfer Files From Tecno Camon 30 Pro 5G To iPhone 15/14/13? | Dr.fone</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-unveiling-8-honest-video-promotion-services/"><u>In 2024, Unveiling 8 Honest Video Promotion Services</u></a></li>
-<li><a href="https://win-hot.techidaily.com/nutzerfreundliche-methoden-zur-absicherung-von-imessages-ohne-die-nutzung-von-icloud/"><u>Nutzerfreundliche Methoden Zur Absicherung Von iMessages - Ohne Die Nutzung Von iCloud</u></a></li>
-<li><a href="https://win-hot.techidaily.com/solving-the-problem-of-your-seagate-external-hard-drive-appearing-in-raw-state/"><u>Solving the Problem of Your Seagate External Hard Drive Appearing in RAW State</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/toms-tech-insights-comprehensive-hardware-reviews/"><u>Tom's Tech Insights: Comprehensive Hardware Reviews</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-streaming-supremacy-duo/"><u>[New] In 2024, Streaming Supremacy Duo</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-top-10-fb-video-downloader-tools-firefox-compatible/"><u>[Updated] 2024 Approved Top 10 FB Video Downloader Tools, Firefox Compatible</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-the-experts-approach-to-inserting-subtitlescc-on-youtube-videos-for-2024/"><u>[Updated] The Expert's Approach to Inserting Subtitles/CC on YouTube Videos for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-the-user-friendly-way-of-migrating-snapchat-images-home-for-2024/"><u>[Updated] The User-Friendly Way of Migrating SnapChat Images Home for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-step-into-premium-sound-quality-garageband-edition/"><u>2024 Approved Step Into Premium Sound Quality GarageBand Edition</u></a></li>
+<li><a href="https://win-hot.techidaily.com/7-top-picks/"><u>7 - Top Picks</u></a></li>
+<li><a href="https://win-hot.techidaily.com/comment-recuperer-des-donnees-inaccessibles-sur-votre-cle-micro-sd-de-samsung-astuces-et-conseils/"><u>Comment Récupérer Des Données Inaccessibles Sur Votre Clé Micro-SD De Samsung : Astuces Et Conseils</u></a></li>
+<li><a href="https://win-hot.techidaily.com/comment-resoudre-le-probleme-de-lecran-blanc-sur-votre-pc-avec-windows-11-6-solutions-simples-et-efficaces/"><u>Comment Résoudre Le Problème De L'Écran Blanc Sur Votre PC Avec Windows 11 : 6 Solutions Simples Et Efficaces</u></a></li>
+<li><a href="https://win-hot.techidaily.com/data-retrieval-methods-for-non-booting-dell-laptops-a-comprehensive-guide/"><u>Data Retrieval Methods for Non-Booting Dell Laptops: A Comprehensive Guide</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ting-the-cold-with-five-cozy-cinematic-elements-for-2024/"><u>Elevating the Cold with Five Cozy Cinematic Elements for 2024</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fake-gps-on-xiaomi-redmi-a2plus-for-mobile-legends-drfone-by-drfone-virtual-android/"><u>In 2024, How To Fake GPS On Xiaomi Redmi A2+ For Mobile Legends? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-to-fix-pokemon-go-route-not-working-on-xiaomi-13-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Pokemon Go Route Not Working On Xiaomi 13 Ultra? | Dr.fone</u></a></li>
+<li><a href="https://win-hot.techidaily.com/le-meilleur-guide-sur-les-programmes-dautomatisation-de-transfert-de-donnees-par-cles-usb-en-france/"><u>Le Meilleur Guide Sur Les Programmes D'Automatisation De Transfert De Données Par Clés USB en France</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/official-epson-artisan-1430-printer-driver-installation-for-windows-11108-get-your-download-here/"><u>Official Epson Artisan 1430 Printer Driver Installation for Windows 11/10/8 - Get Your Download Here!</u></a></li>
+<li><a href="https://win-hot.techidaily.com/1728468263406-samsung-ssd/"><u>Samsung SSD 移行問題：不認証時の詳細な解決法</u></a></li>
+<li><a href="https://win-hot.techidaily.com/schnell-wiederherstellen-von-geloschten-wav-audiodateien-effizientes-verfahren/"><u>Schnell Wiederherstellen Von Gelöschten WAV-Audiodateien - Effizientes Verfahren</u></a></li>
+<li><a href="https://win-hot.techidaily.com/step-by-step-guide-cloning-windows-11-from-hdd-to-a-brand-new-ssd/"><u>Step-by-Step Guide: Cloning Windows 11 From HDD to a Brand New SSD</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/unveiling-the-most-accessible-latin-program-online/"><u>Unveiling the Most Accessible Latin Program Online</u></a></li>
+<li><a href="https://win-hot.techidaily.com/waarom-klont-macrium-reflect-bijna-nooit-succeefde-versie-980-onderzoek-over-de-gelijke-fouten/"><u>Waarom Klont Macrium Reflect Bijna Nooit Succeefde Versie 9.8.0 - Onderzoek Over De Gelijke Fouten</u></a></li>
 </ul></div>
 
