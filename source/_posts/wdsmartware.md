@@ -1,7 +1,7 @@
 ---
 title: "解決策: WDSmartWareはコンピュータ全体のファイルバックアップに対応できますか?"
-date: 2024-10-30T16:44:54.209Z
-updated: 2024-11-03T16:14:51.161Z
+date: 2024-11-21T05:55:33.754Z
+updated: 2024-11-22T10:37:19.989Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/a02a9911f50368d686754fe93fbecd3af42fa753760f192f422f0660350e151b.jpg
@@ -17,6 +17,10 @@ thumbnail: https://thmb.techidaily.com/a02a9911f50368d686754fe93fbecd3af42fa7537
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Logiciel de sauvegarde NAS Buffalo le plus efficace ! \[Guide inclus\]
 
@@ -44,13 +48,14 @@ NAS Buffalo est la solution idéale pour la protection des données et peut faci
 [![buffalo](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/others/image/nas-buffalo.png)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2148619/17108" target="_top" id="2148619">
-  <img src="//a.impactradius-go.com/display-ad/17108-2148619" border="0" alt="https://techidaily.com" width="100" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2148619/17108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Ne vous inquiétez pas trop. Vous pouvez envisager d'utiliser un logiciel de sauvegarde NAS tiers pour vous aider. [AOMEI Backupper Standard](https://tools.techidaily.com/ubackup/products/) est un excellent choix en raison de sa grande compatibilité (prise en charge de Windows 7/8/10/11/XP/Vista), de sa gratuité, de sa facilité d'utilisation, de sa flexibilité et de ses fonctionnalités riches.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Avantages du logiciel de sauvegarde NAS Buffalo - AOMEI Backupper Standard
 
@@ -68,16 +73,13 @@ Toutes les opérations s'effectuent dans une interface intuitive, ce qui permet 
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-logo-ab-32.svg)AOMEI Backupper
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Meilleur logiciel de sauvegarde Windows gratuit pour usage personnel.
 
 [**Télécharger gratuiciel** Windows 11/10/8.1/8/7](https://tools.techidaily.com/ubackup/products/)
-
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2141687/17094" target="_top" id="2141687">
-  <img src="//a.impactradius-go.com/display-ad/17094-2141687" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141687/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Comment utiliser le logiciel de sauvegarde NAS Buffalo pour Windows pour sauvegarder des fichiers
 
@@ -95,16 +97,13 @@ Tout d'abord, cliquez sur **Ajouter un dossier** ou **Ajouter un fichier** sur l
 
 [![ajouter un fichier ou un dossier](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/ajouter-dossier-fichier.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052062/7443" target="_top" id="2052062">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052062" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052062/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Cliquez sur **Share/NAS** pour ouvrir la fenêtre suivante.
 
 [![share/nas](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/ouvrir.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Ensuite, cliquez sur **Ajouter un périphérique Share ou NAS**, saisissez le nom d'affichage, l'adresse IP, le nom d'utilisateur et le mot de passe pour connecter votre espace de stockage NAS Buffalo. Double-cliquez ensuite dessus dans le volet de gauche et sélectionnez ce que vous souhaitez sauvegarder dans la liste de droite.
 
@@ -127,10 +126,7 @@ De plus, vous pouvez activer la notification par e-mail une fois la tâche termi
 [![options](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/options-sauvegarder/sauvegarde-options.png "AOMEI Email SMS Notification Settings")
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Dernières réflexions sur l'utilitaire de sauvegarde Buffalo
@@ -152,13 +148,6 @@ Les informations fournies sont-elles utiles ? Votre vote compte beaucoup pour no
 [Aurore](https://tools.techidaily.com/ubackup/products/) · Éditeur
 
 Éditrice senior d'AOMEI Technology qui rédige principalement des articles sur la sauvegarde, la synchronisation, le clonage et la restauration de l'ordinateur, tout dans le but de proposer des solutions simples aux utilisateurs pour protéger les données de leur ordinateur. Grâce à ses expertises informatiques, elle propose souvent des astuces très utiles.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151892/7443" target="_top" id="2151892">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151892" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151892/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Autres articles connexes
 
@@ -189,10 +178,7 @@ Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchro
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-secure-16.svg) 100% Propre & Sûr
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105873/7443" target="_top" id="2105873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105873" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-medium-img-pc@2x.png)
@@ -212,22 +198,22 @@ Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchro
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-blend-sounds-in-presentation-ppts-for-2024/"><u>[New] Blend Sounds in Presentation PPTs for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-step-by-step-guide-to-crafting-igtv-cover-photos/"><u>[New] Step-by-Step Guide to Crafting IGTV Cover Photos</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-ultimate-techniques-for-enhancing-vimeo-videos-with-subtitles/"><u>[Updated] In 2024, Ultimate Techniques for Enhancing Vimeo Videos with Subtitles</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/899-lenovo-legion-slim-5-laptop-a-gamers-dream-equipped-with-the-latest-rtx-4060-graphics-card/"><u>$899 Lenovo Legion Slim 5 Laptop: A Gamer’s Dream - Equipped with the Latest RTX 4060 Graphics Card</u></a></li>
-<li><a href="https://win-hot.techidaily.com/1-restore-deleted-files-from-your-usb-stick-without-spending-a-dime-4-proven-methods/"><u>1. Restore Deleted Files From Your USB Stick Without Spending a Dime: 4 Proven Methods</u></a></li>
-<li><a href="https://win-hot.techidaily.com/sysprepwindows-1110/"><u>如何使用Sysprep在Windows 11/10上进行系统还原 - 完整的教程指导</u></a></li>
-<li><a href="https://win-hot.techidaily.com/comment-recuperer-des-donnees-inaccessibles-sur-votre-cle-micro-sd-de-samsung-astuces-et-conseils/"><u>Comment Récupérer Des Données Inaccessibles Sur Votre Clé Micro-SD De Samsung : Astuces Et Conseils</u></a></li>
-<li><a href="https://win-hot.techidaily.com/comprehensive-guide-on-preserving-imap-correspondence-in-outlook-365-using-dual-strategies/"><u>Comprehensive Guide on Preserving IMAP Correspondence in Outlook 365 Using Dual Strategies</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/discover-the-allure-of-analog-a-comprehensive-look-at-the-withings-moves-features-and-design/"><u>Discover the Allure of Analog: A Comprehensive Look at the Withings Move's Features and Design</u></a></li>
-<li><a href="https://win-hot.techidaily.com/effizientes-sql-server-backup-und-recovery-software-die-beste-losung-fur-ihre-datensicherheit/"><u>Effizientes SQL Server Backup Und Recovery Software: Die Beste Lösung Für Ihre Datensicherheit</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-fix-my-poco-c55-location-is-wrong-drfone-by-drfone-virtual-android/"><u>How to Fix My Poco C55 Location Is Wrong | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-use-google-assistant-on-your-lock-screen-of-vivo-s18-phone-by-drfone-android/"><u>In 2024, How to Use Google Assistant on Your Lock Screen Of Vivo S18 Phone</u></a></li>
-<li><a href="https://win-hot.techidaily.com/schnell-wiederherstellen-von-geloschten-wav-audiodateien-effizientes-verfahren/"><u>Schnell Wiederherstellen Von Gelöschten WAV-Audiodateien - Effizientes Verfahren</u></a></li>
-<li><a href="https://win-hot.techidaily.com/1728468498310-sd/"><u>SDカード対応ドライブドライバーアップデート手順:具体的な実行マニュアル</u></a></li>
-<li><a href="https://win-hot.techidaily.com/the-leading-3-strategies-for-navigating-pending-updates-on-windows-11/"><u>The Leading 3 Strategies for Navigating Pending Updates on Windows 11</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/top-6-gratuit-logiciels-de-conversion-video-pour-mp4-guide-complet/"><u>Top 6 Gratuit Logiciels De Conversion Vidéo Pour MP4 : Guide Complet</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-pictures-from-realme-11-pro-by-fonelab-android-recover-pictures/"><u>Undelete lost pictures from Realme 11 Pro.</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-eyedome-recorder-chromeos-screen-snapshots-for-2024/"><u>[New] EyeDome Recorder ChromeOS Screen Snapshots for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-insta-rotation-rituals-mastering-angles-that-engage-captivate-and-amaze/"><u>[Updated] In 2024, Insta Rotation Rituals Mastering Angles that Engage, Captivate, and Amaze</u></a></li>
+<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-vpna-to-fake-gps-location-on-motorola-razr-40-ultra-drfone-by-drfone-virtual-android/"><u>Complete Tutorial to Use VPNa to Fake GPS Location On Motorola Razr 40 Ultra | Dr.fone</u></a></li>
+<li><a href="https://win-hot.techidaily.com/decode-and-fix-your-pc-expert-tips-for-overcoming-error-100hbz-on-windows-xp-bootscreen-issues/"><u>Decode & Fix Your PC: Expert Tips for Overcoming Error 100Hbz on Windows XP Bootscreen Issues</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-enhanced-nvidia-rtx-2080-drivers-for-optimal-performance-on-windows-1011/"><u>Download Enhanced NVIDIA RTX 2080 Drivers for Optimal Performance on Windows 10/11</u></a></li>
+<li><a href="https://win-hot.techidaily.com/fix-for-missing-usb-driver-in-windows-for-apple-mobile-devices-seamless-setup-and-assistance/"><u>Fix for Missing USB Driver in Windows for Apple Mobile Devices – Seamless Setup and Assistance</u></a></li>
+<li><a href="https://win-hot.techidaily.com/gptwindows-11-10-8-7ssd/"><u>GPT驱动器从Windows 11, 10, 8, 7迁移至SSD的完全指南</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-restore-your-windows-11-wallpaper-screensaver-functionality-comprehensive-fix/"><u>How to Restore Your Windows 11 Wallpaper Screensaver Functionality [Comprehensive Fix]</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-8-plus-to-other-iphone-13-pro-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone 8 Plus To Other iPhone 13 Pro devices? | Dr.fone</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/24-fresh-start-strategy-budget-channels-to-purchase/"><u>In 2024, Fresh Start Strategy Budget Channels to Purchase</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/movavi-online-ferramenta-de-conversao-gratuita-do-opus-em-wma-sem-custo-algum/"><u>Movavi Online - Ferramenta De Conversão Gratuita Do Opus Em WMA Sem Custo Algum</u></a></li>
+<li><a href="https://win-hot.techidaily.com/sauvegarde-et-restauration-dun-systeme-facile-a-utiliser-une-solution-simple-pour-tous/"><u>Sauvegarde Et Restauration D'un Système Facile À Utiliser : Une Solution Simple Pour Tous</u></a></li>
+<li><a href="https://win-hot.techidaily.com/schritt-fur-schritt-guide-wie-sichert-und-wiederholt-man-microsoft-outlook-konten-effektiv/"><u>Schritt-Für-Schritt Guide: Wie Sichert Und Wiederholt Man Microsoft Outlook Konten Effektiv?</u></a></li>
+<li><a href="https://win-hot.techidaily.com/seamless-guide-how-to-effortlessly-move-your-windows-setup-to-a-new-pc/"><u>Seamless Guide: How to Effortlessly Move Your Windows Setup to a New PC</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/form-your-channels-look-for-free/"><u>Transform Your Channel's Look for Free</u></a></li>
+<li><a href="https://win-hot.techidaily.com/windows-104/"><u>あなたの皆さんにぴったり!Windows 10用：保護的な方法を通して4つのバックアップ戦略</u></a></li>
+<li><a href="https://win-hot.techidaily.com/1728471027249-5/"><u>イメージバックアップソフトウェア上選べる5つの最適なツール：使用者ご利便性に役立つポイント＆比較ガイド</u></a></li>
 </ul></div>
 
