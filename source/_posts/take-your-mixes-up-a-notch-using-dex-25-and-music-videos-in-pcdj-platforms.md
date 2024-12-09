@@ -1,7 +1,7 @@
 ---
 title: Take Your Mixes Up a Notch Using DEX 2.5 & Music Videos in PCDJ Platforms
-date: 2024-11-26T19:08:38.259Z
-updated: 2024-11-30T16:51:43.941Z
+date: 2024-12-07T22:58:31.939Z
+updated: 2024-12-08T22:37:38.304Z
 tags:
   - product
 categories:
@@ -17,7 +17,7 @@ thumbnail: https://thmb.techidaily.com/3331b68243bf9259740fc95d1a73b2453b86dd532
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **DEX 2.5 is here, and it’s our most complete video mixing software (VJ) for seamlessly mixing music videos mashups to date.**
@@ -25,7 +25,7 @@ thumbnail: https://thmb.techidaily.com/3331b68243bf9259740fc95d1a73b2453b86dd532
 [![](https://pcdj.com/wp-content/uploads/2012/11/dex2screenshotnew-300x168.png "dex2screenshotnew")](https://pcdj.com/wp-content/uploads/2012/11/dex2screenshotnew.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **PCDJ DEX 2** has been our flagship **DJ software** application for the last 2 years. DEX 2 is essentially a culmination of over 13 years of DJ software development experiance wrapped up in one robust product. The goal from the start was to create one solution for DJ’s; **a product that mixes video as well as it does audio (and yes, even Karaoke).**
@@ -37,7 +37,7 @@ While PCDJ DEX 2 has been terrific for mixing audio easily, with key features su
 Included in the new release are the first of many to come **video effects and video transitions**, they are as follows:
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Video Effects:**
@@ -50,7 +50,7 @@ Included in the new release are the first of many to come **video effects and vi
 * Red, Blue, and Green Filters: Change the entire color of the music video dynamically
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Video Transitions:**
@@ -69,7 +69,7 @@ The Windows version of PCDJ DEX 2.5 is available for demo download from [www.pcd
 **_Now back to the bat cave…_**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -91,16 +91,21 @@ https://www.pcdj.com/wp-content/uploads/2021/07/pcdj-main-logo-2.png 0 0 Ryan Sh
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/024-approved-seamless-addition-youtube-videos-into-google-slides/"><u>[New] 2024 Approved Seamless Addition YouTube Videos Into Google Slides</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-digital-alchemy-for-artists-leading-generators-turned-into-nfts-for-2024/"><u>[New] Digital Alchemy for Artists Leading Generators Turned Into NFTs for 2024</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-in-2024-thanks-for-curating-premium-and-free-outro-themes/"><u>[New] In 2024, Thanks for Curating Premium & Free Outro Themes</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-eliminate-cacophony-perfecting-sound-quality-for-youtube/"><u>[Updated] In 2024, Eliminate Cacophony Perfecting Sound Quality for YouTube</u></a></li>
-<li><a href="https://win-hot.techidaily.com/1-expert-paulines-guide-master-data-recovery-with-aomei-software/"><u>1. Expert Pauline's Guide: Master Data Recovery with AOMEI Software</u></a></li>
-<li><a href="https://win-hot.techidaily.com/guide-complet-pour-la-reconstitution-dun-fichier-compacte-sous-windows-3-techniques-innovantes/"><u>Guide Complet Pour La Reconstitution D'un Fichier Compacté Sous Windows : 3 Techniques Innovantes</u></a></li>
-<li><a href="https://win-hot.techidaily.com/hddssd4-pc/"><u>HDDをSSDに簡単なデータ移行法と4ステップガイド - PC用</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/in-2024-access-a-world-of-content-anywhere-anyplace-with-the-leading-6-best-and-cost-free-tools-to-download-youtubes-short-videos/"><u>In 2024, Access a World of Content Anywhere, Anyplace with the Leading 6 Best and Cost-Free Tools to Download YouTubes' Short Videos</u></a></li>
-<li><a href="https://win11.techidaily.com/resurrect-missing-links-to-shared-windows-sites/"><u>Resurrect Missing Links to Shared Windows Sites</u></a></li>
-<li><a href="https://win-hot.techidaily.com/techniques-pour-deplacer-rapidement-votre-donnees-disk-drive-vers-un-nouvel-hdd-sous-windows-11/"><u>Techniques Pour Déplacer Rapidement Votre Données Disk Drive Vers Un Nouvel HDD Sous Windows 11</u></a></li>
-<li><a href="https://win-hot.techidaily.com/troubleshooting-tips-successfully-linking-email-accounts-with-ios-devices/"><u>Troubleshooting Tips: Successfully Linking Email Accounts with iOS Devices</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-full-facetune-review-the-pathway-to-picture-perfection/"><u>[New] Full Facetune Review The Pathway to Picture Perfection</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-real-time-broadcast-at-your-fingertips-12-channels/"><u>[Updated] 2024 Approved Real-Time Broadcast at Your Fingertips - 12 Channels</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-transforming-images-on-snapchat-an-editors-playbook/"><u>[Updated] In 2024, Transforming Images on Snapchat An Editor's Playbook</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-crafting-compelling-narratives-through-supplemental-footage/"><u>2024 Approved Crafting Compelling Narratives Through Supplemental Footage</u></a></li>
+<li><a href="https://win-hot.techidaily.com/convert-cdg-tracks-to-high-quality-mp3-plus-aac-using-nocost-cdg-ripper-application-on-pc/"><u>Convert CDG Tracks to High-Quality MP3 + AAC Using NoCost CDG Ripper Application on PC</u></a></li>
+<li><a href="https://win-hot.techidaily.com/discover-the-reasons-behind-your-tech-issues-with-expert-advice-from-yl-software/"><u>Discover the Reasons Behind Your Tech Issues with Expert Advice From YL Software</u></a></li>
+<li><a href="https://article-files.techidaily.com/dronemakers-ultimate-sky-explore-for-2024/"><u>Dronemaker's Ultimate Sky Explore for 2024</u></a></li>
+<li><a href="https://win-hot.techidaily.com/enablingdisabling-automatic-system-updates-with-yl-computing-solutions/"><u>Enabling/Disabling Automatic System Updates with YL Computing Solutions</u></a></li>
+<li><a href="https://win-hot.techidaily.com/graphics-card-not-showing-image-solutions-and-fixes-expert-advice-by-yl-computing/"><u>Graphics Card Not Showing Image: Solutions & Fixes - Expert Advice by YL Computing</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-data-from-iphone-13-pro-to-other-iphone-13-pro-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone 13 Pro To Other iPhone 13 Pro devices? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-fixing-foneazy-mockgo-not-working-on-motorola-edgeplus-2023-drfone-by-drfone-virtual-android/"><u>In 2024, Fixing Foneazy MockGo Not Working On Motorola Edge+ (2023) | Dr.fone</u></a></li>
+<li><a href="https://win-hot.techidaily.com/key-factors-in-picking-the-right-liability-insurance-for-your-dj-business-with-pcdj-tips/"><u>Key Factors in Picking the Right Liability Insurance for Your DJ Business with PCDJ Tips</u></a></li>
+<li><a href="https://win-hot.techidaily.com/master-your-beats-with-jason-spencer-and-jason-jones-exclusive-mobile-music-showcase-on-dj-nights-tv/"><u>Master Your Beats with Jason Spencer and Jason Jones - Exclusive 'Mobile Music' Showcase on DJ Nights TV</u></a></li>
+<li><a href="https://win-lab.techidaily.com/top-freeware-fur-die-verlegung-von-windows-11-betriebsdateisystemen-kostenlose-tools/"><u>Top Freeware Für Die Verlegung Von Windows 11 Betriebsdateisystemen – Kostenlose Tools</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/transforming-sawdust-into-art-a-revolutionary-3d-printing-tech-creates-beautiful-wooden-instruments-and-fixtures-zdnet/"><u>Transforming Sawdust Into Art: A Revolutionary 3D Printing Tech Creates Beautiful Wooden Instruments & Fixtures - ZDNet</u></a></li>
+<li><a href="https://win-hot.techidaily.com/troubleshooting-unrecognized-usb-devices-a-comprehensive-guide-by-yl-computing/"><u>Troubleshooting Unrecognized USB Devices: A Comprehensive Guide by YL Computing</u></a></li>
 </ul></div>
 

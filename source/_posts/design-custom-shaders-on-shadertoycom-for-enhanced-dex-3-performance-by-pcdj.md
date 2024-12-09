@@ -1,7 +1,7 @@
 ---
 title: Design Custom Shaders on Shadertoy.com for Enhanced DEX 3 Performance by PCDJ
-date: 2024-11-28T19:06:15.743Z
-updated: 2024-11-30T16:09:23.354Z
+date: 2024-12-03T20:01:33.328Z
+updated: 2024-12-09T00:22:48.675Z
 tags:
   - product
 categories:
@@ -23,7 +23,7 @@ thumbnail: https://thmb.techidaily.com/bd7c586aade6fed49cfda54f6e705ff08c3876c36
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## So what is a ‘Shader’?
@@ -39,7 +39,7 @@ We found this easy-to-follow ‘[Beginner’s Guide to Coding Graphics Shaders](
 [View Guide to Coding Shaders](https://gamedevelopment.tutsplus.com/tutorials/a-beginners-guide-to-coding-graphics-shaders--cms-23313)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Why would I want to create a custom Shader?
@@ -49,7 +49,7 @@ Creating your own custom shader/s for use with DEX 3 is just another way to cust
 If you’re not interested in creating your own custom shaders, no worries, [we’ve compiled a list of shaders that work great in DEX 3 already](https://tools.techidaily.com/pcdj/products/)!
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -71,14 +71,17 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2018/08/customshader-header.jpg?fi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-2024-approved-unlock-a-new-dimension-with-these-must-try-iphone-apps/"><u>[New] 2024 Approved Unlock a New Dimension with These Must-Try iPhone Apps</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-conquering-video-design-challenges-with-filmora-tips/"><u>[New] Conquering Video Design Challenges with Filmora Tips</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-perfect-habits-to-embrace-with-podcasts-playing/"><u>[New] Perfect Habits to Embrace with Podcasts Playing</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/updated-dominate-search-results-powerful-youtube-seo-techniques-exposed/"><u>[Updated] Dominate Search Results Powerful YouTube SEO Techniques Exposed</u></a></li>
-<li><a href="https://win-hot.techidaily.com/comment-copier-un-secteur-avec-gpt-a-laide-de-clonezilla-guide-complet/"><u>Comment Copier Un Secteur Avec GPT À L'aide De Clonezilla : Guide Complet</u></a></li>
-<li><a href="https://win-hot.techidaily.com/top-rangige-sicherungssoftware-fur-windows-sbs-2011-perfekt-fur-kleine-unternehmen/"><u>Top-Rangige Sicherungssoftware Für Windows SBS 2011 – Perfekt Für Kleine Unternehmen</u></a></li>
-<li><a href="https://win-hot.techidaily.com/tout-savoir-pour-migrer-facilement-de-son-os-a-un-ssd-crucial-sur-windows-guide-complet/"><u>Tout Savoir Pour Migrer Facilement De Son OS À Un SSD Crucial Sur Windows - Guide Complet</u></a></li>
-<li><a href="https://some-skills.techidaily.com/unraveling-the-mystery-of-premium-free-photography-access-for-2024/"><u>Unraveling the Mystery of Premium Free Photography Access for 2024</u></a></li>
-<li><a href="https://win-hot.techidaily.com/aomei-fonebackup/"><u>バックアップ管理: AOMEI FoneBackupを使った最適化方法</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-discover-the-creme-de-la-creme-of-mac-snipers-for-2024/"><u>[New] Discover the Crème De La Crème of Mac Snipers for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-perfecting-the-pathway-of-imovie-content-to-youtube-for-2024/"><u>[Updated] Perfecting the Pathway of iMovie Content to YouTube for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-rising-stars-choices-top-5-hmds-for-drone-enthusiasts/"><u>[Updated] Rising Stars' Choices Top 5 HMDs for Drone Enthusiasts</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-how-to-shoot-vertical-panorama-photos-with-your-smartphone-androidios/"><u>2024 Approved How to Shoot Vertical Panorama Photos with Your Smartphone Android/iOS</u></a></li>
+<li><a href="https://win-hot.techidaily.com/convert-cdg-tracks-to-high-quality-mp3-plus-aac-using-nocost-cdg-ripper-application-on-pc/"><u>Convert CDG Tracks to High-Quality MP3 + AAC Using NoCost CDG Ripper Application on PC</u></a></li>
+<li><a href="https://win-hot.techidaily.com/deciphering-the-language-of-blockchain-comprehensive-guide-by-yl-computing/"><u>Deciphering the Language of Blockchain - Comprehensive Guide by YL Computing</u></a></li>
+<li><a href="https://fox-http.techidaily.com/download-free-preview-clip-kits/"><u>Download Free Preview Clip Kits</u></a></li>
+<li><a href="https://win-hot.techidaily.com/graphics-card-not-showing-image-solutions-and-fixes-expert-advice-by-yl-computing/"><u>Graphics Card Not Showing Image: Solutions & Fixes - Expert Advice by YL Computing</u></a></li>
+<li><a href="https://win-info.techidaily.com/overcoming-challenges-in-setting-up-your-scanner-app-insights-from-yl-software-experts/"><u>Overcoming Challenges in Setting Up Your Scanner App - Insights From YL Software Experts</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/-start-guide-to-your-channels-easy-sign-up-button-for-2024/"><u>Quick-Start Guide to Your Channel's Easy Sign Up Button for 2024</u></a></li>
+<li><a href="https://win-hot.techidaily.com/step-by-step-guide-updating-device-drivers-tips-from-yl-computing/"><u>Step-by-Step Guide: Updating Device Drivers - Tips From YL Computing</u></a></li>
+<li><a href="https://win-hot.techidaily.com/yl-software-tutorial-easily-adjust-your-audio-preferences-yl-computing/"><u>YL Software Tutorial: Easily Adjust Your Audio Preferences - YL Computing</u></a></li>
 </ul></div>
 

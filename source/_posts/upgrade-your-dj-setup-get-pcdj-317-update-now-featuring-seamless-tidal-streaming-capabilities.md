@@ -1,7 +1,7 @@
 ---
 title: Upgrade Your DJ Setup - Get PCDJ 3.17 Update Now Featuring Seamless Tidal Streaming Capabilities
-date: 2024-11-25T16:58:45.464Z
-updated: 2024-11-30T18:49:16.026Z
+date: 2024-12-02T01:05:04.949Z
+updated: 2024-12-08T19:01:33.367Z
 tags:
   - product
 categories:
@@ -29,7 +29,7 @@ Read the full details of the new free update for [DEX 3](https://tools.techidail
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### What’s New, Changed and Updated in DEX 3.17
@@ -56,7 +56,7 @@ _**DEX 3.17 Install Instructions:** With your existing version of DEX 3 closed, 
 _Have questions about our DEX 3_ _**DJ Software** and how it works with **TIDAL streaming**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -78,22 +78,16 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2022/01/dex3xtidal-fb.jpg?fit=1583
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-alternative-solutions-to-game-bar-recording/"><u>[Updated] 2024 Approved Alternative Solutions to Game Bar Recording</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-clearing-the-fuzziness-tips-to-improve-chrome-videography-for-2024/"><u>[Updated] Clearing the Fuzziness Tips to Improve Chrome Videography for 2024</u></a></li>
-<li><a href="https://win-hot.techidaily.com/1728508647777-404-not-found-web/"><u>「404 Not Found - 目的のWebページは存在しない」</u></a></li>
-<li><a href="https://win-hot.techidaily.com/1728502128785-windows-11/"><u>实现在 Windows 11中磁碟分区隐藏副本服务的最佳方法</u></a></li>
-<li><a href="https://win11.techidaily.com/classic-ui-redesign-for-file-explorer-in-w11/"><u>Classic UI Redesign for File Explorer in W11</u></a></li>
-<li><a href="https://win-hot.techidaily.com/efficient-data-transformation-with-microsofts-sql-server-integration-solutions/"><u>Efficient Data Transformation with Microsoft's SQL Server Integration Solutions</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/essential-tips-to-solve-windows-0x80070141-connectivity-issues/"><u>Essential Tips to Solve Windows' 0X80070141 Connectivity Issues</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-motorola-moto-g24-to-pc-drfone-by-drfone-android/"><u>How to Screen Mirroring Motorola Moto G24 to PC? | Dr.fone</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/in-2024-how-to-download-igtv-videos-on-windows-pcmac-5-ways/"><u>In 2024, How to Download IGTV Videos on Windows PC/Mac? [5 Ways]</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-stream-anything-from-vivo-y36i-to-apple-tv-drfone-by-drfone-android/"><u>In 2024, How To Stream Anything From Vivo Y36i to Apple TV | Dr.fone</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/wnload-needed-youtube-to-vivid-animation-gif-transformation/"><u>No Download Needed YouTube to Vivid Animation Gif Transformation</u></a></li>
-<li><a href="https://win-hot.techidaily.com/procedura-dettagliata-clonazione-di-dischi-rigidi-toshiba-su-ssd-senza-costi-in-ambiente-windows/"><u>Procedura Dettagliata: Clonazione Di Dischi Rigidi Toshiba Su SSD Senza Costi in Ambiente Windows</u></a></li>
-<li><a href="https://win-hot.techidaily.com/rdp-freezing-issue-in-windows-server-2019-resolved/"><u>RDP Freezing Issue in Windows Server 2019 - Resolved!</u></a></li>
-<li><a href="https://win-hot.techidaily.com/sicherung-von-outlook-express-mails-zwei-einfache-schritte-um-daten-zu-schutzen/"><u>Sicherung Von Outlook Express Mails – Zwei Einfache Schritte, Um Daten Zu Schützen</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/top-ranked-non-microsoft-non-lenovo-tablet-triumphs-as-ideal-companion-for-business-travelers-insights-from-a-comprehensive-review/"><u>Top-Ranked Non-Microsoft, Non-Lenovo Tablet Triumphs as Ideal Companion for Business Travelers – Insights From a Comprehensive Review</u></a></li>
-<li><a href="https://win-hot.techidaily.com/wiederherstellung-von-desktop-daten-und-dokumenten-auf-der-festplatte/"><u>Wiederherstellung Von Desktop-Daten Und -Dokumenten Auf Der Festplatte</u></a></li>
-<li><a href="https://win-hot.techidaily.com/legkij-sposob-klonirovaniya-zhestkogo-diska-v-windows-1011-s-opciej-zagruzki/"><u>Легкий Способ Клонирования Жесткого Диска В Windows 10/11 С Опцией Загрузки</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-open-world-alternatives-to-grand-theft-adventure/"><u>[New] Open World Alternatives to Grand Theft Adventure</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/updated-a-step-by-step-guide-to-forming-effective-youtube-partner-relationships/"><u>[Updated] A Step-by-Step Guide to Forming Effective YouTube Partner Relationships</u></a></li>
+<li><a href="https://win-hot.techidaily.com/a-step-by-step-guide-opening-and-navigating-the-windows-registry-expert-advice-from-yl-computing/"><u>A Step-by-Step Guide: Opening and Navigating the Windows Registry - Expert Advice From YL Computing</u></a></li>
+<li><a href="https://win-hot.techidaily.com/enchanting-visuals-from-miraculous-ladybug-stunning-ladybug-and-katnoir-imagery-hd-backgrounds-and-wallpapers-by-yl-computing/"><u>Enchanting Visuals From 'Miraculous Ladybug' - Stunning Ladybug & Katnoir Imagery, HD Backgrounds & Wallpapers by YL Computing</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-remove-screen-lock-pin-on-infinix-like-a-pro-5-easy-ways-by-drfone-android/"><u>How To Remove Screen Lock PIN On Infinix Like A Pro 5 Easy Ways</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-stop-microsoft-edge-from-crashing-under-windows-11-proven-solutions/"><u>How to Stop Microsoft Edge From Crashing Under Windows 11 – Proven Solutions</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-xiaomi-redmi-note-12-pro-4g-to-iphone-xs11-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Xiaomi Redmi Note 12 Pro 4G to iPhone XS/11 | Dr.fone</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-musical-mentorship-series-top-15-youtube-wisdom-from-pros/"><u>In 2024, Musical Mentorship Series - Top 15 YouTube Wisdom From Pros</u></a></li>
+<li><a href="https://win-hot.techidaily.com/resolving-windows-sound-card-issues-a-compreh/"><u>Resolving Windows Sound Card Issues: A Compreh</u></a></li>
+<li><a href="https://win-hot.techidaily.com/revamp-your-scanner-performance-with-driver-updates-tips-from-yl-software-experts/"><u>Revamp Your Scanner Performance with Driver Updates - Tips From YL Software Experts</u></a></li>
+<li><a href="https://win-hot.techidaily.com/the-great-wall-of-china-explored-a-deep-dive-into-its-profound-significance-insights-from-yl-solutions-team/"><u>The Great Wall of China Explored: A Deep Dive Into Its Profound Significance – Insights From YL Solutions Team</u></a></li>
 </ul></div>
 
