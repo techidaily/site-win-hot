@@ -1,7 +1,7 @@
 ---
 title: Get the Latest Enhancements for DJ Studio DEX3 & Sing-Along Software LYRX on MacOS - Instant Download
-date: 2024-12-02T22:58:49.497Z
-updated: 2024-12-09T02:03:54.096Z
+date: 2024-12-10T02:08:35.897Z
+updated: 2024-12-15T02:09:33.511Z
 tags:
   - product
 categories:
@@ -21,7 +21,7 @@ thumbnail: https://thmb.techidaily.com/895e63c00991de11c3a5bb60d914f7ce63bcb7f1c
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### PCDJ DEX 3.9.0.5 | Global Support For Party Tyme Karaoke
@@ -29,7 +29,7 @@ thumbnail: https://thmb.techidaily.com/895e63c00991de11c3a5bb60d914f7ce63bcb7f1c
 [LEARN MORE ABOUT DEX 3 ![Party Tyme Karaoke Subscription for DEX 3 karaoke software](https://i1.wp.com/pcdj.com/wp-content/uploads/2017/07/DEX3-PartyTyme.jpg?fit=300%2C169&ssl=1 "Party Tyme Karaoke Subscription for DEX 3 karaoke software")](https://tools.techidaily.com/pcdj/products/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 DEX 3.9.0.5 is now available as a free update for existing DEX 3 owners. Largely a maintenance release with under-the-hood performance improvements, DEX 3 version 3.9.0.5 brings world-wide (with the exemption of Japan) support for the Party Tyme Karaoke Subscription service.
@@ -46,7 +46,7 @@ Stream and/or download from an HD collection of hit karaoke songs from the top p
 [DOWNLOAD DEX 3.9.0.5 FREE TRIAL](https://tools.techidaily.com/pcdj/products/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### LYRX v1.1.1 | Global Support For Party Tyme Karaoke And Ultra-Wide Screen Support
@@ -54,7 +54,7 @@ Stream and/or download from an HD collection of hit karaoke songs from the top p
 [LEARN MORE ABOUT LYRX ![LYRX karaoke program from MAC with karaoke subscription](https://i0.wp.com/pcdj.com/wp-content/uploads/2017/08/LYRX11_screenshot1.png?fit=300%2C188&ssl=1 "LYRX karaoke program from MAC with karaoke subscription")](http://www.lyrxkaraoke.com)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 LYRX version 1.1.1 also brings global support for the Party Tyme Karaoke Subscription (Japan being the only exemption) as well as support for ultra-wide displays (21:9 aspect ratio). A few minor tweaks to the user interface have been applied as well as a few minor bug fixes and various performance improvements.
@@ -75,7 +75,7 @@ LYRX with Party Tyme Karaoke provides KJs and karaoke venues the perfect duet of
 [LEARN MORE ABOUT THE PARTY TYME KARAOKE SUBSCRIPTION](https://tools.techidaily.com/pcdj/products/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -97,20 +97,20 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2017/09/lyrxdex3updatept-coverimag
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-16-best-kickstart-videos-on-youtube-for-visibility-boost-for-2024/"><u>[New] 16 Best Kickstart Videos on YouTube for Visibility Boost for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-scrutinizing-the-significance-of-high-dynamic-range-hdr/"><u>[New] Scrutinizing the Significance of High Dynamic Range HDR</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-a-step-by-step-guide-to-gopro-time-lapse-mastery/"><u>[Updated] A Step-by-Step Guide to GoPro Time-Lapse Mastery</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-customize-and-captivate-thumbnail-magic-for-shorts-for-2024/"><u>[Updated] Customize & Captivate Thumbnail Magic for Shorts for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-the-ultimate-method-for-recording-youtube-videos-on-any-device-for-2024/"><u>[Updated] The Ultimate Method for Recording YouTube Videos on Any Device for 2024</u></a></li>
-<li><a href="https://win-hot.techidaily.com/assessing-your-pcs-cooling-mechanism-insights-by-yl-computing-and-yl-software/"><u>Assessing Your PC's Cooling Mechanism: Insights by YL Computing & YL Software</u></a></li>
-<li><a href="https://win-hot.techidaily.com/bitcoins-latest-trading-value-an-update-from-yl-computing-and-yl-software-experts/"><u>Bitcoin's Latest Trading Value: An Update From YL Computing & YL Software Experts</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/crafting-instagram-stories-polls-your-complete-playbook/"><u>Crafting Instagram Stories Polls - Your Complete Playbook</u></a></li>
-<li><a href="https://win-hot.techidaily.com/expert-guide-navigating-and-fixing-your-printer-issues-with-help-from-yl-technology/"><u>Expert Guide: Navigating and Fixing Your Printer Issues with Help From YL Technology</u></a></li>
-<li><a href="https://win-hot.techidaily.com/guide-to-decreasing-run-time-processes-for-enhanced-system-performance-with-tips-from-yl-computing-and-yl-software/"><u>Guide to Decreasing Run-Time Processes for Enhanced System Performance with Tips From YL Computing and YL Software</u></a></li>
-<li><a href="https://win-hot.techidaily.com/high-definition-new-york-city-wallpaper-collection-hd-visuals-scenic-photographs-and-landscapes-by-yl-computing/"><u>High-Definition New York City Wallpaper Collection - HD Visuals, Scenic Photographs & Landscapes by YL Computing</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-intercept-text-messages-on-itel-a60-drfone-by-drfone-virtual-android/"><u>How to Intercept Text Messages on Itel A60 | Dr.fone</u></a></li>
-<li><a href="https://win-hot.techidaily.com/how-to-restore-your-scanners-connection-with-your-pc-expert-tips-from-yl-computing/"><u>How to Restore Your Scanner's Connection with Your PC: Expert Tips From YL Computing</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/209867163-9780648391272-olive-trees-gift/"><u>Olive Tree's Gift | Free Book</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/what-pokemon-evolve-with-a-dawn-stone-for-honor-magic-v2-drfone-by-drfone-virtual-android/"><u>What Pokémon Evolve with A Dawn Stone For Honor Magic V2? | Dr.fone</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-2024-approved-smooth-integration-of-macos-sierra-on-old-systems/"><u>[New] 2024 Approved Smooth Integration of macOS Sierra on Old Systems</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-unlock-the-secret-to-massive-engagement-3-top-tips-for-making-powerful-two-pov-reaction-videos-on-youtube/"><u>[New] 2024 Approved Unlock the Secret to Massive Engagement 3 Top Tips for Making Powerful Two-POV Reaction Videos on YouTube</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-2023-how-to-fix-live-video-interrupted-on-facebook/"><u>[Updated] In 2024, 2023 | How to Fix Live Video Interrupted on Facebook?</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-transform-meetings-with-a-simple-webcam-record/"><u>[Updated] In 2024, Transform Meetings with a Simple Webcam Record</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-top-11-budget-friendly-recorders-for-vloggers/"><u>2024 Approved Top 11 Budget-Friendly Recorders for Vloggers</u></a></li>
+<li><a href="https://win-hot.techidaily.com/accelerating-your-graphics-proven-strategies-by-yl-software-experts/"><u>Accelerating Your Graphics: Proven Strategies by YL Software Experts</u></a></li>
+<li><a href="https://win-hot.techidaily.com/boost-your-pcs-performance-tips-and-tricks-from-yl-computing-the-ultimate-guide/"><u>Boost Your PC's Performance: Tips & Tricks From YL Computing - The Ultimate Guide</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-drivers-for-gigabyte-wb867d-motherboard-latest-version/"><u>Download Drivers for Gigabyte WB867D Motherboard - Latest Version</u></a></li>
+<li><a href="https://win-hot.techidaily.com/essential-guide-transferring-files-efficiently-on-windows-tips-from-yl-computing/"><u>Essential Guide: Transferring Files Efficiently on Windows - Tips From YL Computing</u></a></li>
+<li><a href="https://win-hot.techidaily.com/evaluating-the-effectiveness-of-windows-defender-in-guarding-your-computer-from-hackers-and-malware-yl-computing-analysis/"><u>Evaluating the Effectiveness of Windows Defender in Guarding Your Computer From Hackers and Malware – YL Computing Analysis</u></a></li>
+<li><a href="https://blog-min.techidaily.com/free-online-converter-transform-ts-files-into-mov-format/"><u>Free Online Converter: Transform .TS Files Into MOV Format</u></a></li>
+<li><a href="https://win-hot.techidaily.com/new-pcdjs-fresh-party-tyme-releases-join-our-karaoke-subscription-service-for-the-latest-tracks-as-of-mar-3-2-18/"><u>New PCDJ's Fresh Party Tyme Releases - Join Our Karaoke Subscription Service for the Latest Tracks as of Mar 3-2-18!</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/terramat-cubefit-assessment-enhance-fitness-with-an-innovative-standing-exercise-device/"><u>TerraMat CubeFit Assessment: Enhance Fitness with an Innovative Standing Exercise Device</u></a></li>
+<li><a href="https://win-hot.techidaily.com/the-ultimate-techniques-to-change-folder-names-with-yl-software-solutions-mastered-by-yl-computing/"><u>The Ultimate Techniques to Change Folder Names with YL Software Solutions - Mastered by YL Computing</u></a></li>
+<li><a href="https://win-hot.techidaily.com/understanding-windows-defenders-role-in-system-protection-a-guide-from-yl-software-experts/"><u>Understanding Windows Defender's Role in System Protection - A Guide From YL Software Experts</u></a></li>
 </ul></div>
 

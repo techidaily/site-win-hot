@@ -1,7 +1,7 @@
 ---
 title: "Mastering DEX 3: Guide to Setting Up Dual Monitor Configuration for Audio/Video Streaming"
-date: 2024-12-04T19:39:23.539Z
-updated: 2024-12-08T16:37:42.132Z
+date: 2024-12-14T00:07:22.803Z
+updated: 2024-12-14T22:54:29.925Z
 tags:
   - product
 categories:
@@ -20,7 +20,7 @@ Since you only want your audience to view the mixed music video output, or the k
 #### DEX 3 DJ SOFTWARE TUTORIAL VIDEO: HOW TO SETUP SECOND DISPLAY FOR VIDEO OR KARAOKE ONLY OUTPUT
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -42,14 +42,16 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2014/10/videonly-coverimage.jpg?fi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-leading-audio-editing-software-in-shaping-your-vtuber-image/"><u>[New] 2024 Approved Leading Audio Editing Software in Shaping Your VTuber Image</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-audit-your-channels-financial-success-for-2024/"><u>[Updated] Audit Your Channel's Financial Success for 2024</u></a></li>
-<li><a href="https://win-wonderful.techidaily.com/answer-improved-cloning-on-windows-server-201/"><u>Answer: Improved Cloning on Windows Server 201</u></a></li>
-<li><a href="https://win-hot.techidaily.com/constant-fan-operation-on-your-pc-decoding-the-reasons-with-yl-tech-experts/"><u>Constant Fan Operation on Your PC - Decoding the Reasons with YL Tech Experts</u></a></li>
-<li><a href="https://win-hot.techidaily.com/high-definition-sunset-shoreline-scenes-stunning-hd-wallpaper-and-backgrounds-by-yl-computing/"><u>High-Definition Sunset Shoreline Scenes: Stunning HD Wallpaper and Backgrounds by YL Computing</u></a></li>
-<li><a href="https://win-hot.techidaily.com/launch-announcement-updated-songbookdb-is-now-live-perfect-for-djs/"><u>Launch Announcement: Updated SongbookDB Is Now Live - Perfect for DJs!</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/the-earning-trajectory-of-youtube-star-pewdopeep/"><u>The Earning Trajectory of YouTube Star PewDoPeep</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/top-tips-for-efficient-macos-sierra-system-updates/"><u>Top Tips for Efficient macOS Sierra System Updates</u></a></li>
-<li><a href="https://win-hot.techidaily.com/troubleshooting-and-fixing-prevalent-windows-issues-guides-by-yl-tech-solutions/"><u>Troubleshooting & Fixing Prevalent Windows Issues - Guides by YL Tech Solutions</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-elite-story-creation-centers-avoiding-the-ordinary-top-8/"><u>[New] Elite Story Creation Centers – Avoiding the Ordinary (Top 8)</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/cutting-through-content-clutter-youtube-shorts-essentials-for-2024/"><u>Cutting Through Content Clutter YouTube Shorts Essentials for 2024</u></a></li>
+<li><a href="https://win-hot.techidaily.com/exciting-update-launch-of-digitraxs-newest-karaoke-cloud-software/"><u>Exciting Update: Launch of Digitrax's Newest Karaoke Cloud Software!</u></a></li>
+<li><a href="https://win-tips.techidaily.com/garanzia-di-backup-completo-dei-dati-software-e-lavoro-pc-windows-per-lufficio-aziendale/"><u>Garanzia Di Backup Completo Dei Dati Software E Lavoro PC Windows per L'ufficio Aziendale</u></a></li>
+<li><a href="https://win-hot.techidaily.com/identifying-problematic-pc-drivers-a-step-by-step-guide-insights-from-yl-computing/"><u>Identifying Problematic PC Drivers: A Step-by-Step Guide - Insights From YL Computing</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-spotify-location-after-moving-to-another-country-on-oppo-f25-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Spotify Location After Moving to Another Country On Oppo F25 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-methods-for-reducing-jello-like-video-stabilization-effects/"><u>In 2024, Methods for Reducing Jello-Like Video Stabilization Effects</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/in-depth-analysis-of-the-aftershokz-aeropex-exceptional-bone-conduction-audio-quality-and-enduring-power-supply-expert-review-by-techzdnet/"><u>In-Depth Analysis of the AfterShokz Aeropex: Exceptional Bone Conduction Audio Quality & Enduring Power Supply - Expert Review by TechZDNet</u></a></li>
+<li><a href="https://fake-location.techidaily.com/spoofing-life360-how-to-do-it-on-tecno-spark-10-pro-drfone-by-drfone-virtual-android/"><u>Spoofing Life360 How to Do it on Tecno Spark 10 Pro? | Dr.fone</u></a></li>
+<li><a href="https://win-hot.techidaily.com/troubleshooting-unrecognized-peripherals-on-windows-insights-and-solutions-by-yl-software-experts/"><u>Troubleshooting Unrecognized Peripherals on Windows - Insights & Solutions by YL Software Experts</u></a></li>
+<li><a href="https://win-hot.techidaily.com/yl-softwares-stunning-aurora-visuals-download-modern-crisp-4k-background-imagery-for-your-device/"><u>YL Software's Stunning Aurora Visuals: Download Modern, Crisp 4K Background Imagery for Your Device</u></a></li>
 </ul></div>
 

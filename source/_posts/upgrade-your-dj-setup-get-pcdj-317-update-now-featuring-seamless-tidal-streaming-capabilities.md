@@ -1,7 +1,7 @@
 ---
 title: Upgrade Your DJ Setup - Get PCDJ 3.17 Update Now Featuring Seamless Tidal Streaming Capabilities
-date: 2024-12-02T01:05:04.949Z
-updated: 2024-12-08T19:01:33.367Z
+date: 2024-12-11T01:24:25.742Z
+updated: 2024-12-14T23:02:32.362Z
 tags:
   - product
 categories:
@@ -29,7 +29,7 @@ Read the full details of the new free update for [DEX 3](https://tools.techidail
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### What’s New, Changed and Updated in DEX 3.17
@@ -56,7 +56,7 @@ _**DEX 3.17 Install Instructions:** With your existing version of DEX 3 closed, 
 _Have questions about our DEX 3_ _**DJ Software** and how it works with **TIDAL streaming**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -78,16 +78,24 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2022/01/dex3xtidal-fb.jpg?fit=1583
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-open-world-alternatives-to-grand-theft-adventure/"><u>[New] Open World Alternatives to Grand Theft Adventure</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/updated-a-step-by-step-guide-to-forming-effective-youtube-partner-relationships/"><u>[Updated] A Step-by-Step Guide to Forming Effective YouTube Partner Relationships</u></a></li>
-<li><a href="https://win-hot.techidaily.com/a-step-by-step-guide-opening-and-navigating-the-windows-registry-expert-advice-from-yl-computing/"><u>A Step-by-Step Guide: Opening and Navigating the Windows Registry - Expert Advice From YL Computing</u></a></li>
-<li><a href="https://win-hot.techidaily.com/enchanting-visuals-from-miraculous-ladybug-stunning-ladybug-and-katnoir-imagery-hd-backgrounds-and-wallpapers-by-yl-computing/"><u>Enchanting Visuals From 'Miraculous Ladybug' - Stunning Ladybug & Katnoir Imagery, HD Backgrounds & Wallpapers by YL Computing</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-remove-screen-lock-pin-on-infinix-like-a-pro-5-easy-ways-by-drfone-android/"><u>How To Remove Screen Lock PIN On Infinix Like A Pro 5 Easy Ways</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-stop-microsoft-edge-from-crashing-under-windows-11-proven-solutions/"><u>How to Stop Microsoft Edge From Crashing Under Windows 11 – Proven Solutions</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-xiaomi-redmi-note-12-pro-4g-to-iphone-xs11-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Xiaomi Redmi Note 12 Pro 4G to iPhone XS/11 | Dr.fone</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/24-musical-mentorship-series-top-15-youtube-wisdom-from-pros/"><u>In 2024, Musical Mentorship Series - Top 15 YouTube Wisdom From Pros</u></a></li>
-<li><a href="https://win-hot.techidaily.com/resolving-windows-sound-card-issues-a-compreh/"><u>Resolving Windows Sound Card Issues: A Compreh</u></a></li>
-<li><a href="https://win-hot.techidaily.com/revamp-your-scanner-performance-with-driver-updates-tips-from-yl-software-experts/"><u>Revamp Your Scanner Performance with Driver Updates - Tips From YL Software Experts</u></a></li>
-<li><a href="https://win-hot.techidaily.com/the-great-wall-of-china-explored-a-deep-dive-into-its-profound-significance-insights-from-yl-solutions-team/"><u>The Great Wall of China Explored: A Deep Dive Into Its Profound Significance – Insights From YL Solutions Team</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-the-art-of-converting-faded-photos-into-dynamic-videos/"><u>[New] The Art of Converting Faded Photos Into Dynamic Videos</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-the-guide-to-sharing-your-tiktok-content-on-twitter/"><u>[Updated] The Guide to Sharing Your TikTok Content on Twitter</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-ableton-live-mastering-volume-dampening/"><u>2024 Approved Ableton Live Mastering Volume Dampening</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-radiant-revelations-in-your-android-video-journey/"><u>2024 Approved Radiant Revelations in Your Android Video Journey</u></a></li>
+<li><a href="https://win-hot.techidaily.com/discover-the-refreshed-features-of-karaoki-version-085872-and-beyond-updates-unveiled/"><u>Discover the Refreshed Features of Karaoki Version 0.8.5872 and Beyond – Updates Unveiled</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/diy-audio-repair-tips-eradicating-crackling-sounds-on-your-pc-windows-107/"><u>DIY Audio Repair Tips: Eradicating Crackling Sounds on Your PC (Windows 10/7)</u></a></li>
+<li><a href="https://win-hot.techidaily.com/do-you-really-need-the-latest-graphics-card-drivers-expert-advice-from-yl-software-solutions/"><u>Do You Really Need the Latest Graphics Card Drivers? Expert Advice From YL Software Solutions</u></a></li>
+<li><a href="https://win-hot.techidaily.com/download-and-get-started-with-the-latest-pcdj-dex-3-version-31202-from-karaokenet-for-aspiring-djs/"><u>Download & Get Started with the Latest PCDJ DEX 3 Version 3.12.0.2 From Karaoke.net for Aspiring DJs!</u></a></li>
+<li><a href="https://win-hot.techidaily.com/exploring-advantages-how-cryptocurrency-transforms-finance-with-insights-from-yl-computing/"><u>Exploring Advantages: How Cryptocurrency Transforms Finance with Insights From YL Computing</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-your-swtor-game-when-it-refuses-to-open/"><u>Fixing Your SWTOR Game When It Refuses to Open</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-exploring-the-nuances-of-audio-overlap-crossfade/"><u>In 2024, Exploring the Nuances of Audio Overlap (Crossfade)</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-for-people-wanting-to-mock-gps-on-samsung-galaxy-s24plus-devices-drfone-by-drfone-virtual/"><u>In 2024, For People Wanting to Mock GPS on Samsung Galaxy S24+ Devices | Dr.fone</u></a></li>
+<li><a href="https://win-superb.techidaily.com/leading-application-solutions-how-to-edit-out-individuals-from-pictures-effortlessly/"><u>Leading Application Solutions: How to Edit Out Individuals From Pictures Effortlessly</u></a></li>
+<li><a href="https://win-hot.techidaily.com/maximizing-efficiency-with-yl-software-solutions-discover-the-key-benefits-for-your-business/"><u>Maximizing Efficiency with YL Software Solutions: Discover the Key Benefits for Your Business</u></a></li>
+<li><a href="https://win-hot.techidaily.com/premium-gallery-of-lily-collins-wallpapers-and-backgrounds-in-ultra-hd-quality-curated-by-yl-software-solutions/"><u>Premium Gallery of Lily Collins Wallpapers & Backgrounds in Ultra HD Quality – Curated by YL Software Solutions</u></a></li>
+<li><a href="https://win-hot.techidaily.com/take-your-mixes-up-a-notch-using-dex-25-and-music-videos-in-pcdj-platforms/"><u>Take Your Mixes Up a Notch Using DEX 2.5 & Music Videos in PCDJ Platforms</u></a></li>
+<li><a href="https://win-hot.techidaily.com/understanding-the-reasons-behind-your-blue-screen-of-death-insights-from-yl-computing/"><u>Understanding the Reasons Behind Your Blue Screen of Death: Insights From YL Computing</u></a></li>
+<li><a href="https://win-hot.techidaily.com/understanding-windows-top-reasons-behind-hardware-malfunctions-insights-from-yl-computing/"><u>Understanding Windows: Top Reasons Behind Hardware Malfunctions - Insights From YL Computing</u></a></li>
+<li><a href="https://common-error.techidaily.com/xbox-one-in-pc-environment-function-reestablished/"><u>Xbox One in PC Environment: Function Reestablished</u></a></li>
 </ul></div>
 
