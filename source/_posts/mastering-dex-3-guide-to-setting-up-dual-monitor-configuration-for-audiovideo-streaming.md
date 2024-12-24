@@ -1,7 +1,7 @@
 ---
 title: "Mastering DEX 3: Guide to Setting Up Dual Monitor Configuration for Audio/Video Streaming"
-date: 2024-12-14T00:07:22.803Z
-updated: 2024-12-14T22:54:29.925Z
+date: 2024-12-19T18:58:36.608Z
+updated: 2024-12-23T19:05:11.754Z
 tags:
   - product
 categories:
@@ -20,7 +20,7 @@ Since you only want your audience to view the mixed music video output, or the k
 #### DEX 3 DJ SOFTWARE TUTORIAL VIDEO: HOW TO SETUP SECOND DISPLAY FOR VIDEO OR KARAOKE ONLY OUTPUT
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -42,16 +42,17 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2014/10/videonly-coverimage.jpg?fi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-elite-story-creation-centers-avoiding-the-ordinary-top-8/"><u>[New] Elite Story Creation Centers – Avoiding the Ordinary (Top 8)</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/cutting-through-content-clutter-youtube-shorts-essentials-for-2024/"><u>Cutting Through Content Clutter YouTube Shorts Essentials for 2024</u></a></li>
-<li><a href="https://win-hot.techidaily.com/exciting-update-launch-of-digitraxs-newest-karaoke-cloud-software/"><u>Exciting Update: Launch of Digitrax's Newest Karaoke Cloud Software!</u></a></li>
-<li><a href="https://win-tips.techidaily.com/garanzia-di-backup-completo-dei-dati-software-e-lavoro-pc-windows-per-lufficio-aziendale/"><u>Garanzia Di Backup Completo Dei Dati Software E Lavoro PC Windows per L'ufficio Aziendale</u></a></li>
-<li><a href="https://win-hot.techidaily.com/identifying-problematic-pc-drivers-a-step-by-step-guide-insights-from-yl-computing/"><u>Identifying Problematic PC Drivers: A Step-by-Step Guide - Insights From YL Computing</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-spotify-location-after-moving-to-another-country-on-oppo-f25-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Spotify Location After Moving to Another Country On Oppo F25 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-methods-for-reducing-jello-like-video-stabilization-effects/"><u>In 2024, Methods for Reducing Jello-Like Video Stabilization Effects</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/in-depth-analysis-of-the-aftershokz-aeropex-exceptional-bone-conduction-audio-quality-and-enduring-power-supply-expert-review-by-techzdnet/"><u>In-Depth Analysis of the AfterShokz Aeropex: Exceptional Bone Conduction Audio Quality & Enduring Power Supply - Expert Review by TechZDNet</u></a></li>
-<li><a href="https://fake-location.techidaily.com/spoofing-life360-how-to-do-it-on-tecno-spark-10-pro-drfone-by-drfone-virtual-android/"><u>Spoofing Life360 How to Do it on Tecno Spark 10 Pro? | Dr.fone</u></a></li>
-<li><a href="https://win-hot.techidaily.com/troubleshooting-unrecognized-peripherals-on-windows-insights-and-solutions-by-yl-software-experts/"><u>Troubleshooting Unrecognized Peripherals on Windows - Insights & Solutions by YL Software Experts</u></a></li>
-<li><a href="https://win-hot.techidaily.com/yl-softwares-stunning-aurora-visuals-download-modern-crisp-4k-background-imagery-for-your-device/"><u>YL Software's Stunning Aurora Visuals: Download Modern, Crisp 4K Background Imagery for Your Device</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-social-media-broadcast-battle-facebook-vs-youtube-and-twitvision/"><u>[Updated] Social Media Broadcast Battle FACEbook Vs. YOUTube & TWITVision</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-unlocking-windows-11s-visual-capabilities-with-auto-hdr-mode-activation-for-2024/"><u>[Updated] Unlocking Windows 11'S Visual Capabilities with Auto HDR Mode Activation for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/a-critical-analysis-of-luminances-role-in-hdr-development/"><u>A Critical Analysis of Luminance's Role in HDR Development</u></a></li>
+<li><a href="https://win-hot.techidaily.com/effective-strategies-to-resolve-non-functional-scanners-guidance-from-yl-tech-experts/"><u>Effective Strategies to Resolve Non-Functional Scanners: Guidance From YL Tech Experts</u></a></li>
+<li><a href="https://win-hot.techidaily.com/identifying-warning-signs-recognizing-hard-drive-failure-tips-from-yl-computing/"><u>Identifying Warning Signs: Recognizing Hard Drive Failure - Tips From YL Computing</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-changeadd-location-filters-on-snapchat-for-your-nokia-130-music-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Add Location Filters on Snapchat For your Nokia 130 Music | Dr.fone</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-why-is-ipogo-not-working-on-apple-iphone-6s-fixed-drfone-by-drfone-virtual-ios/"><u>In 2024, Why is iPogo not working On Apple iPhone 6s? Fixed | Dr.fone</u></a></li>
+<li><a href="https://win-hot.techidaily.com/kickstarting-your-dj-journey-top-strategies-and-insights-for-a-successful-launch-in-2020-pcdj-mastery/"><u>Kickstarting Your DJ Journey: Top Strategies and Insights for a Successful Launch in 2020 | PCDJ Mastery</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/latest-version-of-m-audio-fast-track-drivers-available-for-windows-users-compatible-with-os-10-7-8-and-81/"><u>Latest Version of M-Audio Fast Track Drivers Available for Windows Users - Compatible with OS: 10, 7, 8 and 8.1</u></a></li>
+<li><a href="https://win-hot.techidaily.com/outcomes-of-the-great-leap-forward-explored-a-detailed-review-from-experts-at-yl-software-tech/"><u>Outcomes of the Great Leap Forward Explored – A Detailed Review From Experts at YL Software Tech</u></a></li>
+<li><a href="https://win-hot.techidaily.com/stunning-vegas-pixel-art-bgs-and-desktops-download-from-yl-computings-software-library/"><u>Stunning Vegas Pixel Art BGs & Desktops - Download From YL Computing's Software Library</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/top-tools-for-efficient-foreign-language-proficiency-growth/"><u>Top Tools for Efficient Foreign Language Proficiency Growth</u></a></li>
 </ul></div>
 

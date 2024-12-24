@@ -1,7 +1,7 @@
 ---
 title: Design Custom Shaders on Shadertoy.com for Enhanced DEX 3 Performance by PCDJ
-date: 2024-12-10T01:22:47.599Z
-updated: 2024-12-14T19:49:46.200Z
+date: 2024-12-22T04:42:50.184Z
+updated: 2024-12-24T01:08:15.529Z
 tags:
   - product
 categories:
@@ -23,7 +23,7 @@ thumbnail: https://thmb.techidaily.com/bd7c586aade6fed49cfda54f6e705ff08c3876c36
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## So what is a ‘Shader’?
@@ -39,7 +39,7 @@ We found this easy-to-follow ‘[Beginner’s Guide to Coding Graphics Shaders](
 [View Guide to Coding Shaders](https://gamedevelopment.tutsplus.com/tutorials/a-beginners-guide-to-coding-graphics-shaders--cms-23313)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Why would I want to create a custom Shader?
@@ -49,7 +49,7 @@ Creating your own custom shader/s for use with DEX 3 is just another way to cust
 If you’re not interested in creating your own custom shaders, no worries, [we’ve compiled a list of shaders that work great in DEX 3 already](https://tools.techidaily.com/pcdj/products/)!
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -71,21 +71,19 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2018/08/customshader-header.jpg?fi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-flashlog-screen-grab-review-and-substitutes-for-2024/"><u>[New] FlashLog Screen Grab Review and Substitutes for 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-in-2024-overcoming-quietness-fixes-for-silent-obs-streams/"><u>[New] In 2024, Overcoming Quietness Fixes for Silent OBS Streams</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/new-in-2024-revamp-your-tiktok-videos-insightful-strategies-for-backdrop-changes/"><u>[New] In 2024, Revamp Your TikTok Videos Insightful Strategies for Backdrop Changes</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-perfecting-phone-screenshots-with-snapchat-for-2024/"><u>[New] Perfecting Phone Screenshots with Snapchat for 2024</u></a></li>
-<li><a href="https://win-hot.techidaily.com/discover-your-computers-audio-hardware-identifying-the-sound-card-tech-insight-by-yl/"><u>Discover Your Computer's Audio Hardware: Identifying the Sound Card - Tech Insight by YL</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/expert-net-archives-downloading-personal-tones-for-2024/"><u>Expert Net Archives Downloading Personal Tones for 2024</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-unlock-xiaomi-redmi-a2plus-phone-with-broken-screen-by-drfone-android/"><u>How to Unlock Xiaomi Redmi A2+ Phone with Broken Screen</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-getting-the-pokemon-go-gps-signal-not-found-11-error-in-infinix-smart-8-pro-drfone-by-drfone-virtual/"><u>In 2024, Getting the Pokemon Go GPS Signal Not Found 11 Error in Infinix Smart 8 Pro | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-still-using-pattern-locks-with-htc-u23-pro-tips-tricks-and-helpful-advice-by-drfone-android/"><u>In 2024, Still Using Pattern Locks with HTC U23 Pro? Tips, Tricks and Helpful Advice</u></a></li>
-<li><a href="https://win-hot.techidaily.com/personalizing-your-pc-a-step-by-step-guide-to-tweaking-windows-control-panel-preferences-yl-computing/"><u>Personalizing Your PC: A Step-by-Step Guide to Tweaking Windows Control Panel Preferences - YL Computing</u></a></li>
-<li><a href="https://win-hot.techidaily.com/steps-to-manage-installation-and-removal-of-applications-via-control-panel-a-guide-from-yl-computing/"><u>Steps to Manage Installation and Removal of Applications via Control Panel: A Guide From YL Computing</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/the-evolution-of-apples-latest-marvel-unveiling-the-upgraded-mac-mini-insights/"><u>The Evolution of Apple's Latest Marvel: Unveiling the Upgraded Mac Mini - Insights</u></a></li>
-<li><a href="https://win-hot.techidaily.com/top-vst-audio-effects-and-plugins-for-professional-dj-setups-with-pioneer-cdj/"><u>Top VST Audio Effects & Plugins for Professional DJ Setups with Pioneer CDJ</u></a></li>
-<li><a href="https://win-hot.techidaily.com/vaneck-explores-el-salvador-as-crypto-hub-could-it-become-the-singapore-of-america-with-innovative-software-from-yl-computing/"><u>VanEck Explores El Salvador as Crypto Hub: Could It Become the 'Singapore of America' With Innovative Software From YL Computing?</u></a></li>
-<li><a href="https://win-hot.techidaily.com/visual-themes-ford-f-250-digital-wallpaper-collection-by-yl-software-solutions/"><u>Visual Themes: Ford F-250 Digital Wallpaper Collection by YL Software Solutions</u></a></li>
-<li><a href="https://win-hot.techidaily.com/yl-softwares-premium-aurora-visual-delights-hd-graphics-for-wallpapers-and-backgrounds/"><u>YL Software's Premium AURORA Visual Delights: HD Graphics for Wallpapers and Backgrounds</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-elite-gaming-setup-essentials-revealed/"><u>[New] 2024 Approved Elite Gaming Setup Essentials Revealed</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-a-step-by-step-guide-to-curved-image-design/"><u>[New] A Step-by-Step Guide to Curved Image Design</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-demystifying-smooth-audio-conversions-crossfade/"><u>[New] Demystifying Smooth Audio Conversions (Crossfade)</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-unleashing-creativity-with-mobile-melodies-on-iphone/"><u>[New] Unleashing Creativity with Mobile Melodies on iPhone</u></a></li>
+<li><a href="https://win-hot.techidaily.com/assessing-your-pcs-cooling-mechanism-insights-by-yl-computing-and-yl-software/"><u>Assessing Your PC's Cooling Mechanism: Insights by YL Computing & YL Software</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/asus-vg2-revolutionizing-your-console-gaming-sessions-on-a-superior-screen/"><u>ASUS VG2#: Revolutionizing Your Console Gaming Sessions on a Superior Screen</u></a></li>
+<li><a href="https://win-hot.techidaily.com/bitcoins-latest-trading-value-an-update-from-yl-computing-and-yl-software-experts/"><u>Bitcoin's Latest Trading Value: An Update From YL Computing & YL Software Experts</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/easy-guide-how-to-bypass-vivo-y100a-frp-android-10111213-by-drfone-android/"><u>Easy Guide How To Bypass Vivo Y100A FRP Android 10/11/12/13</u></a></li>
+<li><a href="https://win-hot.techidaily.com/essential-tips-for-securing-file-backups-on-your-pc-running-windows-10-expert-advice-from-yl-software/"><u>Essential Tips for Securing File Backups on Your PC Running Windows 10 - Expert Advice From YL Software</u></a></li>
+<li><a href="https://win-hot.techidaily.com/guide-to-decreasing-run-time-processes-for-enhanced-system-performance-with-tips-from-yl-computing-and-yl-software/"><u>Guide to Decreasing Run-Time Processes for Enhanced System Performance with Tips From YL Computing and YL Software</u></a></li>
+<li><a href="https://win-hot.techidaily.com/high-definition-new-york-city-wallpaper-collection-hd-visuals-scenic-photographs-and-landscapes-by-yl-computing/"><u>High-Definition New York City Wallpaper Collection - HD Visuals, Scenic Photographs & Landscapes by YL Computing</u></a></li>
+<li><a href="https://win-hot.techidaily.com/how-to-restore-your-scanners-connection-with-your-pc-expert-tips-from-yl-computing/"><u>How to Restore Your Scanner's Connection with Your PC: Expert Tips From YL Computing</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/1721202671991-securely-delete-files-with-the-top-rated-bitraser-drive-eraser-buy-now/"><u>Securely Delete Files with the Top-Rated BitRaser Drive Eraser – Buy Now</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-future-of-job-hunting-how-chatgpt-enhances-job-application-strategies/"><u>The Future of Job Hunting: How ChatGPT Enhances Job Application Strategies</u></a></li>
 </ul></div>
 
