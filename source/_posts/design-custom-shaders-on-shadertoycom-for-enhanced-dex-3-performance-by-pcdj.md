@@ -1,7 +1,7 @@
 ---
 title: Design Custom Shaders on Shadertoy.com for Enhanced DEX 3 Performance by PCDJ
-date: 2024-12-22T04:42:50.184Z
-updated: 2024-12-24T01:08:15.529Z
+date: 2024-12-24T16:57:16.505Z
+updated: 2024-12-29T18:01:14.710Z
 tags:
   - product
 categories:
@@ -23,7 +23,7 @@ thumbnail: https://thmb.techidaily.com/bd7c586aade6fed49cfda54f6e705ff08c3876c36
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## So what is a ‘Shader’?
@@ -39,7 +39,7 @@ We found this easy-to-follow ‘[Beginner’s Guide to Coding Graphics Shaders](
 [View Guide to Coding Shaders](https://gamedevelopment.tutsplus.com/tutorials/a-beginners-guide-to-coding-graphics-shaders--cms-23313)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Why would I want to create a custom Shader?
@@ -49,7 +49,7 @@ Creating your own custom shader/s for use with DEX 3 is just another way to cust
 If you’re not interested in creating your own custom shaders, no worries, [we’ve compiled a list of shaders that work great in DEX 3 already](https://tools.techidaily.com/pcdj/products/)!
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -71,19 +71,24 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2018/08/customshader-header.jpg?fi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/024-approved-elite-gaming-setup-essentials-revealed/"><u>[New] 2024 Approved Elite Gaming Setup Essentials Revealed</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/new-a-step-by-step-guide-to-curved-image-design/"><u>[New] A Step-by-Step Guide to Curved Image Design</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-demystifying-smooth-audio-conversions-crossfade/"><u>[New] Demystifying Smooth Audio Conversions (Crossfade)</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-unleashing-creativity-with-mobile-melodies-on-iphone/"><u>[New] Unleashing Creativity with Mobile Melodies on iPhone</u></a></li>
-<li><a href="https://win-hot.techidaily.com/assessing-your-pcs-cooling-mechanism-insights-by-yl-computing-and-yl-software/"><u>Assessing Your PC's Cooling Mechanism: Insights by YL Computing & YL Software</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/asus-vg2-revolutionizing-your-console-gaming-sessions-on-a-superior-screen/"><u>ASUS VG2#: Revolutionizing Your Console Gaming Sessions on a Superior Screen</u></a></li>
-<li><a href="https://win-hot.techidaily.com/bitcoins-latest-trading-value-an-update-from-yl-computing-and-yl-software-experts/"><u>Bitcoin's Latest Trading Value: An Update From YL Computing & YL Software Experts</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/easy-guide-how-to-bypass-vivo-y100a-frp-android-10111213-by-drfone-android/"><u>Easy Guide How To Bypass Vivo Y100A FRP Android 10/11/12/13</u></a></li>
-<li><a href="https://win-hot.techidaily.com/essential-tips-for-securing-file-backups-on-your-pc-running-windows-10-expert-advice-from-yl-software/"><u>Essential Tips for Securing File Backups on Your PC Running Windows 10 - Expert Advice From YL Software</u></a></li>
-<li><a href="https://win-hot.techidaily.com/guide-to-decreasing-run-time-processes-for-enhanced-system-performance-with-tips-from-yl-computing-and-yl-software/"><u>Guide to Decreasing Run-Time Processes for Enhanced System Performance with Tips From YL Computing and YL Software</u></a></li>
-<li><a href="https://win-hot.techidaily.com/high-definition-new-york-city-wallpaper-collection-hd-visuals-scenic-photographs-and-landscapes-by-yl-computing/"><u>High-Definition New York City Wallpaper Collection - HD Visuals, Scenic Photographs & Landscapes by YL Computing</u></a></li>
-<li><a href="https://win-hot.techidaily.com/how-to-restore-your-scanners-connection-with-your-pc-expert-tips-from-yl-computing/"><u>How to Restore Your Scanner's Connection with Your PC: Expert Tips From YL Computing</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/1721202671991-securely-delete-files-with-the-top-rated-bitraser-drive-eraser-buy-now/"><u>Securely Delete Files with the Top-Rated BitRaser Drive Eraser – Buy Now</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-future-of-job-hunting-how-chatgpt-enhances-job-application-strategies/"><u>The Future of Job Hunting: How ChatGPT Enhances Job Application Strategies</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-innovativescreens-newrecorderx-reviewed-and-rated/"><u>[New] 2024 Approved InnovativeScreens' NewRecorderX Reviewed & Rated</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-how-to-use-zoom-video-filters-to-make-a-high-quality-video-call/"><u>[New] In 2024, How to Use Zoom Video Filters to Make a High-Quality Video Call</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-visionary-voices-triumph-online/"><u>[New] Visionary Voices Triumph Online</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-iphone-voice-memo-recording-guide/"><u>[Updated] IPhone Voice Memo Recording Guide</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-unlocking-window-11s-best-kept-secrets-for-maximum-productivity/"><u>[Updated] Unlocking WINDOW 11'S Best-Kept Secrets for Maximum Productivity</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-snapchat-profitability-techniques/"><u>2024 Approved Snapchat Profitability Techniques</u></a></li>
+<li><a href="https://win-hot.techidaily.com/assessing-risk-factors-in-cryptocurrency-trading-yl-software-expert-analysis/"><u>Assessing Risk Factors in Cryptocurrency Trading - YL Software Expert Analysis</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/audio-exploration-the-comprehensible-review-of-pazera/"><u>Audio Exploration The Comprehensible Review of Pazera</u></a></li>
+<li><a href="https://facebook.techidaily.com/decoding-the-features-in-facebooks-support-portal/"><u>Decoding the Features in Facebook's Support Portal</u></a></li>
+<li><a href="https://win-hot.techidaily.com/discover-pcdj-insights-through-mobile-beat-magazines-expert-editorial/"><u>Discover PCDJ Insights Through Mobile Beat Magazine's Expert Editorial</u></a></li>
+<li><a href="https://win-hot.techidaily.com/how-to-determine-if-you-need-to-remove-outdated-gpu-drivers-on-a-windows-system-guide-by-yl-computing/"><u>How To Determine If You Need To Remove Outdated GPU Drivers On A Windows System - Guide by YL Computing</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-google-play-location-on-huawei-nova-y71-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Google Play Location On Huawei Nova Y71 | Dr.fone</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/protective-recording-strategies-to-mask-personal-information-for-2024/"><u>Protective Recording Strategies to Mask Personal Information for 2024</u></a></li>
+<li><a href="https://win-hot.techidaily.com/resolving-issues-when-your-scanner-fails-to-detect-compatible-applications-insights-by-yl-computing/"><u>Resolving Issues When Your Scanner Fails to Detect Compatible Applications - Insights by YL Computing</u></a></li>
+<li><a href="https://win-hot.techidaily.com/securing-your-digital-fortune-expert-tips-on-storing-cryptocurrency-with-yl-solutions/"><u>Securing Your Digital Fortune: Expert Tips on Storing Cryptocurrency with YL Solutions</u></a></li>
+<li><a href="https://win-hot.techidaily.com/spotlight-on-songbookdbs-enhanced-dj-collaboration-functionality/"><u>Spotlight on SongBookDB's Enhanced DJ Collaboration Functionality</u></a></li>
+<li><a href="https://win-hot.techidaily.com/step-by-step-guide-adding-tunes-to-your-pc-with-windows-media-player-insights-from-yl-computing/"><u>Step-by-Step Guide: Adding Tunes to Your PC with Windows Media Player - Insights From YL Computing</u></a></li>
+<li><a href="https://win-hot.techidaily.com/strategies-for-constructing-your-cryptocurrency-investment-portfolio-insights-from-yl-computing/"><u>Strategies for Constructing Your Cryptocurrency Investment Portfolio: Insights From YL Computing</u></a></li>
+<li><a href="https://win-hot.techidaily.com/ultimate-lip-pattern-wallpapers-with-crystal-clear-photos-expertly-curated-backgrounds-from-yl-software/"><u>Ultimate Lip Pattern Wallpapers with Crystal Clear Photos - Expertly Curated Backgrounds From YL Software</u></a></li>
 </ul></div>
 

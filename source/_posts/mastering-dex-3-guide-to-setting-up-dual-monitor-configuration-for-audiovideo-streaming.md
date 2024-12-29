@@ -1,7 +1,7 @@
 ---
 title: "Mastering DEX 3: Guide to Setting Up Dual Monitor Configuration for Audio/Video Streaming"
-date: 2024-12-19T18:58:36.608Z
-updated: 2024-12-23T19:05:11.754Z
+date: 2024-12-23T18:04:24.283Z
+updated: 2024-12-29T16:16:04.397Z
 tags:
   - product
 categories:
@@ -20,7 +20,7 @@ Since you only want your audience to view the mixed music video output, or the k
 #### DEX 3 DJ SOFTWARE TUTORIAL VIDEO: HOW TO SETUP SECOND DISPLAY FOR VIDEO OR KARAOKE ONLY OUTPUT
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -42,17 +42,22 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2014/10/videonly-coverimage.jpg?fi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-social-media-broadcast-battle-facebook-vs-youtube-and-twitvision/"><u>[Updated] Social Media Broadcast Battle FACEbook Vs. YOUTube & TWITVision</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-unlocking-windows-11s-visual-capabilities-with-auto-hdr-mode-activation-for-2024/"><u>[Updated] Unlocking Windows 11'S Visual Capabilities with Auto HDR Mode Activation for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/a-critical-analysis-of-luminances-role-in-hdr-development/"><u>A Critical Analysis of Luminance's Role in HDR Development</u></a></li>
-<li><a href="https://win-hot.techidaily.com/effective-strategies-to-resolve-non-functional-scanners-guidance-from-yl-tech-experts/"><u>Effective Strategies to Resolve Non-Functional Scanners: Guidance From YL Tech Experts</u></a></li>
-<li><a href="https://win-hot.techidaily.com/identifying-warning-signs-recognizing-hard-drive-failure-tips-from-yl-computing/"><u>Identifying Warning Signs: Recognizing Hard Drive Failure - Tips From YL Computing</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-changeadd-location-filters-on-snapchat-for-your-nokia-130-music-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Add Location Filters on Snapchat For your Nokia 130 Music | Dr.fone</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-why-is-ipogo-not-working-on-apple-iphone-6s-fixed-drfone-by-drfone-virtual-ios/"><u>In 2024, Why is iPogo not working On Apple iPhone 6s? Fixed | Dr.fone</u></a></li>
-<li><a href="https://win-hot.techidaily.com/kickstarting-your-dj-journey-top-strategies-and-insights-for-a-successful-launch-in-2020-pcdj-mastery/"><u>Kickstarting Your DJ Journey: Top Strategies and Insights for a Successful Launch in 2020 | PCDJ Mastery</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/latest-version-of-m-audio-fast-track-drivers-available-for-windows-users-compatible-with-os-10-7-8-and-81/"><u>Latest Version of M-Audio Fast Track Drivers Available for Windows Users - Compatible with OS: 10, 7, 8 and 8.1</u></a></li>
-<li><a href="https://win-hot.techidaily.com/outcomes-of-the-great-leap-forward-explored-a-detailed-review-from-experts-at-yl-software-tech/"><u>Outcomes of the Great Leap Forward Explored – A Detailed Review From Experts at YL Software Tech</u></a></li>
-<li><a href="https://win-hot.techidaily.com/stunning-vegas-pixel-art-bgs-and-desktops-download-from-yl-computings-software-library/"><u>Stunning Vegas Pixel Art BGs & Desktops - Download From YL Computing's Software Library</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/top-tools-for-efficient-foreign-language-proficiency-growth/"><u>Top Tools for Efficient Foreign Language Proficiency Growth</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-revive-your-missing-iphone-x-crucial-tips-revealed/"><u>[New] 2024 Approved Revive Your Missing iPhone X Crucial Tips Revealed</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-unleash-your-potential-top-8-tablets-for-stellar-photo-editing/"><u>[New] 2024 Approved Unleash Your Potential Top 8 Tablets For Stellar Photo Editing</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-premium-audio-narrative-compositions-for-2024/"><u>[New] Premium Audio Narrative Compositions for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-the-insiders-handbook-to-whatsapp-hidden-features-for-2024/"><u>[New] The Insider's Handbook to WhatsApp Hidden Features for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-extensive-movement-review-2023/"><u>2024 Approved Extensive Movement Review 2023</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-mac-acoustic-arena-deep-dive/"><u>2024 Approved Mac Acoustic Arena Deep Dive</u></a></li>
+<li><a href="https://win-hot.techidaily.com/essential-guide-transferring-files-efficiently-on-windows-tips-from-yl-computing/"><u>Essential Guide: Transferring Files Efficiently on Windows - Tips From YL Computing</u></a></li>
+<li><a href="https://win-hot.techidaily.com/evaluating-the-effectiveness-of-windows-defender-in-guarding-your-computer-from-hackers-and-malware-yl-computing-analysis/"><u>Evaluating the Effectiveness of Windows Defender in Guarding Your Computer From Hackers and Malware – YL Computing Analysis</u></a></li>
+<li><a href="https://win-hot.techidaily.com/high-resolution-2k-and-widescreen-wallpaper-collections-by-yl-computing-premium-desktop-backgrounds-for-ultra-hd-displays/"><u>High-Resolution 2K & Widescreen Wallpaper Collections by YL Computing: Premium Desktop Backgrounds for Ultra HD Displays</u></a></li>
+<li><a href="https://win-hot.techidaily.com/how-to-fix-a-non-printing-printer-essential-troubleshooting-tips-from-yl-computing/"><u>How to Fix a Non-Printing Printer: Essential Troubleshooting Tips From YL Computing</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-advanced-screen-recorder-options-for-mac-not-including-bandicamp/"><u>In 2024, Advanced Screen Recorder Options for Mac, Not Including Bandicamp</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-4-ways-to-trace-realme-note-50-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 4 Ways to Trace Realme Note 50 Location | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/is-your-oppo-reno-10-proplus-5g-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Oppo Reno 10 Pro+ 5G working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
+<li><a href="https://win-hot.techidaily.com/new-pcdjs-fresh-party-tyme-releases-join-our-karaoke-subscription-service-for-the-latest-tracks-as-of-mar-3-2-18/"><u>New PCDJ's Fresh Party Tyme Releases - Join Our Karaoke Subscription Service for the Latest Tracks as of Mar 3-2-18!</u></a></li>
+<li><a href="https://win-hot.techidaily.com/step-by-step-guide-removing-programs-from-your-pc-tips-by-yl-computing/"><u>Step-by-Step Guide: Removing Programs From Your PC - Tips by YL Computing</u></a></li>
+<li><a href="https://win-hot.techidaily.com/the-ultimate-techniques-to-change-folder-names-with-yl-software-solutions-mastered-by-yl-computing/"><u>The Ultimate Techniques to Change Folder Names with YL Software Solutions - Mastered by YL Computing</u></a></li>
+<li><a href="https://win-hot.techidaily.com/understanding-windows-defenders-role-in-system-protection-a-guide-from-yl-software-experts/"><u>Understanding Windows Defender's Role in System Protection - A Guide From YL Software Experts</u></a></li>
 </ul></div>
 

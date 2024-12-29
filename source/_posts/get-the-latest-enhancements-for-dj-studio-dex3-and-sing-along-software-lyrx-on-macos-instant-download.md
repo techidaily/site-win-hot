@@ -1,7 +1,7 @@
 ---
 title: Get the Latest Enhancements for DJ Studio DEX3 & Sing-Along Software LYRX on MacOS - Instant Download
-date: 2024-12-22T04:23:39.917Z
-updated: 2024-12-23T16:15:20.059Z
+date: 2024-12-24T18:18:16.174Z
+updated: 2024-12-29T18:21:26.829Z
 tags:
   - product
 categories:
@@ -21,7 +21,7 @@ thumbnail: https://thmb.techidaily.com/895e63c00991de11c3a5bb60d914f7ce63bcb7f1c
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### PCDJ DEX 3.9.0.5 | Global Support For Party Tyme Karaoke
@@ -29,7 +29,7 @@ thumbnail: https://thmb.techidaily.com/895e63c00991de11c3a5bb60d914f7ce63bcb7f1c
 [LEARN MORE ABOUT DEX 3 ![Party Tyme Karaoke Subscription for DEX 3 karaoke software](https://i1.wp.com/pcdj.com/wp-content/uploads/2017/07/DEX3-PartyTyme.jpg?fit=300%2C169&ssl=1 "Party Tyme Karaoke Subscription for DEX 3 karaoke software")](https://tools.techidaily.com/pcdj/products/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 DEX 3.9.0.5 is now available as a free update for existing DEX 3 owners. Largely a maintenance release with under-the-hood performance improvements, DEX 3 version 3.9.0.5 brings world-wide (with the exemption of Japan) support for the Party Tyme Karaoke Subscription service.
@@ -46,7 +46,7 @@ Stream and/or download from an HD collection of hit karaoke songs from the top p
 [DOWNLOAD DEX 3.9.0.5 FREE TRIAL](https://tools.techidaily.com/pcdj/products/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### LYRX v1.1.1 | Global Support For Party Tyme Karaoke And Ultra-Wide Screen Support
@@ -54,7 +54,7 @@ Stream and/or download from an HD collection of hit karaoke songs from the top p
 [LEARN MORE ABOUT LYRX ![LYRX karaoke program from MAC with karaoke subscription](https://i0.wp.com/pcdj.com/wp-content/uploads/2017/08/LYRX11_screenshot1.png?fit=300%2C188&ssl=1 "LYRX karaoke program from MAC with karaoke subscription")](http://www.lyrxkaraoke.com)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 LYRX version 1.1.1 also brings global support for the Party Tyme Karaoke Subscription (Japan being the only exemption) as well as support for ultra-wide displays (21:9 aspect ratio). A few minor tweaks to the user interface have been applied as well as a few minor bug fixes and various performance improvements.
@@ -75,7 +75,7 @@ LYRX with Party Tyme Karaoke provides KJs and karaoke venues the perfect duet of
 [LEARN MORE ABOUT THE PARTY TYME KARAOKE SUBSCRIPTION](https://tools.techidaily.com/pcdj/products/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -97,24 +97,15 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2017/09/lyrxdex3updatept-coverimag
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-incorporating-personal-flair-fonts-for-ae-projects/"><u>[New] Incorporating Personal Flair Fonts for AE Projects</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/new-reimagining-user-engagement-top-10-video-editors-outside-vimeo/"><u>[New] Reimagining User Engagement Top 10 Video Editors Outside Vimeo</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-jest-engineer-online/"><u>[Updated] In 2024, Jest Engineer Online</u></a></li>
-<li><a href="https://win-hot.techidaily.com/boost-your-party-vibes-discover-and-grab-50-more-songs-on-pcdjs-karaoke-cloud-pro-for-ultimate-fun-tonight/"><u>Boost Your Party Vibes – Discover & Grab 50 More Songs on PCDJ's Karaoke Cloud Pro for Ultimate Fun Tonight!</u></a></li>
-<li><a href="https://win-hot.techidaily.com/diagnosing-faulty-hardware-components-expert-advice-from-yl-computing-and-yl-software/"><u>Diagnosing Faulty Hardware Components: Expert Advice From YL Computing & YL Software</u></a></li>
-<li><a href="https://win-hot.techidaily.com/discover-pcdj-insights-through-mobile-beat-magazines-expert-editorial/"><u>Discover PCDJ Insights Through Mobile Beat Magazine's Expert Editorial</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/dji-sky-artistry-experiment-with-color-filters-at-zero-cost/"><u>DJI Sky Artistry - Experiment with Color Filters at Zero Cost</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/googles-take-on-ar-stickers-an-overview-and-beyond/"><u>Google's Take on AR Stickers An Overview & Beyond</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/guide-to-mirror-your-vivo-y28-5g-to-other-android-devices-drfone-by-drfone-android/"><u>Guide to Mirror Your Vivo Y28 5G to Other Android devices | Dr.fone</u></a></li>
-<li><a href="https://win-hot.techidaily.com/how-mao-zedong-shaped-the-course-of-chinas-revolutionary-history-insights-from-yl-software/"><u>How Mao Zedong Shaped the Course of China's Revolutionary History - Insights From YL Software</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/how-to-securely-update-your-windows-computers-pl23-3-to-usb-driver-free-download-available/"><u>How to Securely Update Your Windows Computer's PL23 3-To-USB Driver: Free Download Available</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/la-guida-completa-ai-migliori-software-e-apparecchiature-di-backup-per-sistemi-windows-pc-scelta-ideale-del-mercato/"><u>La Guida Completa Ai Migliori Software E Apparecchiature Di Backup per Sistemi Windows PC: Scelta Ideale Del Mercato</u></a></li>
-<li><a href="https://win-hot.techidaily.com/resolving-issues-when-your-scanner-fails-to-detect-compatible-applications-insights-by-yl-computing/"><u>Resolving Issues When Your Scanner Fails to Detect Compatible Applications - Insights by YL Computing</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/schnellstarten-mit-cloniertem-windows-1011-systemlaufwerk-auf-portable-flash-laufwerk/"><u>Schnellstarten Mit Cloniertem Windows 10/11 Systemlaufwerk Auf Portable Flash-Laufwerk</u></a></li>
-<li><a href="https://win-hot.techidaily.com/step-by-step-guide-updating-your-devices-driver-software-tech-solutions-by-yl/"><u>Step-by-Step Guide: Updating Your Device's Driver Software - Tech Solutions by YL</u></a></li>
-<li><a href="https://win-hot.techidaily.com/strategies-for-constructing-your-cryptocurrency-investment-portfolio-insights-from-yl-computing/"><u>Strategies for Constructing Your Cryptocurrency Investment Portfolio: Insights From YL Computing</u></a></li>
-<li><a href="https://win-hot.techidaily.com/troubleshooting-e-code-print-issues-yl-softwares-guide-for-immediate-help/"><u>Troubleshooting E-Code Print Issues: YL Software's Guide for Immediate Help</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/understanding-dvd-copyright-protection-effective-methods-to-bypass-locking-mechanisms/"><u>Understanding DVD Copyright Protection: Effective Methods to Bypass Locking Mechanisms</u></a></li>
-<li><a href="https://win-hot.techidaily.com/understanding-legal-framework-a-deep-dive-into-cryptocurrency-laws-and-guidelines-yl-computing/"><u>Understanding Legal Framework: A Deep Dive Into Cryptocurrency Laws and Guidelines - YL Computing</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-expertly-crafted-drama-hub/"><u>[New] Expertly Crafted Drama Hub</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-free-vecto-art-and-graphic-sites-compared-whos-the-best/"><u>[New] Free Vecto Art & Graphic Sites Compared – Who's the Best?</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-illuminated-imagery-standing-out-in-the-visual-field/"><u>[New] Illuminated Imagery Standing Out in the Visual Field</u></a></li>
+<li><a href="https://win-hot.techidaily.com/enablingdisabling-automatic-system-updates-with-yl-computing-solutions/"><u>Enabling/Disabling Automatic System Updates with YL Computing Solutions</u></a></li>
+<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-11-pro-max-to-an-older-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone 11 Pro Max to an Older Version? | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-sci-ed-hacks-top-youtube-experts-to-elevate-learning/"><u>In 2024, Sci-Ed Hacks Top YouTube Experts to Elevate Learning</u></a></li>
+<li><a href="https://win-hot.techidaily.com/key-factors-in-picking-the-right-liability-insurance-for-your-dj-business-with-pcdj-tips/"><u>Key Factors in Picking the Right Liability Insurance for Your DJ Business with PCDJ Tips</u></a></li>
+<li><a href="https://win-hot.techidaily.com/master-your-beats-with-jason-spencer-and-jason-jones-exclusive-mobile-music-showcase-on-dj-nights-tv/"><u>Master Your Beats with Jason Spencer and Jason Jones - Exclusive 'Mobile Music' Showcase on DJ Nights TV</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-installing-the-latest-ralink-network-adapters-on-your-windows-machine/"><u>Step-by-Step: Installing the Latest Ralink Network Adapters on Your Windows Machine</u></a></li>
+<li><a href="https://win-hot.techidaily.com/troubleshooting-unrecognized-usb-devices-a-comprehensive-guide-by-yl-computing/"><u>Troubleshooting Unrecognized USB Devices: A Comprehensive Guide by YL Computing</u></a></li>
 </ul></div>
 
