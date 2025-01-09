@@ -1,7 +1,7 @@
 ---
 title: "Mastering DEX 3: Guide to Setting Up Dual Monitor Configuration for Audio/Video Streaming"
-date: 2024-12-23T18:04:24.283Z
-updated: 2024-12-29T16:16:04.397Z
+date: 2025-01-04T20:50:48.138Z
+updated: 2025-01-08T21:09:43.567Z
 tags:
   - product
 categories:
@@ -20,7 +20,7 @@ Since you only want your audience to view the mixed music video output, or the k
 #### DEX 3 DJ SOFTWARE TUTORIAL VIDEO: HOW TO SETUP SECOND DISPLAY FOR VIDEO OR KARAOKE ONLY OUTPUT
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -42,22 +42,24 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2014/10/videonly-coverimage.jpg?fi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-revive-your-missing-iphone-x-crucial-tips-revealed/"><u>[New] 2024 Approved Revive Your Missing iPhone X Crucial Tips Revealed</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-2024-approved-unleash-your-potential-top-8-tablets-for-stellar-photo-editing/"><u>[New] 2024 Approved Unleash Your Potential Top 8 Tablets For Stellar Photo Editing</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-premium-audio-narrative-compositions-for-2024/"><u>[New] Premium Audio Narrative Compositions for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-the-insiders-handbook-to-whatsapp-hidden-features-for-2024/"><u>[New] The Insider's Handbook to WhatsApp Hidden Features for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-extensive-movement-review-2023/"><u>2024 Approved Extensive Movement Review 2023</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-mac-acoustic-arena-deep-dive/"><u>2024 Approved Mac Acoustic Arena Deep Dive</u></a></li>
-<li><a href="https://win-hot.techidaily.com/essential-guide-transferring-files-efficiently-on-windows-tips-from-yl-computing/"><u>Essential Guide: Transferring Files Efficiently on Windows - Tips From YL Computing</u></a></li>
-<li><a href="https://win-hot.techidaily.com/evaluating-the-effectiveness-of-windows-defender-in-guarding-your-computer-from-hackers-and-malware-yl-computing-analysis/"><u>Evaluating the Effectiveness of Windows Defender in Guarding Your Computer From Hackers and Malware – YL Computing Analysis</u></a></li>
-<li><a href="https://win-hot.techidaily.com/high-resolution-2k-and-widescreen-wallpaper-collections-by-yl-computing-premium-desktop-backgrounds-for-ultra-hd-displays/"><u>High-Resolution 2K & Widescreen Wallpaper Collections by YL Computing: Premium Desktop Backgrounds for Ultra HD Displays</u></a></li>
-<li><a href="https://win-hot.techidaily.com/how-to-fix-a-non-printing-printer-essential-troubleshooting-tips-from-yl-computing/"><u>How to Fix a Non-Printing Printer: Essential Troubleshooting Tips From YL Computing</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/in-2024-advanced-screen-recorder-options-for-mac-not-including-bandicamp/"><u>In 2024, Advanced Screen Recorder Options for Mac, Not Including Bandicamp</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-4-ways-to-trace-realme-note-50-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 4 Ways to Trace Realme Note 50 Location | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/is-your-oppo-reno-10-proplus-5g-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Oppo Reno 10 Pro+ 5G working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
-<li><a href="https://win-hot.techidaily.com/new-pcdjs-fresh-party-tyme-releases-join-our-karaoke-subscription-service-for-the-latest-tracks-as-of-mar-3-2-18/"><u>New PCDJ's Fresh Party Tyme Releases - Join Our Karaoke Subscription Service for the Latest Tracks as of Mar 3-2-18!</u></a></li>
-<li><a href="https://win-hot.techidaily.com/step-by-step-guide-removing-programs-from-your-pc-tips-by-yl-computing/"><u>Step-by-Step Guide: Removing Programs From Your PC - Tips by YL Computing</u></a></li>
-<li><a href="https://win-hot.techidaily.com/the-ultimate-techniques-to-change-folder-names-with-yl-software-solutions-mastered-by-yl-computing/"><u>The Ultimate Techniques to Change Folder Names with YL Software Solutions - Mastered by YL Computing</u></a></li>
-<li><a href="https://win-hot.techidaily.com/understanding-windows-defenders-role-in-system-protection-a-guide-from-yl-software-experts/"><u>Understanding Windows Defender's Role in System Protection - A Guide From YL Software Experts</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-capturing-the-moment-advanced-tips-for-iphone-silhouettes/"><u>[New] Capturing the Moment Advanced Tips for iPhone Silhouettes</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-from-novice-to-professional-a-comprehensive-guide-to-mastering-final-cut-pro/"><u>[New] From Novice to Professional A Comprehensive Guide to Mastering Final Cut Pro</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-the-insider-guide-for-seamless-video-sharing-on-instagram-tv/"><u>[New] The Insider Guide for Seamless Video Sharing on Instagram TV</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-harnessing-imovies-potential-for-youtube-broadcasting/"><u>[Updated] In 2024, Harnessing iMovie's Potential for YouTube Broadcasting</u></a></li>
+<li><a href="https://win-hot.techidaily.com/creative-pizza-visuals-for-your-desktop-high-quality-backgrounds-and-images-from-yl-software/"><u>Creative Pizza Visuals for Your Desktop: High-Quality Backgrounds and Images From YL Software</u></a></li>
+<li><a href="https://win-hot.techidaily.com/djing-made-simple-unleash-your-inner-mixer-with-pcdjs-free-dex-3-le-program-tailored-for-beginners-and-fun-music-lovers/"><u>DJING MADE SIMPLE: Unleash Your Inner Mixer with PCDJs Free DEX 3 LE Program - Tailored for Beginners & Fun Music Lovers</u></a></li>
+<li><a href="https://win-hot.techidaily.com/how-does-yl-software-help-you-detect-and-prevent-crypto-scams-essential-tips-and-strategies/"><u>How Does YL Software Help You Detect & Prevent Crypto Scams? Essential Tips and Strategies</u></a></li>
+<li><a href="https://win-hot.techidaily.com/how-to-fix-a-non-functional-printer-expert-tips-from-yl-computing/"><u>How to Fix a Non-Functional Printer: Expert Tips From YL Computing</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-pictures-files-from-nokia-105-classic-by-fonelab-android-recover-pictures/"><u>How To Restore Missing Pictures Files from Nokia 105 Classic.</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-quick-tips-to-create-dynamic-gifs-using-youtube-media/"><u>In 2024, Quick Tips to Create Dynamic GIFs Using YouTube Media</u></a></li>
+<li><a href="https://win-hot.techidaily.com/master-the-art-of-monitoring-pc-performance-essential-tips-from-yl-computing/"><u>Master the Art of Monitoring PC Performance: Essential Tips From YL Computing</u></a></li>
+<li><a href="https://win-hot.techidaily.com/maximizing-laptop-longevity-on-a-single-charge-essential-strategies-by-yl-software-experts/"><u>Maximizing Laptop Longevity on a Single Charge: Essential Strategies by YL Software Experts</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/pinpointing-the-beneficiaries-in-ai-creation-copyrights/"><u>Pinpointing the Beneficiaries in AI Creation Copyrights</u></a></li>
+<li><a href="https://common-error.techidaily.com/shift-key-issues-heres-how-you-can-get-it-working-again/"><u>Shift Key Issues? Here's How You Can Get It Working Again</u></a></li>
+<li><a href="https://blog-min.techidaily.com/transforma-archivos-dts-en-formato-online-sin-coste-usando-el-conversor-expertos-de-movavi/"><u>Transforma Archivos DTS en Formato Online Sin Coste Usando El Conversor Expertos De Movavi</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-silent-pcs-a-step-by-step-guide-for-fixing-hp-sound-problems-in-windows-11/"><u>Troubleshooting Silent PCs: A Step-by-Step Guide for Fixing HP Sound Problems in Windows 11</u></a></li>
+<li><a href="https://win-hot.techidaily.com/ultimate-guide-to-selecting-the-perfect-program-for-junk-file-cleanup-by-yl-computing-experts-software-solutions/"><u>Ultimate Guide to Selecting the Perfect Program for Junk File Cleanup by YL Computing Experts | Software Solutions</u></a></li>
+<li><a href="https://win-hot.techidaily.com/unveiling-the-perks-of-digital-assets-a-deep-dive-into-cryptocurrency-benefits-with-yl-experts/"><u>Unveiling the Perks of Digital Assets: A Deep Dive Into Cryptocurrency Benefits with YL Experts</u></a></li>
+<li><a href="https://win-hot.techidaily.com/upgrade-your-dj-setup-get-pcdj-317-update-now-featuring-seamless-tidal-streaming-capabilities/"><u>Upgrade Your DJ Setup - Get PCDJ 3.17 Update Now Featuring Seamless Tidal Streaming Capabilities</u></a></li>
 </ul></div>
 

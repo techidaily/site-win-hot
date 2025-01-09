@@ -1,7 +1,7 @@
 ---
 title: Get the Latest Enhancements for DJ Studio DEX3 & Sing-Along Software LYRX on MacOS - Instant Download
-date: 2024-12-24T18:18:16.174Z
-updated: 2024-12-29T18:21:26.829Z
+date: 2025-01-03T22:46:44.075Z
+updated: 2025-01-08T16:33:26.005Z
 tags:
   - product
 categories:
@@ -21,7 +21,7 @@ thumbnail: https://thmb.techidaily.com/895e63c00991de11c3a5bb60d914f7ce63bcb7f1c
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### PCDJ DEX 3.9.0.5 | Global Support For Party Tyme Karaoke
@@ -29,7 +29,7 @@ thumbnail: https://thmb.techidaily.com/895e63c00991de11c3a5bb60d914f7ce63bcb7f1c
 [LEARN MORE ABOUT DEX 3 ![Party Tyme Karaoke Subscription for DEX 3 karaoke software](https://i1.wp.com/pcdj.com/wp-content/uploads/2017/07/DEX3-PartyTyme.jpg?fit=300%2C169&ssl=1 "Party Tyme Karaoke Subscription for DEX 3 karaoke software")](https://tools.techidaily.com/pcdj/products/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 DEX 3.9.0.5 is now available as a free update for existing DEX 3 owners. Largely a maintenance release with under-the-hood performance improvements, DEX 3 version 3.9.0.5 brings world-wide (with the exemption of Japan) support for the Party Tyme Karaoke Subscription service.
@@ -46,7 +46,7 @@ Stream and/or download from an HD collection of hit karaoke songs from the top p
 [DOWNLOAD DEX 3.9.0.5 FREE TRIAL](https://tools.techidaily.com/pcdj/products/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### LYRX v1.1.1 | Global Support For Party Tyme Karaoke And Ultra-Wide Screen Support
@@ -54,7 +54,7 @@ Stream and/or download from an HD collection of hit karaoke songs from the top p
 [LEARN MORE ABOUT LYRX ![LYRX karaoke program from MAC with karaoke subscription](https://i0.wp.com/pcdj.com/wp-content/uploads/2017/08/LYRX11_screenshot1.png?fit=300%2C188&ssl=1 "LYRX karaoke program from MAC with karaoke subscription")](http://www.lyrxkaraoke.com)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 LYRX version 1.1.1 also brings global support for the Party Tyme Karaoke Subscription (Japan being the only exemption) as well as support for ultra-wide displays (21:9 aspect ratio). A few minor tweaks to the user interface have been applied as well as a few minor bug fixes and various performance improvements.
@@ -75,7 +75,7 @@ LYRX with Party Tyme Karaoke provides KJs and karaoke venues the perfect duet of
 [LEARN MORE ABOUT THE PARTY TYME KARAOKE SUBSCRIPTION](https://tools.techidaily.com/pcdj/products/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -97,15 +97,15 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2017/09/lyrxdex3updatept-coverimag
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-expertly-crafted-drama-hub/"><u>[New] Expertly Crafted Drama Hub</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-free-vecto-art-and-graphic-sites-compared-whos-the-best/"><u>[New] Free Vecto Art & Graphic Sites Compared – Who's the Best?</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-illuminated-imagery-standing-out-in-the-visual-field/"><u>[New] Illuminated Imagery Standing Out in the Visual Field</u></a></li>
-<li><a href="https://win-hot.techidaily.com/enablingdisabling-automatic-system-updates-with-yl-computing-solutions/"><u>Enabling/Disabling Automatic System Updates with YL Computing Solutions</u></a></li>
-<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-11-pro-max-to-an-older-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone 11 Pro Max to an Older Version? | Dr.fone</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-sci-ed-hacks-top-youtube-experts-to-elevate-learning/"><u>In 2024, Sci-Ed Hacks Top YouTube Experts to Elevate Learning</u></a></li>
-<li><a href="https://win-hot.techidaily.com/key-factors-in-picking-the-right-liability-insurance-for-your-dj-business-with-pcdj-tips/"><u>Key Factors in Picking the Right Liability Insurance for Your DJ Business with PCDJ Tips</u></a></li>
-<li><a href="https://win-hot.techidaily.com/master-your-beats-with-jason-spencer-and-jason-jones-exclusive-mobile-music-showcase-on-dj-nights-tv/"><u>Master Your Beats with Jason Spencer and Jason Jones - Exclusive 'Mobile Music' Showcase on DJ Nights TV</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/step-by-step-installing-the-latest-ralink-network-adapters-on-your-windows-machine/"><u>Step-by-Step: Installing the Latest Ralink Network Adapters on Your Windows Machine</u></a></li>
-<li><a href="https://win-hot.techidaily.com/troubleshooting-unrecognized-usb-devices-a-comprehensive-guide-by-yl-computing/"><u>Troubleshooting Unrecognized USB Devices: A Comprehensive Guide by YL Computing</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-a-compreenas-guide-to-choosing-ideal-lenses-for-filmmaking-for-2024/"><u>[New] A Compreenas Guide to Choosing Ideal Lenses for Filmmaking for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-navigating-facebook-for-uhd-1080p-content-for-2024/"><u>[New] Navigating Facebook for UHD (1080P) Content for 2024</u></a></li>
+<li><a href="https://win-hot.techidaily.com/bnb-belgians-evading-regulation-with-polish-entities-continue-trading-on-binance-insight-by-yl-computing/"><u>🚨 BNB Belgians Evading Regulation with Polish Entities: Continue Trading on Binance - Insight by YL Computing</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/5pya6auy44gu44ki44kv44k344on44oz55so44kr44oh44op77ya5oml44g244km6koc5q2j5qmf6io944gm5ykz44kp44gj44gf44gk44gz44gz44kb44oi44oh44or/"><u>最高のアクション用カメラ：手ぶれ補正機能が備わったおすすめモデル</u></a></li>
+<li><a href="https://win-hot.techidaily.com/exploring-the-root-causes-of-the-historic-taiping-uprising-with-yl-software-insights/"><u>Exploring the Root Causes of the Historic Taiping Uprising with YL Software Insights</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-to-record-screen-on-windows-10-and-macos/"><u>How to Record Screen on Windows 10 & macOS</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-tecno-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>How to Unlock Tecno Phone Pattern Lock without Factory Reset</u></a></li>
+<li><a href="https://win-hot.techidaily.com/silent-speakers-alert-how-to-fix-your-computers-sound-card-issues-with-yl-solutions/"><u>Silent Speakers Alert! How to Fix Your Computer's Sound Card Issues with YL Solutions</u></a></li>
+<li><a href="https://win-hot.techidaily.com/unexpected-software-hiccups-identifying-why-your-program-ceased-functioning-with-yl-expertise/"><u>Unexpected Software Hiccups: Identifying Why Your Program Ceased Functioning with YL Expertise</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/update-nvidia-graphics-drivers-in-windows-7-quickly-and-easily/"><u>Update NVIDIA Graphics Drivers in Windows 7. Quickly & Easily</u></a></li>
 </ul></div>
 
