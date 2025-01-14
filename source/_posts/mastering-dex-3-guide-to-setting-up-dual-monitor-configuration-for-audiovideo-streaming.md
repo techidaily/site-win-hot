@@ -1,7 +1,7 @@
 ---
 title: "Mastering DEX 3: Guide to Setting Up Dual Monitor Configuration for Audio/Video Streaming"
-date: 2025-01-04T20:50:48.138Z
-updated: 2025-01-08T21:09:43.567Z
+date: 2025-01-13T17:35:35.006Z
+updated: 2025-01-14T17:44:21.786Z
 tags:
   - product
 categories:
@@ -20,7 +20,7 @@ Since you only want your audience to view the mixed music video output, or the k
 #### DEX 3 DJ SOFTWARE TUTORIAL VIDEO: HOW TO SETUP SECOND DISPLAY FOR VIDEO OR KARAOKE ONLY OUTPUT
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -42,24 +42,18 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2014/10/videonly-coverimage.jpg?fi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-lessons.techidaily.com/new-capturing-the-moment-advanced-tips-for-iphone-silhouettes/"><u>[New] Capturing the Moment Advanced Tips for iPhone Silhouettes</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-from-novice-to-professional-a-comprehensive-guide-to-mastering-final-cut-pro/"><u>[New] From Novice to Professional A Comprehensive Guide to Mastering Final Cut Pro</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-the-insider-guide-for-seamless-video-sharing-on-instagram-tv/"><u>[New] The Insider Guide for Seamless Video Sharing on Instagram TV</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-harnessing-imovies-potential-for-youtube-broadcasting/"><u>[Updated] In 2024, Harnessing iMovie's Potential for YouTube Broadcasting</u></a></li>
-<li><a href="https://win-hot.techidaily.com/creative-pizza-visuals-for-your-desktop-high-quality-backgrounds-and-images-from-yl-software/"><u>Creative Pizza Visuals for Your Desktop: High-Quality Backgrounds and Images From YL Software</u></a></li>
-<li><a href="https://win-hot.techidaily.com/djing-made-simple-unleash-your-inner-mixer-with-pcdjs-free-dex-3-le-program-tailored-for-beginners-and-fun-music-lovers/"><u>DJING MADE SIMPLE: Unleash Your Inner Mixer with PCDJs Free DEX 3 LE Program - Tailored for Beginners & Fun Music Lovers</u></a></li>
-<li><a href="https://win-hot.techidaily.com/how-does-yl-software-help-you-detect-and-prevent-crypto-scams-essential-tips-and-strategies/"><u>How Does YL Software Help You Detect & Prevent Crypto Scams? Essential Tips and Strategies</u></a></li>
-<li><a href="https://win-hot.techidaily.com/how-to-fix-a-non-functional-printer-expert-tips-from-yl-computing/"><u>How to Fix a Non-Functional Printer: Expert Tips From YL Computing</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-pictures-files-from-nokia-105-classic-by-fonelab-android-recover-pictures/"><u>How To Restore Missing Pictures Files from Nokia 105 Classic.</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/24-quick-tips-to-create-dynamic-gifs-using-youtube-media/"><u>In 2024, Quick Tips to Create Dynamic GIFs Using YouTube Media</u></a></li>
-<li><a href="https://win-hot.techidaily.com/master-the-art-of-monitoring-pc-performance-essential-tips-from-yl-computing/"><u>Master the Art of Monitoring PC Performance: Essential Tips From YL Computing</u></a></li>
-<li><a href="https://win-hot.techidaily.com/maximizing-laptop-longevity-on-a-single-charge-essential-strategies-by-yl-software-experts/"><u>Maximizing Laptop Longevity on a Single Charge: Essential Strategies by YL Software Experts</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/pinpointing-the-beneficiaries-in-ai-creation-copyrights/"><u>Pinpointing the Beneficiaries in AI Creation Copyrights</u></a></li>
-<li><a href="https://common-error.techidaily.com/shift-key-issues-heres-how-you-can-get-it-working-again/"><u>Shift Key Issues? Here's How You Can Get It Working Again</u></a></li>
-<li><a href="https://blog-min.techidaily.com/transforma-archivos-dts-en-formato-online-sin-coste-usando-el-conversor-expertos-de-movavi/"><u>Transforma Archivos DTS en Formato Online Sin Coste Usando El Conversor Expertos De Movavi</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-silent-pcs-a-step-by-step-guide-for-fixing-hp-sound-problems-in-windows-11/"><u>Troubleshooting Silent PCs: A Step-by-Step Guide for Fixing HP Sound Problems in Windows 11</u></a></li>
-<li><a href="https://win-hot.techidaily.com/ultimate-guide-to-selecting-the-perfect-program-for-junk-file-cleanup-by-yl-computing-experts-software-solutions/"><u>Ultimate Guide to Selecting the Perfect Program for Junk File Cleanup by YL Computing Experts | Software Solutions</u></a></li>
-<li><a href="https://win-hot.techidaily.com/unveiling-the-perks-of-digital-assets-a-deep-dive-into-cryptocurrency-benefits-with-yl-experts/"><u>Unveiling the Perks of Digital Assets: A Deep Dive Into Cryptocurrency Benefits with YL Experts</u></a></li>
-<li><a href="https://win-hot.techidaily.com/upgrade-your-dj-setup-get-pcdj-317-update-now-featuring-seamless-tidal-streaming-capabilities/"><u>Upgrade Your DJ Setup - Get PCDJ 3.17 Update Now Featuring Seamless Tidal Streaming Capabilities</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-superior-cinematic-introductions-set/"><u>2024 Approved Superior Cinematic Introductions Set</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-ways-to-teach-you-to-transfer-files-from-tecno-spark-20c-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways To Teach You To Transfer Files from Tecno Spark 20C to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/avi-online-movavi/"><u>AVI 플랫 형식으로 무료 변환 - Online 문제 해결: Movavi</u></a></li>
+<li><a href="https://win-hot.techidaily.com/diagnosing-faulty-hardware-components-expert-advice-from-yl-computing-and-yl-software/"><u>Diagnosing Faulty Hardware Components: Expert Advice From YL Computing & YL Software</u></a></li>
+<li><a href="https://fox-that.techidaily.com/iphone-display-issue-unlocking-rotation-feature-from-portrait-lock/"><u>IPhone Display Issue: Unlocking Rotation Feature From Portrait Lock</u></a></li>
+<li><a href="https://win-hot.techidaily.com/is-it-safe-to-implement-external-scanning-applications-in-your-system-insights-from-yl-computing/"><u>Is It Safe to Implement External Scanning Applications in Your System - Insights From YL Computing</u></a></li>
+<li><a href="https://win-hot.techidaily.com/step-by-step-guide-setting-up-windows-update-expert-advice-from-yl-computing/"><u>Step-by-Step Guide: Setting Up Windows Update - Expert Advice From YL Computing</u></a></li>
+<li><a href="https://win-hot.techidaily.com/step-by-step-guide-updating-your-devices-driver-software-tech-solutions-by-yl/"><u>Step-by-Step Guide: Updating Your Device's Driver Software - Tech Solutions by YL</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/step-by-step-process-for-iphone-voice-memo-creation-for-2024/"><u>Step-by-Step Process for iPhone Voice Memo Creation for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/the-role-of-b2b-relationships-in-informed-market-decisions/"><u>The Role of B2B Relationships in Informed Market Decisions</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/top-10-password-cracking-tools-for-itel-a60-by-drfone-android/"><u>Top 10 Password Cracking Tools For Itel A60</u></a></li>
+<li><a href="https://win-hot.techidaily.com/troubleshooting-e-code-print-issues-yl-softwares-guide-for-immediate-help/"><u>Troubleshooting E-Code Print Issues: YL Software's Guide for Immediate Help</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/ultimate-pet-monitoring-experience-petcube-insiders-guide/"><u>Ultimate Pet Monitoring Experience: Petcube Insider's Guide</u></a></li>
 </ul></div>
 

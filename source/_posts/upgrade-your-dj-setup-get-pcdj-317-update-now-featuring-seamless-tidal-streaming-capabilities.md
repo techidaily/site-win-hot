@@ -1,7 +1,7 @@
 ---
 title: Upgrade Your DJ Setup - Get PCDJ 3.17 Update Now Featuring Seamless Tidal Streaming Capabilities
-date: 2025-01-03T17:29:18.070Z
-updated: 2025-01-09T00:47:28.791Z
+date: 2025-01-07T20:36:17.994Z
+updated: 2025-01-14T21:39:25.151Z
 tags:
   - product
 categories:
@@ -29,7 +29,7 @@ Read the full details of the new free update for [DEX 3](https://tools.techidail
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### What’s New, Changed and Updated in DEX 3.17
@@ -56,7 +56,7 @@ _**DEX 3.17 Install Instructions:** With your existing version of DEX 3 closed, 
 _Have questions about our DEX 3_ _**DJ Software** and how it works with **TIDAL streaming**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -78,20 +78,19 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2022/01/dex3xtidal-fb.jpg?fit=1583
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-hidden-media-strategies-for-displaying-on-your-timeline/"><u>[New] Hidden Media Strategies for Displaying on Your Timeline</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-the-ultimate-guide-7-steps-for-stellar-cooking-films-for-2024/"><u>[New] The Ultimate Guide 7 Steps for Stellar Cooking Films for 2024</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-2024-approved-prime-windows-10-photo-display/"><u>[Updated] 2024 Approved Prime Windows 10 Photo Display</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-how-to-craft-powerful-tags-for-maximum-youtube-engagement-for-2024/"><u>[Updated] How to Craft Powerful Tags for Maximum Youtube Engagement for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-the-quick-zoomers-guide-to-clearer-instagram-narratives/"><u>[Updated] In 2024, The Quick-Zoomer's Guide to Clearer Instagram Narratives</u></a></li>
-<li><a href="https://win-hot.techidaily.com/a-glimpse-into-ancient-chinese-empire-lifecycles-major-dynasties-from-past-to-present-yl-computing-experts/"><u>A Glimpse Into Ancient Chinese Empire Lifecycles: Major Dynasties From Past to Present - YL Computing Experts</u></a></li>
-<li><a href="https://win-hot.techidaily.com/amber-heard-as-mera-stunning-character-wallpapers-and-graphics-officially-licensed-by-yl-software/"><u>Amber Heard as Mera: Stunning Character Wallpapers & Graphics - Officially Licensed by YL Software</u></a></li>
-<li><a href="https://win-hot.techidaily.com/customizing-your-profile-a-step-by-step-guide-on-adjusting-user-account-preferences-in-yl-computing/"><u>Customizing Your Profile: A Step-by-Step Guide on Adjusting User Account Preferences in YL Computing</u></a></li>
-<li><a href="https://win-hot.techidaily.com/diagnosing-reasons-behind-blurriness-and-alignment-issues-in-printed-document-scans-expert-advice-by-yl-software/"><u>Diagnosing Reasons Behind Blurriness & Alignment Issues in Printed Document Scans - Expert Advice by YL Software</u></a></li>
-<li><a href="https://howto.techidaily.com/fix-unfortunately-settings-has-stopped-on-vivo-y200e-5g-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Unfortunately Settings Has Stopped on Vivo Y200e 5G Quickly | Dr.fone</u></a></li>
-<li><a href="https://win-hot.techidaily.com/identifying-failure-signs-in-your-hard-disk-expert-guide-by-yl-computing/"><u>Identifying Failure Signs in Your Hard Disk: Expert Guide by YL Computing</u></a></li>
-<li><a href="https://win-hot.techidaily.com/is-windows-defenders-proactive-shield-effective-against-online-risks-exploring-real-time-security-with-yl-software/"><u>Is Windows Defender's Proactive Shield Effective Against Online Risks? Exploring Real-Time Security with YL Software</u></a></li>
-<li><a href="https://win-hot.techidaily.com/mastering-the-art-of-crypto-investigation-tips-and-techniques-by-yl-software-experts/"><u>Mastering the Art of Crypto Investigation: Tips and Techniques by YL Software Experts</u></a></li>
-<li><a href="https://techtrends.techidaily.com/navigating-tech-education-a-complete-guide-to-purchasing-student-friendly-computers/"><u>Navigating Tech Education: A Complete Guide to Purchasing Student-Friendly Computers</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-best-of-the-bunch-top-rated-meme-generator-apps-for-android-and-ios-for-2024/"><u>New Best of the Bunch Top-Rated Meme Generator Apps for Android and iOS for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-instagram-stories-tempo-tactics-speeding-up-or-slowing-down/"><u>[New] 2024 Approved Instagram Stories Tempo Tactics – Speeding Up or Slowing Down</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-crafting-memes-with-ease-top-7-tools-unveiled/"><u>[New] Crafting Memes with Ease Top 7 Tools Unveiled</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-the-top-8-yt-thumbnails-that-increase-watch-time-and-interests/"><u>[New] The Top 8 YT Thumbnails that Increase Watch Time and Interests</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-asus-rog-phone-7-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Asus ROG Phone 7 Location without Installing Software? | Dr.fone</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-tweeting-to-whatsapp-direct-video-distribution/"><u>In 2024, Tweeting to WhatsApp Direct Video Distribution</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/ios-guide-to-stunning-time-lapse-cinematography/"><u>IOS Guide to Stunning Time-Lapse Cinematography</u></a></li>
+<li><a href="https://win-hot.techidaily.com/leading-mini-desktops-and-nodes-of-2pacy-ranked-by-tech-gurus-your-comprehensive-guide-to-2024s-compact-powerhouses/"><u>Leading Mini Desktops and Nodes of 2Pacy, Ranked by Tech Gurus: Your Comprehensive Guide to 2024'S Compact Powerhouses</u></a></li>
+<li><a href="https://fox-http.techidaily.com/mastery-through-motion-a-garageband-guide-to-podcasting/"><u>Mastery Through Motion A GarageBand Guide to Podcasting</u></a></li>
+<li><a href="https://win-hot.techidaily.com/maximizing-productivity-expert-analysis-of-the-innocn-ultrawide-40c1r-monitor-at-144hz/"><u>Maximizing Productivity: Expert Analysis of the Innocn Ultrawide 40C1R Monitor at 144Hz</u></a></li>
+<li><a href="https://win-hot.techidaily.com/maximizing-productivity-how-using-various-os-boosts-my-work-efficiency-insights-from-a-tech-enthusiast/"><u>Maximizing Productivity: How Using Various OS Boosts My Work Efficiency - Insights From a Tech Enthusiast</u></a></li>
+<li><a href="https://win-hot.techidaily.com/new-survey-reveals-windows-11-takes-the-lead-over-windows-amo-in-pc-gamers-choice-insights-from-zdnet/"><u>New Survey Reveals Windows 11 Takes the Lead Over Windows Amo in PC Gamers' Choice | Insights From ZDNet</u></a></li>
+<li><a href="https://win-hot.techidaily.com/next-year-prepare-to-pay-for-windows-11-updates-what-you-need-to-know-about-microsofts-latest-move-zdnet/"><u>Next Year, Prepare to Pay for Windows 11 Updates: What You Need to Know About Microsoft's Latest Move | ZDNet</u></a></li>
+<li><a href="https://win-hot.techidaily.com/persistent-security-flaws-in-windows-os-highlighted-by-latest-analysis-zdnet/"><u>Persistent Security Flaws in Windows OS Highlighted by Latest Analysis - ZDNet</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/ultimate-guide-to-get-the-meltan-box-pokemon-go-for-nokia-130-music-drfone-by-drfone-virtual-android/"><u>Ultimate guide to get the meltan box pokemon go For Nokia 130 Music | Dr.fone</u></a></li>
 </ul></div>
 
