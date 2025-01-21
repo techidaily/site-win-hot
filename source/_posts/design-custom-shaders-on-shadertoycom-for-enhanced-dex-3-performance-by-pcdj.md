@@ -1,7 +1,7 @@
 ---
 title: Design Custom Shaders on Shadertoy.com for Enhanced DEX 3 Performance by PCDJ
-date: 2025-01-08T18:06:59.988Z
-updated: 2025-01-14T16:44:04.209Z
+date: 2025-01-18T18:17:02.911Z
+updated: 2025-01-20T16:20:45.664Z
 tags:
   - product
 categories:
@@ -23,7 +23,7 @@ thumbnail: https://thmb.techidaily.com/bd7c586aade6fed49cfda54f6e705ff08c3876c36
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## So what is a ‘Shader’?
@@ -39,7 +39,7 @@ We found this easy-to-follow ‘[Beginner’s Guide to Coding Graphics Shaders](
 [View Guide to Coding Shaders](https://gamedevelopment.tutsplus.com/tutorials/a-beginners-guide-to-coding-graphics-shaders--cms-23313)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Why would I want to create a custom Shader?
@@ -49,7 +49,7 @@ Creating your own custom shader/s for use with DEX 3 is just another way to cust
 If you’re not interested in creating your own custom shaders, no worries, [we’ve compiled a list of shaders that work great in DEX 3 already](https://tools.techidaily.com/pcdj/products/)!
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -71,19 +71,16 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2018/08/customshader-header.jpg?fi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-tips-for-using-google-meets-built-in-photo-functionality/"><u>[New] 2024 Approved Tips for Using Google Meet's Built-In Photo Functionality</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/new-a-comprehensive-guide-to-previewing-facebooks-hidden-activities/"><u>[New] A Comprehensive Guide to Previewing Facebook's Hidden Activities</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-joke-geniuses-at-your-service-free-of-charges/"><u>[New] Joke Geniuses at Your Service Free of Charges</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-selecting-sacred-melodies-a-christian-ringtones-compendium/"><u>[New] Selecting Sacred Melodies A Christian Ringtones Compendium</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-climbing-the-feed-ladder-the-most-effective-hashtags-for-likes-and-followers-on-insta/"><u>[Updated] In 2024, Climbing the Feed Ladder The Most Effective Hashtags for Likes and Followers on Insta</u></a></li>
-<li><a href="https://win-hot.techidaily.com/data-retrieval-methods-for-non-booting-dell-laptops-a-comprehensive-guide/"><u>Data Retrieval Methods for Non-Booting Dell Laptops: A Comprehensive Guide</u></a></li>
-<li><a href="https://win-hot.techidaily.com/guide-to-fixing-unexpected-unknown-errors-in-communication-platforms/"><u>Guide to Fixing Unexpected Unknown Errors in Communication Platforms</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-fix-your-computers-audio-issue-in-minutes/"><u>How to Fix Your Computer's Audio Issue in Minutes</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/identifying-bluetooth-support-on-your-notebook-simple-methods-for-discovery/"><u>Identifying Bluetooth Support on Your Notebook: Simple Methods for Discovery</u></a></li>
-<li><a href="https://win-hot.techidaily.com/in-depth-evaluation-and-tutorial-on-using-prosofts-data-restore-program-v6-the-ultimate-guide/"><u>In-Depth Evaluation and Tutorial on Using Prosoft's Data Restore Program v6: The Ultimate Guide</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/quick-suppress-mechanism-for-windows-11-dings/"><u>Quick Suppress Mechanism for Windows 11 Dings</u></a></li>
-<li><a href="https://fox-that.techidaily.com/solve-your-airpods-dilemma-top-10-tips-for-troubleshooting-no-sound-and-distorted-audio/"><u>Solve Your AirPods Dilemma: Top 10 Tips for Troubleshooting No Sound & Distorted Audio</u></a></li>
-<li><a href="https://win-hot.techidaily.com/step-by-step-guide-to-updating-microsoft-surface-drives-on-windows-os-from-7-8-10-and-11/"><u>Step-by-Step Guide to Updating Microsoft Surface Drives on Windows OS From 7, 8, 10 & 11</u></a></li>
-<li><a href="https://win-hot.techidaily.com/waarom-klont-macrium-reflect-bijna-nooit-succeefde-versie-980-onderzoek-over-de-gelijke-fouten/"><u>Waarom Klont Macrium Reflect Bijna Nooit Succeefde Versie 9.8.0 - Onderzoek Over De Gelijke Fouten</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/error-0xc000185-unraveled-identifying-issues-and-implementing-effective-solutions-for-windows-users/"><u>Error 0Xc00#0185 Unraveled: Identifying Issues & Implementing Effective Solutions for Windows Users</u></a></li>
+<li><a href="https://win-hot.techidaily.com/guard-your-windows-xp-operating-system-with-top-rated-no-cost-backup-applications/"><u>Guard Your Windows XP Operating System with Top-Rated No-Cost Backup Applications</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/how-to-swap-genders-on-snapchat-facebook-or-instagram-photos/"><u>How to Swap Genders on Snapchat, Facebook or Instagram Photos</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-leveraging-facebook-slides-a-beginners-handbook-for-visual-storytelling/"><u>In 2024, Leveraging Facebook Slides A Beginner's Handbook for Visual Storytelling</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-looking-for-a-location-changer-on-honor-x50i-look-no-further-drfone-by-drfone-virtual-android/"><u>In 2024, Looking For A Location Changer On Honor X50i? Look No Further | Dr.fone</u></a></li>
+<li><a href="https://article-tips.techidaily.com/in-2024-where-to-find-top-notch-instagram-ringtones-and-how-to-make-a-keen-ringt/"><u>In 2024, Where to Find Top-Notch Instagram Ringtones & How to Make a Keen Ringt</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/navigating-ais-role-ethical-content-development-tips/"><u>Navigating AI's Role: Ethical Content Development Tips</u></a></li>
+<li><a href="https://win-hot.techidaily.com/pasos-faciles-para-disenar-un-disco-de-configuracion-personalizado-en-sistemas-windows/"><u>Pasos Fáciles Para Diseñar Un Disco De Configuración Personalizado en Sistemas Windows</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/streamlining-online-meetings-zoom-for-win10/"><u>Streamlining Online Meetings Zoom for WIN10</u></a></li>
+<li><a href="https://win-hot.techidaily.com/top-free-software-for-automatic-backup-on-your-network-attached-storage-device/"><u>Top Free Software for Automatic Backup on Your Network Attached Storage Device</u></a></li>
+<li><a href="https://win-hot.techidaily.com/1728492419373-windows-11/"><u>ファイル履歴保存設定を変更せよ! Windows 11 では今や全ファイルが安全にバックアップされる</u></a></li>
 </ul></div>
 

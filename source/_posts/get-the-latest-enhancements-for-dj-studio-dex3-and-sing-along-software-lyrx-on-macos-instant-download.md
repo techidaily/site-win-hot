@@ -1,7 +1,7 @@
 ---
 title: Get the Latest Enhancements for DJ Studio DEX3 & Sing-Along Software LYRX on MacOS - Instant Download
-date: 2025-01-11T17:41:04.502Z
-updated: 2025-01-14T17:26:55.569Z
+date: 2025-01-15T19:50:43.796Z
+updated: 2025-01-20T21:55:55.733Z
 tags:
   - product
 categories:
@@ -21,7 +21,7 @@ thumbnail: https://thmb.techidaily.com/895e63c00991de11c3a5bb60d914f7ce63bcb7f1c
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### PCDJ DEX 3.9.0.5 | Global Support For Party Tyme Karaoke
@@ -29,7 +29,7 @@ thumbnail: https://thmb.techidaily.com/895e63c00991de11c3a5bb60d914f7ce63bcb7f1c
 [LEARN MORE ABOUT DEX 3 ![Party Tyme Karaoke Subscription for DEX 3 karaoke software](https://i1.wp.com/pcdj.com/wp-content/uploads/2017/07/DEX3-PartyTyme.jpg?fit=300%2C169&ssl=1 "Party Tyme Karaoke Subscription for DEX 3 karaoke software")](https://tools.techidaily.com/pcdj/products/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 DEX 3.9.0.5 is now available as a free update for existing DEX 3 owners. Largely a maintenance release with under-the-hood performance improvements, DEX 3 version 3.9.0.5 brings world-wide (with the exemption of Japan) support for the Party Tyme Karaoke Subscription service.
@@ -46,7 +46,7 @@ Stream and/or download from an HD collection of hit karaoke songs from the top p
 [DOWNLOAD DEX 3.9.0.5 FREE TRIAL](https://tools.techidaily.com/pcdj/products/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### LYRX v1.1.1 | Global Support For Party Tyme Karaoke And Ultra-Wide Screen Support
@@ -54,7 +54,7 @@ Stream and/or download from an HD collection of hit karaoke songs from the top p
 [LEARN MORE ABOUT LYRX ![LYRX karaoke program from MAC with karaoke subscription](https://i0.wp.com/pcdj.com/wp-content/uploads/2017/08/LYRX11_screenshot1.png?fit=300%2C188&ssl=1 "LYRX karaoke program from MAC with karaoke subscription")](http://www.lyrxkaraoke.com)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 LYRX version 1.1.1 also brings global support for the Party Tyme Karaoke Subscription (Japan being the only exemption) as well as support for ultra-wide displays (21:9 aspect ratio). A few minor tweaks to the user interface have been applied as well as a few minor bug fixes and various performance improvements.
@@ -75,7 +75,7 @@ LYRX with Party Tyme Karaoke provides KJs and karaoke venues the perfect duet of
 [LEARN MORE ABOUT THE PARTY TYME KARAOKE SUBSCRIPTION](https://tools.techidaily.com/pcdj/products/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -97,19 +97,21 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2017/09/lyrxdex3updatept-coverimag
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/rofitability-playbook-the-ultimate-duo-of-dm-and-yo-for-2024/"><u>[New] Profitability Playbook The Ultimate Duo of Dm & Yo for 2024</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-mp4-player-guide-top-selections/"><u>[Updated] MP4 Player Guide Top Selections</u></a></li>
-<li><a href="https://win-hot.techidaily.com/1728477060169-windows-117/"><u>効率的な手順：Windows 11と7のディレクトリをどうすればよく同期できるか？</u></a></li>
-<li><a href="https://win-hot.techidaily.com/1728491830877-usb/"><u>修好后，此电脑上无法使用的USB设备现在可连接</u></a></li>
-<li><a href="https://win-hot.techidaily.com/choix-crucial-sauvegarde-ou-synchronisation-pour-proteger-vos-fichiers-strategies-comparees/"><u>Choix Crucial : Sauvegarde Ou Synchronisation Pour Protéger Vos Fichiers - Stratégies Comparées</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/nt-spotlight-platform-perks-compared-for-2024/"><u>Content Spotlight Platform Perks Compared for 2024</u></a></li>
-<li><a href="https://win-hot.techidaily.com/fixes-implemented-resolving-the-flickering-monitor-and-lost-taskbar-in-windows-11-environments/"><u>Fixes Implemented: Resolving the Flickering Monitor & Lost Taskbar in Windows 11 Environments</u></a></li>
-<li><a href="https://win-hot.techidaily.com/granice-szans-na-jak-zsynchronizowac-obiekty-dyskow-w-sieci-internetowej-na-najlepsze/"><u>Granice Szans Na Jak Zsynchronizować Obiekty Dysków W Sieci Internetowej Na Najlepsze</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-apple-iphone-15-plus-icloud-activation-lock-bypass-by-drfone-ios/"><u>In 2024, Apple iPhone 15 Plus iCloud Activation Lock Bypass</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/install-handbrake-with-libdvdcss-on-macos-and-windows-11-guide-to-ripping-dvds/"><u>Install Handbrake with Libdvdcss on macOS and Windows 11 - Guide to Ripping DVDs</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/official-oculus-driver-download-for-all-windows-versions-11-10-8-7/"><u>Official Oculus Driver Download for All Windows Versions (11, 10, 8, 7)</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/silent-snaps-mastering-the-art-of-unseen-image-recording-on-snapchat/"><u>Silent Snaps Mastering the Art of Unseen Image Recording on Snapchat</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/the-ultimate-strategy-for-boosted-instagram-video-traffic/"><u>The Ultimate Strategy for Boosted Instagram Video Traffic</u></a></li>
-<li><a href="https://win-hot.techidaily.com/windows-11-usb-recovery-techniques-discover-3-effective-methods/"><u>Windows 11 USB Recovery Techniques: Discover 3 Effective Methods</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723010468510-solved-outriders-wont-start-on-pc-2022/"><u>[SOLVED] Outriders Won’t Start on PC 2022</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-step-by-step-solution-for-non-shown-shorts-thumbnails-on-youtube/"><u>[Updated] Step-by-Step Solution for Non-Shown Shorts Thumbnails on YouTube</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1-revitalizing-microsoft-top-5-strategies-to-bring-back-the-dominance-of-windows/"><u>1. Revitalizing Microsoft: Top 5 Strategies to Bring Back the Dominance of Windows</u></a></li>
+<li><a href="https://win-hot.techidaily.com/7iphone/"><u>7最も効果的なテクニック:パソコンからiPhoneへの写真転送</u></a></li>
+<li><a href="https://win-hot.techidaily.com/how-to-recover-from-a-damaged-c-drive-on-windows-11-tips-for-prevention-and-restoration/"><u>How to Recover From a Damaged C Drive on Windows 11 - Tips for Prevention & Restoration</u></a></li>
+<li><a href="https://win-hot.techidaily.com/how-to-safeguard-windows-7-hdd/"><u>How To Safeguard Windows 지원 7 데이터: 외부 HDD 백업</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/inate-your-videos-with-17-lighting-hacks-for-2024/"><u>Illuminate Your Videos with #17 Lighting Hacks for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-masterclass-constructing-mc-village-houses/"><u>In 2024, Masterclass Constructing MC Village Houses</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-top-mobile-video-assembly-software-for-smartphones/"><u>In 2024, Top Mobile Video Assembly Software for Smartphones</u></a></li>
+<li><a href="https://win-hot.techidaily.com/losung-fur-den-apple-tv-filmdownload-fehler-auf-ipad-und-pc/"><u>Lösung Für Den Apple TV-Filmdownload-Fehler Auf iPad Und PC</u></a></li>
+<li><a href="https://win-unique.techidaily.com/self-publish-with-flipwriter-pro-create-your-own-interactive-ebooks-using-the-innovative-flippage-technology/"><u>Self-Publish with FlipWriter Pro: Create Your Own Interactive Ebooks Using the Innovative FlipPage Technology!</u></a></li>
+<li><a href="https://win-hot.techidaily.com/simple-steps-to-retrieve-accidentally-deleted-images-from-twitter-a-quick-guide/"><u>Simple Steps to Retrieve Accidentally Deleted Images From Twitter - A Quick Guide</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/the-best-android-sim-unlock-code-generators-unlock-your-samsung-galaxy-f54-5g-phone-hassle-free-by-drfone-android/"><u>The Best Android SIM Unlock Code Generators Unlock Your Samsung Galaxy F54 5G Phone Hassle-Free</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/white-sheet-woes-end-with-hp-printer-update-fixed/"><u>White Sheet Woes End with HP Printer Update Fixed</u></a></li>
+<li><a href="https://win-hot.techidaily.com/wie-rettet-man-eine-externes-laufwerk-ohne-datentyp-das-nicht-formatiert-werden-kann/"><u>Wie Rettet Man Eine Externes Laufwerk Ohne Datentyp, Das Nicht Formatiert Werden Kann?</u></a></li>
+<li><a href="https://win-hot.techidaily.com/1728487684312-windows-11pc/"><u>Windows 11で数日前のPC状況を回復する簡単な方法</u></a></li>
 </ul></div>
 

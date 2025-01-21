@@ -1,7 +1,7 @@
 ---
 title: Upgrade Your DJ Setup - Get PCDJ 3.17 Update Now Featuring Seamless Tidal Streaming Capabilities
-date: 2025-01-07T20:36:17.994Z
-updated: 2025-01-14T21:39:25.151Z
+date: 2025-01-15T01:02:49.662Z
+updated: 2025-01-21T00:17:17.525Z
 tags:
   - product
 categories:
@@ -29,7 +29,7 @@ Read the full details of the new free update for [DEX 3](https://tools.techidail
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### What’s New, Changed and Updated in DEX 3.17
@@ -56,7 +56,7 @@ _**DEX 3.17 Install Instructions:** With your existing version of DEX 3 closed, 
 _Have questions about our DEX 3_ _**DJ Software** and how it works with **TIDAL streaming**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -78,19 +78,18 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2022/01/dex3xtidal-fb.jpg?fit=1583
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-instagram-stories-tempo-tactics-speeding-up-or-slowing-down/"><u>[New] 2024 Approved Instagram Stories Tempo Tactics – Speeding Up or Slowing Down</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-crafting-memes-with-ease-top-7-tools-unveiled/"><u>[New] Crafting Memes with Ease Top 7 Tools Unveiled</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-the-top-8-yt-thumbnails-that-increase-watch-time-and-interests/"><u>[New] The Top 8 YT Thumbnails that Increase Watch Time and Interests</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-asus-rog-phone-7-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Asus ROG Phone 7 Location without Installing Software? | Dr.fone</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/in-2024-tweeting-to-whatsapp-direct-video-distribution/"><u>In 2024, Tweeting to WhatsApp Direct Video Distribution</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/ios-guide-to-stunning-time-lapse-cinematography/"><u>IOS Guide to Stunning Time-Lapse Cinematography</u></a></li>
-<li><a href="https://win-hot.techidaily.com/leading-mini-desktops-and-nodes-of-2pacy-ranked-by-tech-gurus-your-comprehensive-guide-to-2024s-compact-powerhouses/"><u>Leading Mini Desktops and Nodes of 2Pacy, Ranked by Tech Gurus: Your Comprehensive Guide to 2024'S Compact Powerhouses</u></a></li>
-<li><a href="https://fox-http.techidaily.com/mastery-through-motion-a-garageband-guide-to-podcasting/"><u>Mastery Through Motion A GarageBand Guide to Podcasting</u></a></li>
-<li><a href="https://win-hot.techidaily.com/maximizing-productivity-expert-analysis-of-the-innocn-ultrawide-40c1r-monitor-at-144hz/"><u>Maximizing Productivity: Expert Analysis of the Innocn Ultrawide 40C1R Monitor at 144Hz</u></a></li>
-<li><a href="https://win-hot.techidaily.com/maximizing-productivity-how-using-various-os-boosts-my-work-efficiency-insights-from-a-tech-enthusiast/"><u>Maximizing Productivity: How Using Various OS Boosts My Work Efficiency - Insights From a Tech Enthusiast</u></a></li>
-<li><a href="https://win-hot.techidaily.com/new-survey-reveals-windows-11-takes-the-lead-over-windows-amo-in-pc-gamers-choice-insights-from-zdnet/"><u>New Survey Reveals Windows 11 Takes the Lead Over Windows Amo in PC Gamers' Choice | Insights From ZDNet</u></a></li>
-<li><a href="https://win-hot.techidaily.com/next-year-prepare-to-pay-for-windows-11-updates-what-you-need-to-know-about-microsofts-latest-move-zdnet/"><u>Next Year, Prepare to Pay for Windows 11 Updates: What You Need to Know About Microsoft's Latest Move | ZDNet</u></a></li>
-<li><a href="https://win-hot.techidaily.com/persistent-security-flaws-in-windows-os-highlighted-by-latest-analysis-zdnet/"><u>Persistent Security Flaws in Windows OS Highlighted by Latest Analysis - ZDNet</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/ultimate-guide-to-get-the-meltan-box-pokemon-go-for-nokia-130-music-drfone-by-drfone-virtual-android/"><u>Ultimate guide to get the meltan box pokemon go For Nokia 130 Music | Dr.fone</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-discovering-disconnected-users-in-social-network/"><u>[New] 2024 Approved Discovering Disconnected Users in Social Network</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-dive-into-the-world-of-whatsapp-alert-creation-for-ios-android/"><u>[New] Dive Into the World of WhatsApp Alert Creation for iOS, Android</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-free-visual-templates-to-upgrade-your-profile-for-2024/"><u>[Updated] Free Visual Templates to Upgrade Your Profile for 2024</u></a></li>
+<li><a href="https://discover-best.techidaily.com/makemkv/"><u>使用法と有効化けの最後にあるアクション - MakeMKVガイド</u></a></li>
+<li><a href="https://win-hot.techidaily.com/accelerating-your-graphics-proven-strategies-by-yl-software-experts/"><u>Accelerating Your Graphics: Proven Strategies by YL Software Experts</u></a></li>
+<li><a href="https://win-hot.techidaily.com/announcement-pioneers-dex-version-301-the-most-recent-maintenance-update-for-pro-dj-equipment/"><u>Announcement: Pioneer's DEX Version 3.0.1 - The Most Recent Maintenance Update for Pro DJ Equipment</u></a></li>
+<li><a href="https://win-hot.techidaily.com/boost-your-pcs-performance-tips-and-tricks-from-yl-computing-the-ultimate-guide/"><u>Boost Your PC's Performance: Tips & Tricks From YL Computing - The Ultimate Guide</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/elevate-your-listening-game-with-spotify-pro-subscription/"><u>Elevate Your Listening Game with Spotify Pro Subscription</u></a></li>
+<li><a href="https://win-hot.techidaily.com/evaluating-the-effectiveness-of-windows-defender-in-guarding-your-computer-from-hackers-and-malware-yl-computing-analysis/"><u>Evaluating the Effectiveness of Windows Defender in Guarding Your Computer From Hackers and Malware – YL Computing Analysis</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/les-meilleurs-converters-videos-en-mode-libre-pour-windows-11-top-10-de-2023/"><u>Les Meilleurs Converters Vidéos en Mode Libre Pour Windows 11: Top 10 De 2023</u></a></li>
+<li><a href="https://common-error.techidaily.com/solved-how-to-fix-a-computer-that-cant-power-off-in-windows-10/"><u>Solved: How to Fix a Computer That Can't Power Off in Windows 10</u></a></li>
+<li><a href="https://win-hot.techidaily.com/the-ultimate-techniques-to-change-folder-names-with-yl-software-solutions-mastered-by-yl-computing/"><u>The Ultimate Techniques to Change Folder Names with YL Software Solutions - Mastered by YL Computing</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/transformez-un-fichier-m2p-en-avi-gratuitement-en-ligne-convertisseur-video/"><u>Transformez Un Fichier M2P en AVI Gratuitement en Ligne - Convertisseur Vidéo</u></a></li>
 </ul></div>
 

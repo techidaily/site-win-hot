@@ -1,7 +1,7 @@
 ---
 title: "Mastering DEX 3: Guide to Setting Up Dual Monitor Configuration for Audio/Video Streaming"
-date: 2025-01-13T17:35:35.006Z
-updated: 2025-01-14T17:44:21.786Z
+date: 2025-01-13T21:25:15.457Z
+updated: 2025-01-20T23:27:17.825Z
 tags:
   - product
 categories:
@@ -20,7 +20,7 @@ Since you only want your audience to view the mixed music video output, or the k
 #### DEX 3 DJ SOFTWARE TUTORIAL VIDEO: HOW TO SETUP SECOND DISPLAY FOR VIDEO OR KARAOKE ONLY OUTPUT
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -42,18 +42,24 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2014/10/videonly-coverimage.jpg?fi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-superior-cinematic-introductions-set/"><u>2024 Approved Superior Cinematic Introductions Set</u></a></li>
-<li><a href="https://blog-min.techidaily.com/5-ways-to-teach-you-to-transfer-files-from-tecno-spark-20c-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways To Teach You To Transfer Files from Tecno Spark 20C to Other Android Devices Easily | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/avi-online-movavi/"><u>AVI 플랫 형식으로 무료 변환 - Online 문제 해결: Movavi</u></a></li>
-<li><a href="https://win-hot.techidaily.com/diagnosing-faulty-hardware-components-expert-advice-from-yl-computing-and-yl-software/"><u>Diagnosing Faulty Hardware Components: Expert Advice From YL Computing & YL Software</u></a></li>
-<li><a href="https://fox-that.techidaily.com/iphone-display-issue-unlocking-rotation-feature-from-portrait-lock/"><u>IPhone Display Issue: Unlocking Rotation Feature From Portrait Lock</u></a></li>
-<li><a href="https://win-hot.techidaily.com/is-it-safe-to-implement-external-scanning-applications-in-your-system-insights-from-yl-computing/"><u>Is It Safe to Implement External Scanning Applications in Your System - Insights From YL Computing</u></a></li>
-<li><a href="https://win-hot.techidaily.com/step-by-step-guide-setting-up-windows-update-expert-advice-from-yl-computing/"><u>Step-by-Step Guide: Setting Up Windows Update - Expert Advice From YL Computing</u></a></li>
-<li><a href="https://win-hot.techidaily.com/step-by-step-guide-updating-your-devices-driver-software-tech-solutions-by-yl/"><u>Step-by-Step Guide: Updating Your Device's Driver Software - Tech Solutions by YL</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/step-by-step-process-for-iphone-voice-memo-creation-for-2024/"><u>Step-by-Step Process for iPhone Voice Memo Creation for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/the-role-of-b2b-relationships-in-informed-market-decisions/"><u>The Role of B2B Relationships in Informed Market Decisions</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/top-10-password-cracking-tools-for-itel-a60-by-drfone-android/"><u>Top 10 Password Cracking Tools For Itel A60</u></a></li>
-<li><a href="https://win-hot.techidaily.com/troubleshooting-e-code-print-issues-yl-softwares-guide-for-immediate-help/"><u>Troubleshooting E-Code Print Issues: YL Software's Guide for Immediate Help</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/ultimate-pet-monitoring-experience-petcube-insiders-guide/"><u>Ultimate Pet Monitoring Experience: Petcube Insider's Guide</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-integrating-secondary-shots-tips-and-tricks/"><u>[New] 2024 Approved Integrating Secondary Shots Tips and Tricks</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-accelerating-learning-on-tiktok-changing-your-profile-number/"><u>[Updated] Accelerating Learning on TikTok Changing Your Profile Number</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-leading-tools-to-elevate-webcam-video-quality/"><u>2024 Approved Leading Tools to Elevate Webcam Video Quality</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-master-strategies-to-stop-windows-10-photos-crashes/"><u>2024 Approved Master Strategies to Stop Windows 10 Photos Crashes</u></a></li>
+<li><a href="https://win-hot.techidaily.com/creative-pizza-visuals-for-your-desktop-high-quality-backgrounds-and-images-from-yl-software/"><u>Creative Pizza Visuals for Your Desktop: High-Quality Backgrounds and Images From YL Software</u></a></li>
+<li><a href="https://win11.techidaily.com/demystifying-windows-ram-cache-explained/"><u>Demystifying Window's RAM Cache Explained</u></a></li>
+<li><a href="https://win-hot.techidaily.com/faster-booting-for-windows-systems-expert-advice-by-yl-software/"><u>Faster Booting for Windows Systems - Expert Advice by YL Software</u></a></li>
+<li><a href="https://win-hot.techidaily.com/how-does-yl-software-help-you-detect-and-prevent-crypto-scams-essential-tips-and-strategies/"><u>How Does YL Software Help You Detect & Prevent Crypto Scams? Essential Tips and Strategies</u></a></li>
+<li><a href="https://win-hot.techidaily.com/how-to-fix-a-non-functional-printer-expert-tips-from-yl-computing/"><u>How to Fix a Non-Functional Printer: Expert Tips From YL Computing</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-fix-apple-id-verification-code-not-working-from-iphone-6s-plus-by-drfone-ios/"><u>In 2024, How To Fix Apple ID Verification Code Not Working From iPhone 6s Plus</u></a></li>
+<li><a href="https://win-hot.techidaily.com/master-the-art-of-monitoring-pc-performance-essential-tips-from-yl-computing/"><u>Master the Art of Monitoring PC Performance: Essential Tips From YL Computing</u></a></li>
+<li><a href="https://win-hot.techidaily.com/maximizing-laptop-longevity-on-a-single-charge-essential-strategies-by-yl-software-experts/"><u>Maximizing Laptop Longevity on a Single Charge: Essential Strategies by YL Software Experts</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/msis-pre-computex-2024-launch-premium-z890-and-b860-motherboards-for-intel-arc-s-system-leak-detected/"><u>MSI's Pre-Computex 2024 Launch: Premium Z890 and B860 Motherboards for Intel Arc S System Leak Detected</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/samsung-bd-j5900-review-2023-update-for-2024/"><u>Samsung BD-J5900 Review - 2023 Update for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/screen-recorder-showcase-apowersofts-place-in-the-market/"><u>Screen Recorder Showcase Apowersoft's Place in the Market</u></a></li>
+<li><a href="https://win-hot.techidaily.com/solving-display-problems-on-your-pc-a-guide-by-yl-software/"><u>Solving Display Problems on Your PC: A Guide by YL Software</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-resolving-lack-of-speakers-in-windows-11-setup/"><u>Troubleshooting Guide: Resolving Lack of Speakers in Windows 11 Setup</u></a></li>
+<li><a href="https://win-hot.techidaily.com/ultimate-guide-to-selecting-the-perfect-program-for-junk-file-cleanup-by-yl-computing-experts-software-solutions/"><u>Ultimate Guide to Selecting the Perfect Program for Junk File Cleanup by YL Computing Experts | Software Solutions</u></a></li>
+<li><a href="https://win-hot.techidaily.com/upgrade-your-dj-setup-get-pcdj-317-update-now-featuring-seamless-tidal-streaming-capabilities/"><u>Upgrade Your DJ Setup - Get PCDJ 3.17 Update Now Featuring Seamless Tidal Streaming Capabilities</u></a></li>
 </ul></div>
 

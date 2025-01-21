@@ -1,7 +1,7 @@
 ---
 title: Take Your Mixes Up a Notch Using DEX 2.5 & Music Videos in PCDJ Platforms
-date: 2025-01-07T20:47:34.410Z
-updated: 2025-01-14T20:06:23.104Z
+date: 2025-01-18T22:06:02.067Z
+updated: 2025-01-20T20:40:21.442Z
 tags:
   - product
 categories:
@@ -17,7 +17,7 @@ thumbnail: https://thmb.techidaily.com/3331b68243bf9259740fc95d1a73b2453b86dd532
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **DEX 2.5 is here, and it’s our most complete video mixing software (VJ) for seamlessly mixing music videos mashups to date.**
@@ -25,7 +25,7 @@ thumbnail: https://thmb.techidaily.com/3331b68243bf9259740fc95d1a73b2453b86dd532
 [![](https://pcdj.com/wp-content/uploads/2012/11/dex2screenshotnew-300x168.png "dex2screenshotnew")](https://pcdj.com/wp-content/uploads/2012/11/dex2screenshotnew.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **PCDJ DEX 2** has been our flagship **DJ software** application for the last 2 years. DEX 2 is essentially a culmination of over 13 years of DJ software development experiance wrapped up in one robust product. The goal from the start was to create one solution for DJ’s; **a product that mixes video as well as it does audio (and yes, even Karaoke).**
@@ -37,7 +37,7 @@ While PCDJ DEX 2 has been terrific for mixing audio easily, with key features su
 Included in the new release are the first of many to come **video effects and video transitions**, they are as follows:
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Video Effects:**
@@ -50,7 +50,7 @@ Included in the new release are the first of many to come **video effects and vi
 * Red, Blue, and Green Filters: Change the entire color of the music video dynamically
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Video Transitions:**
@@ -69,7 +69,7 @@ The Windows version of PCDJ DEX 2.5 is available for demo download from [www.pcd
 **_Now back to the bat cave…_**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -91,22 +91,21 @@ https://www.pcdj.com/wp-content/uploads/2021/07/pcdj-main-logo-2.png 0 0 Ryan Sh
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/updated-2024-approved-5-podcast-apps-for-iphone/"><u>[Updated] 2024 Approved 5 Podcast Apps for iPhone</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-navigating-the-new-picsart-app-review-and-tutorial-for-2024/"><u>[Updated] Navigating the New PicsArt App – Review & Tutorial for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-prime-6-low-cost-ultra-clear-4k-projection-for-2024/"><u>[Updated] Prime 6 Low-Cost, Ultra-Clear 4K Projection for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-x-voice-capture-software-pc-for-2024/"><u>[Updated] X-Voice Capture Software, PC for 2024</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/5-most-effective-methods-to-unlock-iphone-se-in-lost-mode-by-drfone-ios/"><u>5 Most Effective Methods to Unlock iPhone SE in Lost Mode</u></a></li>
-<li><a href="https://win-hot.techidaily.com/elevate-your-design-with-yl-softwares-goodies-hd-folder-icons-for-superior-organization-and-aesthetics/"><u>Elevate Your Design with YL Software's Goodies HD Folder Icons for Superior Organization and Aesthetics</u></a></li>
-<li><a href="https://win-hot.techidaily.com/enchanting-heartfelt-imagery-premium-romantic-love-backgrounds-from-yl-softwares-vast-gallery/"><u>Enchanting Heartfelt Imagery: Premium Romantic Love Backgrounds From YL Software's Vast Gallery</u></a></li>
-<li><a href="https://win-hot.techidaily.com/party-tymes-freshest-karaoke-selection-exclusive-songs-available-from-november-11-2018/"><u>Party Tyme's Freshest Karaoke Selection: Exclusive Songs Available From November 11, 2018</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/safekeeping-your-online-space-youtube-channel-blocking-guide/"><u>Safekeeping Your Online Space Youtube Channel Blocking Guide</u></a></li>
-<li><a href="https://win-hot.techidaily.com/selecting-the-perfect-digital-wallet-a-comprehensive-guide-by-yl-computing/"><u>Selecting the Perfect Digital Wallet: A Comprehensive Guide by YL Computing</u></a></li>
-<li><a href="https://win-wonderful.techidaily.com/step-by-step-guide-swapping-your-ssd-in-windows-10-with-minimal-hassle/"><u>Step-by-Step Guide: Swapping Your SSD in Windows 10 with Minimal Hassle</u></a></li>
-<li><a href="https://win-hot.techidaily.com/the-mystery-of-a-non-functioning-monitor-insights-and-solutions-by-yl-software-specialists/"><u>The Mystery of a Non-Functioning Monitor: Insights and Solutions by YL Software Specialists</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/the-ultimate-guide-to-choosing-tech-insights-from-toms-hardware-reviews/"><u>The Ultimate Guide to Choosing Tech: Insights From Tom's Hardware Reviews</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/trasformare-file-aifc-su-wav-gratuitamente-con-movavi/"><u>Trasformare File .aifc Su WAV Gratuitamente Con Movavi</u></a></li>
-<li><a href="https://win-hot.techidaily.com/unraveling-the-downfall-how-did-the-qin-empire-collapse-powered-by-yl-tech-solutions/"><u>Unraveling the Downfall: How Did the Qin Empire Collapse? - Powered by YL Tech Solutions</u></a></li>
-<li><a href="https://win-hot.techidaily.com/who-authored-the-classic-analects-discover-the-renowned-chinese-thinker-behind-it-insights-by-yl-tech/"><u>Who Authored the Classic 'Analects'? Discover The Renowned Chinese Thinker Behind It - Insights by YL Tech</u></a></li>
-<li><a href="https://win-hot.techidaily.com/yl-software-solutions-install-new-programs-seamlessly-on-windows-11-comprehensive-how-to/"><u>YL Software Solutions: Install New Programs Seamlessly on Windows 11 – Comprehensive How-To</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-harmonizing-your-spotify-queue-with-youtube-music-catalogs/"><u>[New] 2024 Approved Harmonizing Your Spotify Queue with YouTube Music Catalogs</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-innovative-methods-iphoneipad-recording-2023-revealed-for-2024/"><u>[Updated] Innovative Methods IPhone/iPad Recording [2023 Revealed] for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-elevating-your-youtube-experience-tips-on-channel-art-and-sizes/"><u>2024 Approved Elevating Your YouTube Experience Tips on Channel Art and Sizes</u></a></li>
+<li><a href="https://win-hot.techidaily.com/fixar-errores-inicializadores-em-windows-10-e-11-passos-detalhados-e-provenientes/"><u>Fixar Errores Inicializadores Em Windows 10 E 11 - Passos Detalhados E Provenientes</u></a></li>
+<li><a href="https://win-hot.techidaily.com/how-to-disable-and-clear-vss-backups-a-guide-for-windows-server-201n-r2-users/"><u>How to Disable and Clear VSS Backups: A Guide for Windows Server 201N-R2 Users</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-fix-apple-iphone-se-2020-unavailable-issue-with-ease-drfone-by-drfone-ios/"><u>In 2024, How To Fix Apple iPhone SE (2020) Unavailable Issue With Ease | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-use-ispoofer-on-tecno-camon-20-premier-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to use iSpoofer on Tecno Camon 20 Premier 5G? | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-unlocking-hidden-potential-how-to-use-video-filters-on-zoom/"><u>In 2024, Unlocking Hidden Potential How To Use Video Filters on Zoom</u></a></li>
+<li><a href="https://win-hot.techidaily.com/incremental-hdd-backups-made-easy-transferring-data-to-an-external-hard-drive/"><u>Incremental HDD Backups Made Easy: Transferring Data to an External Hard Drive</u></a></li>
+<li><a href="https://win-hot.techidaily.com/schritt-fur-schritt-anleitung-zum-beheben-eines-defekten-raw-speichergerats-mit-command-prompt/"><u>Schritt-Für-Schritt-Anleitung Zum Beheben Eines Defekten RAW-Speichergeräts Mit Command Prompt</u></a></li>
+<li><a href="https://win-hot.techidaily.com/step-by-step-tutorial-retrieving-deleted-game-progress-on-the-nintendo-switch-console/"><u>Step-by-Step Tutorial: Retrieving Deleted Game Progress on the Nintendo Switch Console</u></a></li>
+<li><a href="https://win-hot.techidaily.com/transferring-your-tunes-top-7-methods-for-moving-songs-from-one-ipad-to-another/"><u>Transferring Your Tunes: Top 7 Methods for Moving Songs From One iPad to Another</u></a></li>
+<li><a href="https://techtrends.techidaily.com/transformacion-gratis-y-rapida-convertir-archivos-m4v-a-mp4-con-herramienta-online-movavi/"><u>Transformación Gratis Y Rápida: Convertir Archivos M4V a MP4 Con Herramienta Online - Movavi</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unveiling-the-most-exciting-enhancements-of-the-iphone-pro-the-ultimate-features-list-for-gadget-lovers-zdnet/"><u>Unveiling the Most Exciting Enhancements of the iPhone Pro: The Ultimate Features List for Gadget Lovers | ZDNET</u></a></li>
+<li><a href="https://win-hot.techidaily.com/wiederherstellung-von-daten-nach-festplattenausfall-professionelle-recovery-methoden/"><u>Wiederherstellung Von Daten Nach Festplattenausfall - Professionelle Recovery-Methoden</u></a></li>
+<li><a href="https://program-issues.techidaily.com/winning-over-windows-11-crashes-solutions-for-a-smooth-fallout-3-experience/"><u>Winning Over Windows 11 Crashes - Solutions for a Smooth Fallout 3 Experience</u></a></li>
 </ul></div>
 
