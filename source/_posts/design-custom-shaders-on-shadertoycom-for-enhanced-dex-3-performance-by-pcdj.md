@@ -1,7 +1,7 @@
 ---
 title: Design Custom Shaders on Shadertoy.com for Enhanced DEX 3 Performance by PCDJ
-date: 2025-01-18T18:17:02.911Z
-updated: 2025-01-20T16:20:45.664Z
+date: 2025-01-23T22:15:52.933Z
+updated: 2025-01-26T19:37:40.839Z
 tags:
   - product
 categories:
@@ -23,7 +23,7 @@ thumbnail: https://thmb.techidaily.com/bd7c586aade6fed49cfda54f6e705ff08c3876c36
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## So what is a ‘Shader’?
@@ -39,7 +39,7 @@ We found this easy-to-follow ‘[Beginner’s Guide to Coding Graphics Shaders](
 [View Guide to Coding Shaders](https://gamedevelopment.tutsplus.com/tutorials/a-beginners-guide-to-coding-graphics-shaders--cms-23313)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Why would I want to create a custom Shader?
@@ -49,7 +49,7 @@ Creating your own custom shader/s for use with DEX 3 is just another way to cust
 If you’re not interested in creating your own custom shaders, no worries, [we’ve compiled a list of shaders that work great in DEX 3 already](https://tools.techidaily.com/pcdj/products/)!
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -71,16 +71,15 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2018/08/customshader-header.jpg?fi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://techno-recovery.techidaily.com/error-0xc000185-unraveled-identifying-issues-and-implementing-effective-solutions-for-windows-users/"><u>Error 0Xc00#0185 Unraveled: Identifying Issues & Implementing Effective Solutions for Windows Users</u></a></li>
-<li><a href="https://win-hot.techidaily.com/guard-your-windows-xp-operating-system-with-top-rated-no-cost-backup-applications/"><u>Guard Your Windows XP Operating System with Top-Rated No-Cost Backup Applications</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/how-to-swap-genders-on-snapchat-facebook-or-instagram-photos/"><u>How to Swap Genders on Snapchat, Facebook or Instagram Photos</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/in-2024-leveraging-facebook-slides-a-beginners-handbook-for-visual-storytelling/"><u>In 2024, Leveraging Facebook Slides A Beginner's Handbook for Visual Storytelling</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-looking-for-a-location-changer-on-honor-x50i-look-no-further-drfone-by-drfone-virtual-android/"><u>In 2024, Looking For A Location Changer On Honor X50i? Look No Further | Dr.fone</u></a></li>
-<li><a href="https://article-tips.techidaily.com/in-2024-where-to-find-top-notch-instagram-ringtones-and-how-to-make-a-keen-ringt/"><u>In 2024, Where to Find Top-Notch Instagram Ringtones & How to Make a Keen Ringt</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/navigating-ais-role-ethical-content-development-tips/"><u>Navigating AI's Role: Ethical Content Development Tips</u></a></li>
-<li><a href="https://win-hot.techidaily.com/pasos-faciles-para-disenar-un-disco-de-configuracion-personalizado-en-sistemas-windows/"><u>Pasos Fáciles Para Diseñar Un Disco De Configuración Personalizado en Sistemas Windows</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/streamlining-online-meetings-zoom-for-win10/"><u>Streamlining Online Meetings Zoom for WIN10</u></a></li>
-<li><a href="https://win-hot.techidaily.com/top-free-software-for-automatic-backup-on-your-network-attached-storage-device/"><u>Top Free Software for Automatic Backup on Your Network Attached Storage Device</u></a></li>
-<li><a href="https://win-hot.techidaily.com/1728492419373-windows-11/"><u>ファイル履歴保存設定を変更せよ! Windows 11 では今や全ファイルが安全にバックアップされる</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-broadcasting-brevity-news-outro-tips/"><u>[New] 2024 Approved Broadcasting Brevity News Outro Tips</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-conquer-ez-grabber-in-minutes-download-and-setup-made-simple/"><u>[New] 2024 Approved Conquer EZ Grabber in Minutes Download & Setup Made Simple</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-in-2024-propel-your-productivity-with-mematic-tech/"><u>[Updated] In 2024, Propel Your Productivity with Mematic Tech</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/android-unlock-code-sim-unlock-your-samsung-galaxy-m34-5g-phone-and-remove-locked-screen-by-drfone-android/"><u>Android Unlock Code Sim Unlock Your Samsung Galaxy M34 5G Phone and Remove Locked Screen</u></a></li>
+<li><a href="https://win-hot.techidaily.com/comment-resoudre-les-blocages-du-client-synology-drive-options-multiples-pour-continuer-a-acceder-aux-donnees/"><u>Comment Résoudre Les Blocages Du Client Synology Drive: Options Multiples Pour Continuer À Accéder Aux Données</u></a></li>
+<li><a href="https://win-hot.techidaily.com/easy-tutorial-for-downloading-and-using-apps-on-a-windows-11-preloaded-hp-notebook/"><u>Easy Tutorial for Downloading and Using Apps on a Windows 11 Preloaded HP Notebook</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-a-detailed-vpna-fake-gps-location-free-review-on-oneplus-12r-drfone-by-drfone-virtual-android/"><u>In 2024, A Detailed VPNa Fake GPS Location Free Review On OnePlus 12R | Dr.fone</u></a></li>
+<li><a href="https://win-hot.techidaily.com/resolution-transfert-de-donnees-sur-samsung-sans-alterer-la-source-disque-guide-complet/"><u>Résolution : Transfert De Données Sur Samsung Sans Altérer La Source Disque - Guide Complet.</u></a></li>
+<li><a href="https://win-hot.techidaily.com/wie-man-ein-samsung-solid-state-drive-ssd-in-windows-10-oder-11-dupliziert-und-auf-eine-grossere-ssd-ubertragen-kann/"><u>Wie Man Ein Samsung-Solid State Drive (SSD) in Windows 10 Oder 11 Dupliziert Und Auf Eine Größere SSD Übertragen Kann</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/zoom-in-on-subject-scrub-background-cleanly-for-2024/"><u>Zoom In on Subject, Scrub Background Cleanly for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Upgrade Your DJ Setup - Get PCDJ 3.17 Update Now Featuring Seamless Tidal Streaming Capabilities
-date: 2025-01-15T01:02:49.662Z
-updated: 2025-01-21T00:17:17.525Z
+date: 2025-01-23T23:12:40.163Z
+updated: 2025-01-27T00:38:59.168Z
 tags:
   - product
 categories:
@@ -29,7 +29,7 @@ Read the full details of the new free update for [DEX 3](https://tools.techidail
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### What’s New, Changed and Updated in DEX 3.17
@@ -56,7 +56,7 @@ _**DEX 3.17 Install Instructions:** With your existing version of DEX 3 closed, 
 _Have questions about our DEX 3_ _**DJ Software** and how it works with **TIDAL streaming**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -78,18 +78,17 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2022/01/dex3xtidal-fb.jpg?fit=1583
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-discovering-disconnected-users-in-social-network/"><u>[New] 2024 Approved Discovering Disconnected Users in Social Network</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-dive-into-the-world-of-whatsapp-alert-creation-for-ios-android/"><u>[New] Dive Into the World of WhatsApp Alert Creation for iOS, Android</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-free-visual-templates-to-upgrade-your-profile-for-2024/"><u>[Updated] Free Visual Templates to Upgrade Your Profile for 2024</u></a></li>
-<li><a href="https://discover-best.techidaily.com/makemkv/"><u>使用法と有効化けの最後にあるアクション - MakeMKVガイド</u></a></li>
-<li><a href="https://win-hot.techidaily.com/accelerating-your-graphics-proven-strategies-by-yl-software-experts/"><u>Accelerating Your Graphics: Proven Strategies by YL Software Experts</u></a></li>
-<li><a href="https://win-hot.techidaily.com/announcement-pioneers-dex-version-301-the-most-recent-maintenance-update-for-pro-dj-equipment/"><u>Announcement: Pioneer's DEX Version 3.0.1 - The Most Recent Maintenance Update for Pro DJ Equipment</u></a></li>
-<li><a href="https://win-hot.techidaily.com/boost-your-pcs-performance-tips-and-tricks-from-yl-computing-the-ultimate-guide/"><u>Boost Your PC's Performance: Tips & Tricks From YL Computing - The Ultimate Guide</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/elevate-your-listening-game-with-spotify-pro-subscription/"><u>Elevate Your Listening Game with Spotify Pro Subscription</u></a></li>
-<li><a href="https://win-hot.techidaily.com/evaluating-the-effectiveness-of-windows-defender-in-guarding-your-computer-from-hackers-and-malware-yl-computing-analysis/"><u>Evaluating the Effectiveness of Windows Defender in Guarding Your Computer From Hackers and Malware – YL Computing Analysis</u></a></li>
-<li><a href="https://discover-dash.techidaily.com/les-meilleurs-converters-videos-en-mode-libre-pour-windows-11-top-10-de-2023/"><u>Les Meilleurs Converters Vidéos en Mode Libre Pour Windows 11: Top 10 De 2023</u></a></li>
-<li><a href="https://common-error.techidaily.com/solved-how-to-fix-a-computer-that-cant-power-off-in-windows-10/"><u>Solved: How to Fix a Computer That Can't Power Off in Windows 10</u></a></li>
-<li><a href="https://win-hot.techidaily.com/the-ultimate-techniques-to-change-folder-names-with-yl-software-solutions-mastered-by-yl-computing/"><u>The Ultimate Techniques to Change Folder Names with YL Software Solutions - Mastered by YL Computing</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/transformez-un-fichier-m2p-en-avi-gratuitement-en-ligne-convertisseur-video/"><u>Transformez Un Fichier M2P en AVI Gratuitement en Ligne - Convertisseur Vidéo</u></a></li>
+<li><a href="https://win-hot.techidaily.com/avoiding-data-overload-dual-techniques-for-decoupling-shared-snapshots-in-dropbox/"><u>Avoiding Data Overload: Dual Techniques for Decoupling Shared Snapshots in Dropbox</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/breaking-down-the-features-of-the-iphone-13-expert-review/"><u>Breaking Down the Features of the iPhone 13 - Expert Review</u></a></li>
+<li><a href="https://win-hot.techidaily.com/corrected-alert-no-more-problems-when-downloading-software-updates/"><u>Corrected Alert: No More Problems When Downloading Software Updates</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/guide-comparatif-des-meilleurs-converters-video-libres-et-gratuits-sur-pc-avec-windows/"><u>Guide Comparatif Des Meilleurs Converters Vidéo Libres Et Gratuits Sur PC Avec Windows</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/hd-nature-landscapes-and-serene-vistas-stunning-wallpaper-collections-by-yl-computing/"><u>HD Nature Landscapes & Serene Vistas: Stunning Wallpaper Collections by YL Computing</u></a></li>
+<li><a href="https://win-hot.techidaily.com/how-to-clean-up-your-system-eliminating-the-windowsold-folder-in-windows-10-with-these-4-strategies/"><u>How to Clean Up Your System: Eliminating the 'Windows.old' Folder in Windows 10 with These 4 Strategies</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-the-premier-selection-of-11-costless-yt-moniker-makers/"><u>In 2024, The Premier Selection of 11 Costless YT Moniker Makers</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-the-ultimate-guide-to-samsung-galaxy-m14-4g-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Ultimate Guide to Samsung Galaxy M14 4G Pattern Lock Screen Everything You Need to Know</u></a></li>
+<li><a href="https://win-hot.techidaily.com/telecharger-gratuitement-et-sauvegarder-vers-dropbox-sur-windows-111087/"><u>Télécharger Gratuitement Et Sauvegarder Vers Dropbox Sur Windows 11/10/8/7</u></a></li>
+<li><a href="https://games-able.techidaily.com/where-does-steam-stash-its-captures/"><u>Where Does Steam Stash Its Captures?</u></a></li>
+<li><a href="https://win-hot.techidaily.com/1728505218623-windows-server-201nhdd/"><u>Windows Server 201NでHDDの複製手順:代替プラットフォームと比較</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/pathway-to-stellar-intros-on-mobile-devices-for-2024/"><u>Your Pathway to Stellar Intros on Mobile Devices for 2024</u></a></li>
 </ul></div>
 
