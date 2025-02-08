@@ -1,7 +1,7 @@
 ---
 title: Upgrade Your DJ Setup - Get PCDJ 3.17 Update Now Featuring Seamless Tidal Streaming Capabilities
-date: 2025-01-23T23:12:40.163Z
-updated: 2025-01-27T00:38:59.168Z
+date: 2025-02-06T19:58:35.245Z
+updated: 2025-02-08T21:03:58.946Z
 tags:
   - product
 categories:
@@ -29,7 +29,7 @@ Read the full details of the new free update for [DEX 3](https://tools.techidail
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### What’s New, Changed and Updated in DEX 3.17
@@ -56,7 +56,7 @@ _**DEX 3.17 Install Instructions:** With your existing version of DEX 3 closed, 
 _Have questions about our DEX 3_ _**DJ Software** and how it works with **TIDAL streaming**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -78,17 +78,16 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2022/01/dex3xtidal-fb.jpg?fit=1583
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-hot.techidaily.com/avoiding-data-overload-dual-techniques-for-decoupling-shared-snapshots-in-dropbox/"><u>Avoiding Data Overload: Dual Techniques for Decoupling Shared Snapshots in Dropbox</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/breaking-down-the-features-of-the-iphone-13-expert-review/"><u>Breaking Down the Features of the iPhone 13 - Expert Review</u></a></li>
-<li><a href="https://win-hot.techidaily.com/corrected-alert-no-more-problems-when-downloading-software-updates/"><u>Corrected Alert: No More Problems When Downloading Software Updates</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/guide-comparatif-des-meilleurs-converters-video-libres-et-gratuits-sur-pc-avec-windows/"><u>Guide Comparatif Des Meilleurs Converters Vidéo Libres Et Gratuits Sur PC Avec Windows</u></a></li>
-<li><a href="https://discover-exceptional.techidaily.com/hd-nature-landscapes-and-serene-vistas-stunning-wallpaper-collections-by-yl-computing/"><u>HD Nature Landscapes & Serene Vistas: Stunning Wallpaper Collections by YL Computing</u></a></li>
-<li><a href="https://win-hot.techidaily.com/how-to-clean-up-your-system-eliminating-the-windowsold-folder-in-windows-10-with-these-4-strategies/"><u>How to Clean Up Your System: Eliminating the 'Windows.old' Folder in Windows 10 with These 4 Strategies</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/24-the-premier-selection-of-11-costless-yt-moniker-makers/"><u>In 2024, The Premier Selection of 11 Costless YT Moniker Makers</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-the-ultimate-guide-to-samsung-galaxy-m14-4g-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Ultimate Guide to Samsung Galaxy M14 4G Pattern Lock Screen Everything You Need to Know</u></a></li>
-<li><a href="https://win-hot.techidaily.com/telecharger-gratuitement-et-sauvegarder-vers-dropbox-sur-windows-111087/"><u>Télécharger Gratuitement Et Sauvegarder Vers Dropbox Sur Windows 11/10/8/7</u></a></li>
-<li><a href="https://games-able.techidaily.com/where-does-steam-stash-its-captures/"><u>Where Does Steam Stash Its Captures?</u></a></li>
-<li><a href="https://win-hot.techidaily.com/1728505218623-windows-server-201nhdd/"><u>Windows Server 201NでHDDの複製手順:代替プラットフォームと比較</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/pathway-to-stellar-intros-on-mobile-devices-for-2024/"><u>Your Pathway to Stellar Intros on Mobile Devices for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-precision-and-speed-the-ultimate-guide-to-mac-srt-editing-for-2024/"><u>[Updated] Precision and Speed The Ultimate Guide to Mac Srt Editing for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-unveiling-the-top-6-favorite-short-form-video-download-tools/"><u>[Updated] Unveiling the Top 6 Favorite Short-Form Video Download Tools</u></a></li>
+<li><a href="https://win-hot.techidaily.com/comment-copier-un-secteur-avec-gpt-a-laide-de-clonezilla-guide-complet/"><u>Comment Copier Un Secteur Avec GPT À L'aide De Clonezilla : Guide Complet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/comprehensive-guide-to-the-google-pixel-tablet-is-it-a-viable-rival-for-apples-ipad/"><u>Comprehensive Guide to the Google Pixel Tablet: Is It a Viable Rival for Apple's iPad?</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/dive-into-dynamic-footage-the-review-of-polaroid-cubeplus-for-2024/"><u>Dive Into Dynamic Footage The Review of Polaroid Cube+ for 2024</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-flavor-leaders-must-watch-culinary-youtube-stars/"><u>In 2024, Flavor Leaders Must-Watch Culinary YouTube Stars</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-poco-f5-pro-5gwithwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Poco F5 Pro 5Gwith/without a PC</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-vivo-y27s-device-by-drfone-android/"><u>Mastering Android Device Manager The Ultimate Guide to Unlocking Your Vivo Y27s Device</u></a></li>
+<li><a href="https://win-hot.techidaily.com/top-rangige-sicherungssoftware-fur-windows-sbs-2011-perfekt-fur-kleine-unternehmen/"><u>Top-Rangige Sicherungssoftware Für Windows SBS 2011 – Perfekt Für Kleine Unternehmen</u></a></li>
+<li><a href="https://win-hot.techidaily.com/tout-savoir-pour-migrer-facilement-de-son-os-a-un-ssd-crucial-sur-windows-guide-complet/"><u>Tout Savoir Pour Migrer Facilement De Son OS À Un SSD Crucial Sur Windows - Guide Complet</u></a></li>
+<li><a href="https://win-hot.techidaily.com/aomei-fonebackup/"><u>バックアップ管理: AOMEI FoneBackupを使った最適化方法</u></a></li>
 </ul></div>
 

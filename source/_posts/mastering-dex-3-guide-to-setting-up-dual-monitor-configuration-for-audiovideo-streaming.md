@@ -1,7 +1,7 @@
 ---
 title: "Mastering DEX 3: Guide to Setting Up Dual Monitor Configuration for Audio/Video Streaming"
-date: 2025-01-19T19:13:33.406Z
-updated: 2025-01-27T00:31:46.141Z
+date: 2025-02-01T20:54:53.493Z
+updated: 2025-02-08T19:13:12.651Z
 tags:
   - product
 categories:
@@ -20,7 +20,7 @@ Since you only want your audience to view the mixed music video output, or the k
 #### DEX 3 DJ SOFTWARE TUTORIAL VIDEO: HOW TO SETUP SECOND DISPLAY FOR VIDEO OR KARAOKE ONLY OUTPUT
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -42,16 +42,22 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2014/10/videonly-coverimage.jpg?fi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-cutting-edge-avatar-designs-for-the-metaverse-enthusiast/"><u>[New] 2024 Approved Cutting-Edge Avatar Designs for the Metaverse Enthusiast</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-2024-approved-windows-update-insights-the-latest-wins/"><u>[New] 2024 Approved Windows Update Insights The Latest Wins</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/new-rethinking-content-creation-non-vimeo-editor-hits-for-2024/"><u>[New] Rethinking Content Creation Non-Vimeo Editor Hits for 2024</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-step-by-step-guide-to-stunning-instagram-videos/"><u>[Updated] 2024 Approved Step-by-Step Guide to Stunning Instagram Videos</u></a></li>
-<li><a href="https://win-hot.techidaily.com/4-effective-ways-to-use-your-iphone-as-a-usb-drive-without-itunes-for-free/"><u>4 Effective Ways to Use Your iPhone As a USB Drive Without iTunes for Free</u></a></li>
-<li><a href="https://win-hot.techidaily.com/hdd-windows-11top3/"><u>外部HDD不要! Windows 11の効果的バックアップ手順TOP3</u></a></li>
-<li><a href="https://win-hot.techidaily.com/effizientes-herunterladen-und-synchronisieren-automatischer-dateien-auf-google-drive-erkunden-sie-4-strategien/"><u>Effizientes Herunterladen Und Synchronisieren Automatischer Dateien Auf Google Drive - Erkunden Sie 4 Strategien</u></a></li>
-<li><a href="https://win-hot.techidaily.com/guide-express-pour-configurer-un-support-amovible-a-partition-booteable/"><u>Guide Express Pour Configurer Un Support Amovible À Partition Booteable</u></a></li>
-<li><a href="https://win-hot.techidaily.com/solving-the-problem-of-your-seagate-external-hard-drive-appearing-in-raw-state/"><u>Solving the Problem of Your Seagate External Hard Drive Appearing in RAW State</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-4-ways-to-trace-oppo-find-x6-location-drfone-by-drfone-virtual-android/"><u>Top 4 Ways to Trace Oppo Find X6 Location | Dr.fone</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/unleash-your-potential-with-these-tiktokers/"><u>Unleash Your Potential with These TikTokers</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-innovative-and-striking-pfp-designs-for-standout-profiles-for-2024/"><u>[Updated] Innovative and Striking PFP Designs for Standout Profiles for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-premier-funny-picture-tinker-for-2024/"><u>[Updated] Premier Funny Picture Tinker for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-transformative-tiktok-techniques-unveiled/"><u>2024 Approved Transformative TikTok Techniques Unveiled</u></a></li>
+<li><a href="https://win-hot.techidaily.com/hp-envy-x360ssd/"><u>全面教程：如何在HP Envy X360中換裝SSD - 不會損失任何檔案</u></a></li>
+<li><a href="https://win-hot.techidaily.com/best-methods-to-achieve-seamless-onedrive-one-way-file-synchronization/"><u>Best Methods to Achieve Seamless OneDrive One-Way File Synchronization</u></a></li>
+<li><a href="https://win-hot.techidaily.com/decouvrez-le-monde-des-fichiers-bmp-comment-ils-agissent-et-retrouver-vos-images-perdues-en-toute-securite/"><u>Découvrez Le Monde Des Fichiers BMP : Comment Ils Agissent Et Retrouver Vos Images Perdues en Toute Sécurité</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-xiaomi-13t-pro-by-drfone-android/"><u>In 2024, The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Xiaomi 13T Pro</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-unlock-your-oneplus-opens-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>In 2024, Unlock Your OnePlus Opens Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/leveraging-gpt-4-in-todays-chatgpt-sessions/"><u>Leveraging GPT-4 in Today's ChatGPT Sessions</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/masterclass-converting-twitter-vids-to-eye-catching-engaging-gifs/"><u>Masterclass Converting Twitter Vids to Eye-Catching, Engaging GIFs</u></a></li>
+<li><a href="https://win-hot.techidaily.com/methoden-zur-wiedererlangung-zerstorter-fotos-auf-sd-speichermedien-erklart/"><u>Methoden Zur Wiedererlangung Zerstörter Fotos Auf SD-Speichermedien Erklärt</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/pro-tips-for-captivating-vr-videos-top-9-strategies/"><u>Pro Tips for Captivating VR Videos Top 9 Strategies</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/pushing-boundaries-in-sound-design-top-5-innovative-audio-distortion-applications-for-2024/"><u>Pushing Boundaries in Sound Design Top 5 Innovative Audio Distortion Applications for 2024</u></a></li>
+<li><a href="https://win-hot.techidaily.com/step-by-step-guide-syncing-your-windows-11-laptop-with-an-external-hdd/"><u>Step-by-Step Guide: Syncing Your Windows 11 Laptop with an External HDD</u></a></li>
+<li><a href="https://win-hot.techidaily.com/understanding-vmwares-trusted-platform-module-vtpm-a-comprehensive-guide-on-integrating-it-with-your-vsphere-virtual-machines/"><u>Understanding VMware's Trusted Platform Module (vTPM) – A Comprehensive Guide on Integrating It with Your vSphere Virtual Machines</u></a></li>
+<li><a href="https://win-hot.techidaily.com/wd-schijf-1-ontdekbaar-onbekend-naar-worden-geinitialiseerd/"><u>WD-Schijf 1 Ontdekbaar - Onbekend Naar Worden Geïnitialiseerd?</u></a></li>
+<li><a href="https://win-hot.techidaily.com/windows-server-schutz-fehler-beim-zugriffsschutz-gelost/"><u>Windows Server Schutz: Fehler Beim Zugriffsschutz Gelöst</u></a></li>
 </ul></div>
 

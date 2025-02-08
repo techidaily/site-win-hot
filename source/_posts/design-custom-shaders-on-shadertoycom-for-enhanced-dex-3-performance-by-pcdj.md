@@ -1,7 +1,7 @@
 ---
 title: Design Custom Shaders on Shadertoy.com for Enhanced DEX 3 Performance by PCDJ
-date: 2025-01-23T22:15:52.933Z
-updated: 2025-01-26T19:37:40.839Z
+date: 2025-02-04T19:14:29.088Z
+updated: 2025-02-08T16:21:46.160Z
 tags:
   - product
 categories:
@@ -23,7 +23,7 @@ thumbnail: https://thmb.techidaily.com/bd7c586aade6fed49cfda54f6e705ff08c3876c36
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## So what is a ‘Shader’?
@@ -39,7 +39,7 @@ We found this easy-to-follow ‘[Beginner’s Guide to Coding Graphics Shaders](
 [View Guide to Coding Shaders](https://gamedevelopment.tutsplus.com/tutorials/a-beginners-guide-to-coding-graphics-shaders--cms-23313)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Why would I want to create a custom Shader?
@@ -49,7 +49,7 @@ Creating your own custom shader/s for use with DEX 3 is just another way to cust
 If you’re not interested in creating your own custom shaders, no worries, [we’ve compiled a list of shaders that work great in DEX 3 already](https://tools.techidaily.com/pcdj/products/)!
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -71,15 +71,18 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2018/08/customshader-header.jpg?fi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-broadcasting-brevity-news-outro-tips/"><u>[New] 2024 Approved Broadcasting Brevity News Outro Tips</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-conquer-ez-grabber-in-minutes-download-and-setup-made-simple/"><u>[New] 2024 Approved Conquer EZ Grabber in Minutes Download & Setup Made Simple</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-in-2024-propel-your-productivity-with-mematic-tech/"><u>[Updated] In 2024, Propel Your Productivity with Mematic Tech</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/android-unlock-code-sim-unlock-your-samsung-galaxy-m34-5g-phone-and-remove-locked-screen-by-drfone-android/"><u>Android Unlock Code Sim Unlock Your Samsung Galaxy M34 5G Phone and Remove Locked Screen</u></a></li>
-<li><a href="https://win-hot.techidaily.com/comment-resoudre-les-blocages-du-client-synology-drive-options-multiples-pour-continuer-a-acceder-aux-donnees/"><u>Comment Résoudre Les Blocages Du Client Synology Drive: Options Multiples Pour Continuer À Accéder Aux Données</u></a></li>
-<li><a href="https://win-hot.techidaily.com/easy-tutorial-for-downloading-and-using-apps-on-a-windows-11-preloaded-hp-notebook/"><u>Easy Tutorial for Downloading and Using Apps on a Windows 11 Preloaded HP Notebook</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-a-detailed-vpna-fake-gps-location-free-review-on-oneplus-12r-drfone-by-drfone-virtual-android/"><u>In 2024, A Detailed VPNa Fake GPS Location Free Review On OnePlus 12R | Dr.fone</u></a></li>
-<li><a href="https://win-hot.techidaily.com/resolution-transfert-de-donnees-sur-samsung-sans-alterer-la-source-disque-guide-complet/"><u>Résolution : Transfert De Données Sur Samsung Sans Altérer La Source Disque - Guide Complet.</u></a></li>
-<li><a href="https://win-hot.techidaily.com/wie-man-ein-samsung-solid-state-drive-ssd-in-windows-10-oder-11-dupliziert-und-auf-eine-grossere-ssd-ubertragen-kann/"><u>Wie Man Ein Samsung-Solid State Drive (SSD) in Windows 10 Oder 11 Dupliziert Und Auf Eine Größere SSD Übertragen Kann</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/zoom-in-on-subject-scrub-background-cleanly-for-2024/"><u>Zoom In on Subject, Scrub Background Cleanly for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-in-2024-elite-virtual-storage-service-ranking/"><u>[New] In 2024, Elite Virtual Storage Service Ranking</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ptimizing-your-youtube-video-presentation/"><u>[New] Optimizing Your YouTube Video Presentation</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-broadcast-an-episode-to-your-insta-circle/"><u>[Updated] 2024 Approved Broadcast an Episode to Your Insta Circle</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-leading-websites-guide-to-extracting-youtube-template-videos-for-2024/"><u>[Updated] Leading Websites' Guide to Extracting Youtube Template Videos for 2024</u></a></li>
+<li><a href="https://win-hot.techidaily.com/essential-marketing-techniques-for-mobile-disc-jockeys-mastering-the-craft-with-pcdj-tools/"><u>Essential Marketing Techniques for Mobile Disc Jockeys: Mastering the Craft with PCDJ Tools</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/fiery-friendship-keeping-your-snapstreak-hot-and-steady/"><u>Fiery Friendship Keeping Your Snapstreak Hot and Steady</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-lava-blaze-2-phone-without-password-by-drfone-android/"><u>How To Unlock Lava Blaze 2 Phone Without Password?</u></a></li>
+<li><a href="https://win-hot.techidaily.com/navigating-through-windows-11-updates-feature-access-explained/"><u>Navigating Through Windows 11 Updates: Feature Access Explained</u></a></li>
+<li><a href="https://win-hot.techidaily.com/resolving-issues-with-a-malfunctioning-graphics-card-a-comprehensive-guide-by-yl-computing/"><u>Resolving Issues with a Malfunctioning Graphics Card: A Comprehensive Guide by YL Computing</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolving-the-application-error-in-modern-warfare-3-mobile-game-on-cod-platforms/"><u>Resolving the 'Application Error' In Modern Warfare 3 Mobile Game on COD Platforms</u></a></li>
+<li><a href="https://win-hot.techidaily.com/step-by-step-guide-transform-your-excel-spreadsheet-into-a-pdf-on-windows-tips-by-yl-software/"><u>Step-by-Step Guide: Transform Your Excel Spreadsheet Into a PDF on Windows - Tips by YL Software</u></a></li>
+<li><a href="https://win-hot.techidaily.com/top-obstacles-confronting-the-cryptocurrency-sector-insights-from-yl-computing-experts/"><u>Top Obstacles Confronting the Cryptocurrency Sector: Insights From YL Computing Experts</u></a></li>
+<li><a href="https://win-hot.techidaily.com/yl-computing-and-yl-software-decoding-bitmains-bch-address-integration-strategies/"><u>YL Computing & YL Software: Decoding Bitmain's BCH Address Integration Strategies</u></a></li>
 </ul></div>
 
