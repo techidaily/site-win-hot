@@ -1,7 +1,7 @@
 ---
 title: Design Custom Shaders on Shadertoy.com for Enhanced DEX 3 Performance by PCDJ
-date: 2025-02-04T19:14:29.088Z
-updated: 2025-02-08T16:21:46.160Z
+date: 2025-02-16T23:23:13.589Z
+updated: 2025-02-18T23:06:56.287Z
 tags:
   - product
 categories:
@@ -23,7 +23,7 @@ thumbnail: https://thmb.techidaily.com/bd7c586aade6fed49cfda54f6e705ff08c3876c36
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## So what is a ‘Shader’?
@@ -39,7 +39,7 @@ We found this easy-to-follow ‘[Beginner’s Guide to Coding Graphics Shaders](
 [View Guide to Coding Shaders](https://gamedevelopment.tutsplus.com/tutorials/a-beginners-guide-to-coding-graphics-shaders--cms-23313)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Why would I want to create a custom Shader?
@@ -49,7 +49,7 @@ Creating your own custom shader/s for use with DEX 3 is just another way to cust
 If you’re not interested in creating your own custom shaders, no worries, [we’ve compiled a list of shaders that work great in DEX 3 already](https://tools.techidaily.com/pcdj/products/)!
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -71,18 +71,20 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2018/08/customshader-header.jpg?fi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-in-2024-elite-virtual-storage-service-ranking/"><u>[New] In 2024, Elite Virtual Storage Service Ranking</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ptimizing-your-youtube-video-presentation/"><u>[New] Optimizing Your YouTube Video Presentation</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-broadcast-an-episode-to-your-insta-circle/"><u>[Updated] 2024 Approved Broadcast an Episode to Your Insta Circle</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-leading-websites-guide-to-extracting-youtube-template-videos-for-2024/"><u>[Updated] Leading Websites' Guide to Extracting Youtube Template Videos for 2024</u></a></li>
-<li><a href="https://win-hot.techidaily.com/essential-marketing-techniques-for-mobile-disc-jockeys-mastering-the-craft-with-pcdj-tools/"><u>Essential Marketing Techniques for Mobile Disc Jockeys: Mastering the Craft with PCDJ Tools</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/fiery-friendship-keeping-your-snapstreak-hot-and-steady/"><u>Fiery Friendship Keeping Your Snapstreak Hot and Steady</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-lava-blaze-2-phone-without-password-by-drfone-android/"><u>How To Unlock Lava Blaze 2 Phone Without Password?</u></a></li>
-<li><a href="https://win-hot.techidaily.com/navigating-through-windows-11-updates-feature-access-explained/"><u>Navigating Through Windows 11 Updates: Feature Access Explained</u></a></li>
-<li><a href="https://win-hot.techidaily.com/resolving-issues-with-a-malfunctioning-graphics-card-a-comprehensive-guide-by-yl-computing/"><u>Resolving Issues with a Malfunctioning Graphics Card: A Comprehensive Guide by YL Computing</u></a></li>
-<li><a href="https://win-answers.techidaily.com/resolving-the-application-error-in-modern-warfare-3-mobile-game-on-cod-platforms/"><u>Resolving the 'Application Error' In Modern Warfare 3 Mobile Game on COD Platforms</u></a></li>
-<li><a href="https://win-hot.techidaily.com/step-by-step-guide-transform-your-excel-spreadsheet-into-a-pdf-on-windows-tips-by-yl-software/"><u>Step-by-Step Guide: Transform Your Excel Spreadsheet Into a PDF on Windows - Tips by YL Software</u></a></li>
-<li><a href="https://win-hot.techidaily.com/top-obstacles-confronting-the-cryptocurrency-sector-insights-from-yl-computing-experts/"><u>Top Obstacles Confronting the Cryptocurrency Sector: Insights From YL Computing Experts</u></a></li>
-<li><a href="https://win-hot.techidaily.com/yl-computing-and-yl-software-decoding-bitmains-bch-address-integration-strategies/"><u>YL Computing & YL Software: Decoding Bitmain's BCH Address Integration Strategies</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-in-2024-google-viewerscape-vs-samsung-virtual-world/"><u>[New] In 2024, Google Viewerscape Vs. Samsung Virtual World</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-live-on-air-how-to-broadcast-on-youtube-and-twitch-using-obs/"><u>[New] In 2024, Live on Air How to Broadcast on YouTube & Twitch Using OBS</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-peak-level-hd-mastery-in-the-markets-top-recorders/"><u>[New] In 2024, Peak-Level HD Mastery in the Market's Top Recorders</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-optimal-aspect-ratios-for-video-production/"><u>2024 Approved Optimal Aspect Ratios for Video Production</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-top-tactics-for-flawless-solo-streaming-experiences/"><u>2024 Approved Top Tactics for Flawless Solo Streaming Experiences</u></a></li>
+<li><a href="https://win-hot.techidaily.com/download-your-favorite-animes-for-free-the-ultimate-guide-to-top-torrents/"><u>Download Your Favorite Animes for Free: The Ultimate Guide to Top Torrents</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-3-ways-to-change-location-on-facebook-marketplace-for-infinix-hot-30-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Change Location on Facebook Marketplace for Infinix Hot 30 5G | Dr.fone</u></a></li>
+<li><a href="https://win-hot.techidaily.com/1726029613466-p90x-dvd/"><u>P90X DVDコピー技術：高度なフィットネスに勝利しよう!</u></a></li>
+<li><a href="https://win-hot.techidaily.com/transform-your-audio-files-easy-sd2sdii-to-wav-conversion-tips-and-techniques/"><u>Transform Your Audio Files: Easy SD2/SDII to WAV Conversion Tips and Techniques</u></a></li>
+<li><a href="https://win-hot.techidaily.com/troubleshooting-and-repairing-audio-video-decoding-mishaps-in-your-premier-edit-suite/"><u>Troubleshooting and Repairing Audio-Video Decoding Mishaps in Your Premier Edit Suite</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/unlocking-the-art-of-film-preservation-in-tech-era/"><u>Unlocking the Art of Film Preservation in Tech Era</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/wi-fi-mesh-is-its-value-clear/"><u>Wi-Fi Mesh: Is Its Value Clear?</u></a></li>
+<li><a href="https://win-hot.techidaily.com/windows-photos/"><u>Windows Photos アプリによる動画カットテクニック - 簡単ガイド</u></a></li>
+<li><a href="https://win-hot.techidaily.com/44kq44oz44oh44oe44oz44oj44gn44ot44oh44kq44go44kq44o844oh44kj44kq44kz44oz44og44oz44oe44gu44k544og44o844k644gq5yan55sf44ks5a6f54plusplus/"><u>オンデマンドでビデオとオーディオコンテンツのスムーズな再生を実現</u></a></li>
+<li><a href="https://win-hot.techidaily.com/44op44k444kq55wq57we44gu5pmc6zat54sh5yi26zmq6yyy6zplusz5pa55rov77ya5bcc55so44k944ov44oi44km44kn44ki44o744ki44ox44oq44kx44o844k344on44oz44ks44gu5qsc6kio44gp482/"><u>ラジオ番組の時間無制限録音方法：専用ソフトウェア・アプリケーションをご検討ください</u></a></li>
 </ul></div>
 

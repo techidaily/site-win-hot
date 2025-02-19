@@ -1,7 +1,7 @@
 ---
 title: Get the Latest Enhancements for DJ Studio DEX3 & Sing-Along Software LYRX on MacOS - Instant Download
-date: 2025-02-03T19:14:32.303Z
-updated: 2025-02-08T16:49:28.147Z
+date: 2025-02-16T16:47:34.631Z
+updated: 2025-02-18T17:40:55.522Z
 tags:
   - product
 categories:
@@ -21,7 +21,7 @@ thumbnail: https://thmb.techidaily.com/895e63c00991de11c3a5bb60d914f7ce63bcb7f1c
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### PCDJ DEX 3.9.0.5 | Global Support For Party Tyme Karaoke
@@ -29,7 +29,7 @@ thumbnail: https://thmb.techidaily.com/895e63c00991de11c3a5bb60d914f7ce63bcb7f1c
 [LEARN MORE ABOUT DEX 3 ![Party Tyme Karaoke Subscription for DEX 3 karaoke software](https://i1.wp.com/pcdj.com/wp-content/uploads/2017/07/DEX3-PartyTyme.jpg?fit=300%2C169&ssl=1 "Party Tyme Karaoke Subscription for DEX 3 karaoke software")](https://tools.techidaily.com/pcdj/products/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 DEX 3.9.0.5 is now available as a free update for existing DEX 3 owners. Largely a maintenance release with under-the-hood performance improvements, DEX 3 version 3.9.0.5 brings world-wide (with the exemption of Japan) support for the Party Tyme Karaoke Subscription service.
@@ -46,7 +46,7 @@ Stream and/or download from an HD collection of hit karaoke songs from the top p
 [DOWNLOAD DEX 3.9.0.5 FREE TRIAL](https://tools.techidaily.com/pcdj/products/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### LYRX v1.1.1 | Global Support For Party Tyme Karaoke And Ultra-Wide Screen Support
@@ -54,7 +54,7 @@ Stream and/or download from an HD collection of hit karaoke songs from the top p
 [LEARN MORE ABOUT LYRX ![LYRX karaoke program from MAC with karaoke subscription](https://i0.wp.com/pcdj.com/wp-content/uploads/2017/08/LYRX11_screenshot1.png?fit=300%2C188&ssl=1 "LYRX karaoke program from MAC with karaoke subscription")](http://www.lyrxkaraoke.com)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 LYRX version 1.1.1 also brings global support for the Party Tyme Karaoke Subscription (Japan being the only exemption) as well as support for ultra-wide displays (21:9 aspect ratio). A few minor tweaks to the user interface have been applied as well as a few minor bug fixes and various performance improvements.
@@ -75,7 +75,7 @@ LYRX with Party Tyme Karaoke provides KJs and karaoke venues the perfect duet of
 [LEARN MORE ABOUT THE PARTY TYME KARAOKE SUBSCRIPTION](https://tools.techidaily.com/pcdj/products/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -97,22 +97,19 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2017/09/lyrxdex3updatept-coverimag
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/new-straightforward-storyline-outline/"><u>[New] Straightforward Storyline Outline</u></a></li>
-<li><a href="https://win-hot.techidaily.com/begin-your-journey-in-cryptocurrency-a-step-by-step-guide-to-starting-mining-explore-with-yl-computings-comprehensive-tutorial/"><u>Begin Your Journey in Cryptocurrency: A Step-by-Step Guide to Starting Mining - Explore with YL Computing's Comprehensive Tutorial</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/convert-your-gifs-to-avis-for-free-using-online-tools-from-movavi/"><u>Convert Your GIFs to AVIs for Free Using Online Tools From Movavi</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/ddpai-mini3-dashcam-where-quality-meets-enjoyment-on-the-road/"><u>DDPai Mini3 Dashcam - Where Quality Meets Enjoyment on the Road</u></a></li>
-<li><a href="https://win-hot.techidaily.com/download-the-latest-dex-31-free-update-now-enhanced-features-from-pioneer-dj/"><u>Download the Latest DEX 3.1 Free Update Now - Enhanced Features From Pioneer DJ</u></a></li>
-<li><a href="https://win-hot.techidaily.com/guarding-against-invisible-dangers-expert-tips-for-detecting-and-stopping-computer-spyware-insights-from-yl-software/"><u>Guarding Against Invisible Dangers: Expert Tips for Detecting and Stopping Computer Spyware – Insights From YL Software</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-do-i-stop-someone-from-tracking-my-vivo-y78plus-drfone-by-drfone-virtual-android/"><u>How Do I Stop Someone From Tracking My Vivo Y78+? | Dr.fone</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-a-quick-guide-to-oneplus-12r-frp-bypass-instantly-by-drfone-android/"><u>In 2024, A Quick Guide to OnePlus 12R FRP Bypass Instantly</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-a-strategic-approach-to-increase-likes-on-your-tiktok-video-content/"><u>In 2024, A Strategic Approach to Increase 'Likes' On Your TikTok Video Content</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-overview-of-the-best-realme-narzo-n53-screen-mirroring-app-drfone-by-drfone-android/"><u>In 2024, Overview of the Best Realme Narzo N53 Screen Mirroring App | Dr.fone</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/instagrams-video-selfie-truthfulness-a-critical-look-for-2024/"><u>Instagram's Video Selfie Truthfulness – A Critical Look for 2024</u></a></li>
-<li><a href="https://win-hot.techidaily.com/master-the-art-of-navigating-through-windows-to-find-specific-files-or-directories-with-yl-software-solutions/"><u>Master the Art of Navigating Through Windows to Find Specific Files or Directories with YL Software Solutions</u></a></li>
-<li><a href="https://win-hot.techidaily.com/setting-up-parental-controls-and-user-profiles-a-comprehensive-guide-with-yl-computing-software-solutions/"><u>Setting Up Parental Controls & User Profiles: A Comprehensive Guide with YL Computing Software Solutions</u></a></li>
-<li><a href="https://win-hot.techidaily.com/solving-windows-cd-rom-drives-issues-expert-tips-from-yl-software-experts/"><u>Solving Windows CD-ROM Drives Issues - Expert Tips From YL Software Experts</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/top-picks-essential-products-every-entrepreneur-must-own-for-2024/"><u>Top Picks Essential Products Every Entrepreneur Must Own for 2024</u></a></li>
-<li><a href="https://win-hot.techidaily.com/yl-software-insights-mastering-parental-restrictions-on-your-pc-with-the-windows-control-panel/"><u>YL Software Insights: Mastering Parental Restrictions on Your PC with the Windows Control Panel</u></a></li>
-<li><a href="https://win-hot.techidaily.com/yl-software-solutions-addressing-your-printers-reduced-printing-velocity-issues/"><u>YL Software Solutions: Addressing Your Printer's Reduced Printing Velocity Issues</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-elite-ambiance-picks-for-real-time-viewers/"><u>[New] In 2024, Elite Ambiance Picks for Real-Time Viewers</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-secret-strategies-streamlining-your-stylizing-skills/"><u>[New] Secret Strategies Streamlining Your Stylizing Skills</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-capturing-champions-faceoff/"><u>[Updated] 2024 Approved Capturing Champions Faceoff</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-capturing-creativity-mobile-gadgets-ranking-leaders/"><u>[Updated] Capturing Creativity Mobile Gadgets Ranking Leaders</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-the-revolutionary-features-of-intova-x-for-2024/"><u>[Updated] The Revolutionary Features of Intova X for 2024</u></a></li>
+<li><a href="https://win-hot.techidaily.com/discover-the-top-ranking-free-sms-organizers-for-your-android-device/"><u>Discover the Top-Ranking Free SMS Organizers for Your Android Device</u></a></li>
+<li><a href="https://win-hot.techidaily.com/expert-tips-for-retrieving-and-reinstating-files-from-an-ipod-device/"><u>Expert Tips for Retrieving and Reinstating Files From an iPod Device</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/live-streaming-mastery-with-manycam-top-virtual-camera-software-solutions/"><u>Live Streaming Mastery with ManyCam: Top Virtual Camera Software Solutions</u></a></li>
+<li><a href="https://win-hot.techidaily.com/mastering-the-art-of-slicing-a-comprehensive-guide-to-vertical-video-editing/"><u>Mastering the Art of Slicing: A Comprehensive Guide to Vertical Video Editing</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/save-big-easy-explore-our-top-picks-for-money-saving-coupon-sites/"><u>Save Big Easy: Explore Our Top Picks for Money-Saving Coupon Sites</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/secret-methods-to-hide-windows-11s-language-indicator/"><u>Secret Methods to Hide Windows 11'S Language Indicator</u></a></li>
+<li><a href="https://win-hot.techidaily.com/step-by-step-process-shifting-audio-files-from-an-iphone-onto-a-galaxy-s5/"><u>Step-by-Step Process: Shifting Audio Files From an iPhone Onto a Galaxy S5</u></a></li>
+<li><a href="https://win-hot.techidaily.com/top-three-no-cost-methods-to-reduce-your-images-digital-footprint/"><u>Top Three No-Cost Methods to Reduce Your Image's Digital Footprint</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unlock-your-digital-potential-with-the-new-ipad-air-10th-generation-at-only-250-post-apple-announcement-insights/"><u>Unlock Your Digital Potential with the New iPad Air (10Th Generation) at Only $250 Post-Apple Announcement - Insights</u></a></li>
 </ul></div>
 
