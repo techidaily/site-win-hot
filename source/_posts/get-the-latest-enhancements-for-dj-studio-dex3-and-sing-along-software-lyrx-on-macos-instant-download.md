@@ -1,7 +1,7 @@
 ---
 title: Get the Latest Enhancements for DJ Studio DEX3 & Sing-Along Software LYRX on MacOS - Instant Download
-date: 2025-02-16T16:47:34.631Z
-updated: 2025-02-18T17:40:55.522Z
+date: 2025-03-03T08:37:47.793Z
+updated: 2025-03-07T05:22:44.701Z
 tags:
   - product
 categories:
@@ -20,17 +20,9 @@ thumbnail: https://thmb.techidaily.com/895e63c00991de11c3a5bb60d914f7ce63bcb7f1c
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### PCDJ DEX 3.9.0.5 | Global Support For Party Tyme Karaoke
 
 [LEARN MORE ABOUT DEX 3 ![Party Tyme Karaoke Subscription for DEX 3 karaoke software](https://i1.wp.com/pcdj.com/wp-content/uploads/2017/07/DEX3-PartyTyme.jpg?fit=300%2C169&ssl=1 "Party Tyme Karaoke Subscription for DEX 3 karaoke software")](https://tools.techidaily.com/pcdj/products/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 DEX 3.9.0.5 is now available as a free update for existing DEX 3 owners. Largely a maintenance release with under-the-hood performance improvements, DEX 3 version 3.9.0.5 brings world-wide (with the exemption of Japan) support for the Party Tyme Karaoke Subscription service.
 
@@ -45,17 +37,9 @@ Stream and/or download from an HD collection of hit karaoke songs from the top p
 
 [DOWNLOAD DEX 3.9.0.5 FREE TRIAL](https://tools.techidaily.com/pcdj/products/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### LYRX v1.1.1 | Global Support For Party Tyme Karaoke And Ultra-Wide Screen Support
 
 [LEARN MORE ABOUT LYRX ![LYRX karaoke program from MAC with karaoke subscription](https://i0.wp.com/pcdj.com/wp-content/uploads/2017/08/LYRX11_screenshot1.png?fit=300%2C188&ssl=1 "LYRX karaoke program from MAC with karaoke subscription")](http://www.lyrxkaraoke.com)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 LYRX version 1.1.1 also brings global support for the Party Tyme Karaoke Subscription (Japan being the only exemption) as well as support for ultra-wide displays (21:9 aspect ratio). A few minor tweaks to the user interface have been applied as well as a few minor bug fixes and various performance improvements.
 
@@ -73,10 +57,6 @@ LYRX with Party Tyme Karaoke provides KJs and karaoke venues the perfect duet of
 [DOWNLOAD LYRX V1.1.1 FREE TRIAL](http://lyrxkaraoke.com/free-trial-2/)
 
 [LEARN MORE ABOUT THE PARTY TYME KARAOKE SUBSCRIPTION](https://tools.techidaily.com/pcdj/products/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### _Related_
 
@@ -97,19 +77,24 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2017/09/lyrxdex3updatept-coverimag
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-in-2024-elite-ambiance-picks-for-real-time-viewers/"><u>[New] In 2024, Elite Ambiance Picks for Real-Time Viewers</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-secret-strategies-streamlining-your-stylizing-skills/"><u>[New] Secret Strategies Streamlining Your Stylizing Skills</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-capturing-champions-faceoff/"><u>[Updated] 2024 Approved Capturing Champions Faceoff</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-capturing-creativity-mobile-gadgets-ranking-leaders/"><u>[Updated] Capturing Creativity Mobile Gadgets Ranking Leaders</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-the-revolutionary-features-of-intova-x-for-2024/"><u>[Updated] The Revolutionary Features of Intova X for 2024</u></a></li>
-<li><a href="https://win-hot.techidaily.com/discover-the-top-ranking-free-sms-organizers-for-your-android-device/"><u>Discover the Top-Ranking Free SMS Organizers for Your Android Device</u></a></li>
-<li><a href="https://win-hot.techidaily.com/expert-tips-for-retrieving-and-reinstating-files-from-an-ipod-device/"><u>Expert Tips for Retrieving and Reinstating Files From an iPod Device</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/live-streaming-mastery-with-manycam-top-virtual-camera-software-solutions/"><u>Live Streaming Mastery with ManyCam: Top Virtual Camera Software Solutions</u></a></li>
-<li><a href="https://win-hot.techidaily.com/mastering-the-art-of-slicing-a-comprehensive-guide-to-vertical-video-editing/"><u>Mastering the Art of Slicing: A Comprehensive Guide to Vertical Video Editing</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/save-big-easy-explore-our-top-picks-for-money-saving-coupon-sites/"><u>Save Big Easy: Explore Our Top Picks for Money-Saving Coupon Sites</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/secret-methods-to-hide-windows-11s-language-indicator/"><u>Secret Methods to Hide Windows 11'S Language Indicator</u></a></li>
-<li><a href="https://win-hot.techidaily.com/step-by-step-process-shifting-audio-files-from-an-iphone-onto-a-galaxy-s5/"><u>Step-by-Step Process: Shifting Audio Files From an iPhone Onto a Galaxy S5</u></a></li>
-<li><a href="https://win-hot.techidaily.com/top-three-no-cost-methods-to-reduce-your-images-digital-footprint/"><u>Top Three No-Cost Methods to Reduce Your Image's Digital Footprint</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/unlock-your-digital-potential-with-the-new-ipad-air-10th-generation-at-only-250-post-apple-announcement-insights/"><u>Unlock Your Digital Potential with the New iPad Air (10Th Generation) at Only $250 Post-Apple Announcement - Insights</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-inshot-vs-other-editors-a-comprehensive-analysis/"><u>[New] InShot vs Other Editors A Comprehensive Analysis</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-detailed-explanation-of-youtubes-operation-after-a-video-goes-live/"><u>[Updated] 2024 Approved Detailed Explanation of YouTube's Operation After a Video Goes Live</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-instantly-accessorizing-ios-and-android-with-whatsapp-ringtones/"><u>[Updated] In 2024, Instantly Accessorizing iOS and Android with WhatsApp Ringtones</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/849-us-release-of-dasungs-paperlike-color-touchscreen-monitor-12-inch-stylish-design-and-sharp-2560x1600-resolution/"><u>$849 U.S. Release of Dasung's Paperlike Color Touchscreen Monitor – 12-Inch, Stylish Design & Sharp 2560X1600 Resolution</u></a></li>
+<li><a href="https://win-hot.techidaily.com/7iphone/"><u>7最も効果的なテクニック:パソコンからiPhoneへの写真転送</u></a></li>
+<li><a href="https://win-hot.techidaily.com/windows-11-20/"><u>復原 Windows 11 突然失效的複製與粘貼功能：探索20種有效解決方式</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/amplify-your-content-increase-your-subs-quickly/"><u>Amplify Your Content, Increase Your Subs Quickly</u></a></li>
+<li><a href="https://win-hot.techidaily.com/comment-retrouver-des-fichiers-disparus-suite-a-une-reinstallation-de-windows-11/"><u>Comment Retrouver Des Fichiers Disparus Suite À Une Reinstallation De Windows 11 ?</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/effective-pc-cooling-solutions-understanding-the-differences-between-pwm-and-dc-fans/"><u>Effective PC Cooling Solutions: Understanding the Differences Between PWM & DC Fans</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-stuck-keyboard-buttons-on-windows-pcs-a-comprehensive-guide/"><u>Fixing Stuck Keyboard Buttons on Windows PCs: A Comprehensive Guide</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-remove-phone-number-from-your-apple-id-from-your-iphone-6-plus-by-drfone-ios/"><u>How To Remove Phone Number From Your Apple ID from Your iPhone 6 Plus?</u></a></li>
+<li><a href="https://win-hot.techidaily.com/how-to-safeguard-windows-7-hdd/"><u>How To Safeguard Windows 지원 7 데이터: 외부 HDD 백업</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-different-methods-to-unlock-your-apple-iphone-12-pro-max-drfone-by-drfone-ios/"><u>In 2024, Different Methods To Unlock Your Apple iPhone 12 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://win-hot.techidaily.com/issue-corrected-remaining-unused-storage-after-hard-drive-duplication-process/"><u>Issue Corrected: Remaining Unused Storage After Hard Drive Duplication Process</u></a></li>
+<li><a href="https://win-hot.techidaily.com/mastering-account-recovery-changing-your-password-with-windows-setup-media/"><u>Mastering Account Recovery: Changing Your Password with Windows Setup Media</u></a></li>
+<li><a href="https://win-hot.techidaily.com/1728479471838-samsung/"><u>Samsung 資料夾移行時產生了什麼問題？深入探究克隆過程中的反應問題</u></a></li>
+<li><a href="https://win-hot.techidaily.com/siehste-beste-raw-image-datenbankprogramme-fur-windows-vergleich-von-hdd-tools-unter-win11-10-8-and-7/"><u>Siehste Beste RAW-Image-Datenbankprogramme Für Windows: Vergleich Von HDD Tools Unter Win11, 10, 8 & 7.</u></a></li>
+<li><a href="https://win-hot.techidaily.com/wie-rettet-man-eine-externes-laufwerk-ohne-datentyp-das-nicht-formatiert-werden-kann/"><u>Wie Rettet Man Eine Externes Laufwerk Ohne Datentyp, Das Nicht Formatiert Werden Kann?</u></a></li>
+<li><a href="https://win-answers.techidaily.com/winning-over-windows-11-gaming-glitches-with-steam-solutions/"><u>Winning Over Windows 11 Gaming Glitches with Steam Solutions</u></a></li>
 </ul></div>
 

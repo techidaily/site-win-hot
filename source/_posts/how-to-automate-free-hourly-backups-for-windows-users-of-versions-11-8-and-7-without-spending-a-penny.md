@@ -1,7 +1,7 @@
 ---
 title: How to Automate Free Hourly Backups for Windows Users of Versions 11, 8 & 7 Without Spending a Penny!
-date: 2025-02-13T21:14:25.107Z
-updated: 2025-02-18T22:41:37.902Z
+date: 2025-03-03T07:51:02.444Z
+updated: 2025-03-06T21:43:50.157Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/11e98257d7e7257e5883dcc5757d573b33d04f0ecfefae2f5882a90863822c25.png
@@ -24,17 +24,9 @@ This page covers 4 ways on how to recover files from ransomware and offers some 
 
 ![Kelsey](https://www.ubackup.com/assets/images/author/kelsey-avatar.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 By[Kelsey](https://tools.techidaily.com/ubackup/products/)/ Updated on April 2, 2024
 
 Share this: [![facebook](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-fb-24.svg)](https://www.ubackup.com/data-recovery-disk/javascript:void%280%29;) [![twitter](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-tw-24.svg)](https://www.ubackup.com/data-recovery-disk/javascript:void%280%29;) [![instagram](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-in-24.svg)](https://www.ubackup.com/data-recovery-disk/javascript:void%280%29;) [![reddit](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-reddit-24.svg)](https://www.ubackup.com/data-recovery-disk/javascript:void%280%29;) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Table of Contents** 
 
@@ -56,21 +48,9 @@ If you are looking for methods on how to recover ransomware-infected files, you 
 
 [![Recover Files From Ransomware](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/others/recover-files-from-ransomware.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to recover files from ransomware attack in 4 ways
 
 Many solutions are available for you to solve how to recover data from ransomware attacks. We have selected some easy-to-implement methods for you. Read below for detailed information. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Method 1\. Recover files from ransomware with data recovery software
 
@@ -92,10 +72,6 @@ Run MyRecover, hover the mouse over the drive and click **Scan** to scan.. If yo
 
 [![Select Partition To Scan](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows-recovery/select-partition-to-scan.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 2\. Locate and preview your lost/deleted files**
 
 The recovery tool will automatically start looking for all the deleted and lost files.
@@ -107,14 +83,6 @@ The recovery tool will automatically start looking for all the deleted and lost 
 You can expand the Deleted files folder and Other missing files folder to select the desired items, then click **Recover x files** to begin ransomware attack recovery now.
 
 [![Select Deleted Excel Files Click Recover](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows-recovery/select-deleted-excel-files-click-recover.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Method 2\. Recover ransomware infected files via Backup and Restore
 
@@ -141,10 +109,6 @@ If you have used File History to save a copy of your precious data, you can foll
 Step 1\. Go to **Control Panel** \> **System and Security**, and click on **File History**.
 
 [![File History](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows/file-history.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step 2\. Press the **Restore personal files** button on the left panel. Please make sure your File History is turned on.
 
@@ -207,10 +171,6 @@ Was the provided information useful? Your vote is important to us!
 
 Kelsey is an English editor of AOMEI Technology. She is passionate about helping people find effective ways to deal with all problems in computer. She has great insights into data backup and recovery, disk partition and clone, and other data protection measures. She likes learn computer skills to improve herself and enjoy quality time with family and friends. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Related Articles
 
 ##### [How to Recover Files from Hard Drive Using CMD? Easy & Free!](https://tools.techidaily.com/ubackup/products/)
@@ -256,18 +216,22 @@ Recover deleted & lost data from any disasters in Windows.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-quick-intro-to-instagram-video-chat/"><u>[Updated] 2024 Approved Quick Intro to Instagram Video Chat</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-srt-to-txt-mastery-the-2023-guide-for-rapid-changeover/"><u>[Updated] In 2024, SRT to TXT Mastery The 2023 Guide for Rapid Changeover</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-navigating-17-essential-steps-for-capturing-live-online-streams/"><u>[Updated] Navigating 17 Essential Steps for Capturing Live Online Streams</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/2024-approved-best-of-the-best-compilation-of-top-10-4k-phone-cameras/"><u>2024 Approved Best of the Best Compilation of Top 10 4K Phone Cameras</u></a></li>
-<li><a href="https://win-hot.techidaily.com/1728490120410-onedrive4/"><u>一针见红：如何找到已从回收站中移除的OneDrive文件（4种有效策略）</u></a></li>
-<li><a href="https://win-hot.techidaily.com/effiziente-strategien-zur-sicherung-ihrer-daten-auf-einem-network-attached-storage/"><u>Effiziente Strategien Zur Sicherung Ihrer Daten Auf Einem Network Attached Storage</u></a></li>
-<li><a href="https://win-hot.techidaily.com/guida-per-reimpostare-e-recuperare-file-cancellati-accidentalmente-in-windows-11/"><u>Guida per Reimpostare E Recuperare File Cancellati Accidentalmente in Windows 11</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-unlock-honor-magic-vs-2-phone-without-any-data-loss-by-drfone-android/"><u>How to Unlock Honor Magic Vs 2 Phone without Any Data Loss</u></a></li>
-<li><a href="https://win11.techidaily.com/journey-to-top-level-user-rights-in-windows-control/"><u>Journey to Top-Level User Rights in Windows Control</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-get-rid-of-tiktok-watermarks-the-best-online-removal-methods/"><u>New In 2024, Get Rid of TikTok Watermarks The Best Online Removal Methods</u></a></li>
-<li><a href="https://win-hot.techidaily.com/recupere-sus-archivos-perdidos-en-windows-7-las-4-tecnicas-mas-efectivas/"><u>Recupere Sus Archivos Perdidos en Windows 7: Las 4 Técnicas Más Efectivas</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/swagtrn-electric-scooter-assessment-a-stylish-solution-for-daily-travels/"><u>Swagtrn Electric Scooter Assessment - A Stylish Solution for Daily Travels</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ate-livestream-setup-reviews-on-the-top-livestream-tools-and-devices-for-2024/"><u>Ultimate Livestream Setup Reviews on the Top Livestream Tools and Devices for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-action-unleashed-the-latest-in-filmmaking-from-polaroids-xs/"><u>[New] Action Unleashed The Latest in Filmmaking From Polaroid's XS</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-constructing-captivating-valorant-youtube-thumbnails/"><u>[Updated] In 2024, Constructing Captivating Valorant YouTube Thumbnails</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/adding-new-games-to-your-nes-classic-console-with-ease/"><u>Adding New Games to Your NES Classic Console with Ease</u></a></li>
+<li><a href="https://win-hot.techidaily.com/best-antivirus-solutions-reviewed-expert-advice-from-yl-software-experts/"><u>Best Antivirus Solutions Reviewed: Expert Advice From YL Software Experts</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/elevate-editing-by-adding-sounds-into-premiere-pro/"><u>Elevate Editing by Adding Sounds Into Premiere Pro</u></a></li>
+<li><a href="https://win-hot.techidaily.com/enhance-visual-experience-mastering-the-art-of-modifying-screen-resolution-in-windows-with-yl-computing-software-insights/"><u>Enhance Visual Experience: Mastering the Art of Modifying Screen Resolution in Windows with YL Computing Software Insights</u></a></li>
+<li><a href="https://win-hot.techidaily.com/high-definition-captain-america-wallpaper-and-screen-saver-graphics-premium-visuals-by-yl-software/"><u>High-Definition Captain America Wallpaper & Screen Saver Graphics - Premium Visuals by YL Software</u></a></li>
+<li><a href="https://win-hot.techidaily.com/high-quality-wedding-wallpaper-hd-backgrounds-and-imagery-premium-selection-by-yl-computing/"><u>High-Quality Wedding Wallpaper HD Backgrounds & Imagery - Premium Selection by YL Computing</u></a></li>
+<li><a href="https://article-tips.techidaily.com/in-2024-identifying-affordable-cloud-providers-for-businesses/"><u>In 2024, Identifying Affordable Cloud Providers for Businesses</u></a></li>
+<li><a href="https://facebook.techidaily.com/proactive-strategies-for-discovering-next-level-social-circles/"><u>Proactive Strategies for Discovering Next-Level Social Circles</u></a></li>
+<li><a href="https://win-hot.techidaily.com/troubleshooting-guide-identifying-problems-with-a-malfunctioning-gpu-expert-advice-from-yl-computing/"><u>Troubleshooting Guide: Identifying Problems with a Malfunctioning GPU - Expert Advice From YL Computing</u></a></li>
+<li><a href="https://win-hot.techidaily.com/troubleshooting-steps-when-your-pc-fails-to-start-post-driver-upgrade-insights-by-yl-computing/"><u>Troubleshooting Steps When Your PC Fails to Start Post-Driver Upgrade - Insights by YL Computing</u></a></li>
+<li><a href="https://win-hot.techidaily.com/ultimate-trick-for-permanent-file-deletion-expert-advice-by-yl-software-professionals/"><u>Ultimate Trick for Permanent File Deletion: Expert Advice by YL Software Professionals</u></a></li>
+<li><a href="https://discover-forum.techidaily.com/unraveling-the-truth-is-adult-content-online-a-breeding-ground-for-malware/"><u>Unraveling the Truth: Is Adult Content Online a Breeding Ground for Malware?</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/unveiling-the-deals-on-health-gadgets-in-depth-look-at-the-fitbit-versa-lite/"><u>Unveiling the Deals on Health Gadgets - In-Depth Look at the Fitbit Versa Lite</u></a></li>
+<li><a href="https://win-hot.techidaily.com/unveiling-the-mind-behind-bitcoin-a-glimpse-into-yl-computings-role/"><u>Unveiling the Mind Behind Bitcoin: A Glimpse Into YL Computing's Role</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/velocity-ventures-discover-the-freshest-5-virtual-race-titles-for-2024/"><u>Velocity Ventures Discover the Freshest 5 Virtual Race Titles for 2024</u></a></li>
 </ul></div>
 

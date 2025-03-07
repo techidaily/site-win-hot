@@ -1,7 +1,7 @@
 ---
 title: Design Custom Shaders on Shadertoy.com for Enhanced DEX 3 Performance by PCDJ
-date: 2025-02-16T23:23:13.589Z
-updated: 2025-02-18T23:06:56.287Z
+date: 2025-03-04T19:51:25.725Z
+updated: 2025-03-07T01:23:11.757Z
 tags:
   - product
 categories:
@@ -22,10 +22,6 @@ thumbnail: https://thmb.techidaily.com/bd7c586aade6fed49cfda54f6e705ff08c3876c36
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## So what is a ‘Shader’?
 
 > From [Wikipedia](https://en.wikipedia.org/wiki/Shader): _“In [computer graphics](https://en.wikipedia.org/wiki/Computer%5Fgraphics "Computer graphics"), a **shader** is a type of [computer program](https://en.wikipedia.org/wiki/Computer%5Fprogram "Computer program") that was originally used for [shading](https://en.wikipedia.org/wiki/Shading "Shading") (the production of appropriate levels of light, darkness, and color within an image) but which now performs a variety of specialized functions in various fields of computer graphics [special effects](https://en.wikipedia.org/wiki/Special%5Feffects "Special effects") or does [video post-processing](https://en.wikipedia.org/wiki/Video%5Fpost-processing "Video post-processing") unrelated to shading, or even functions unrelated to graphics at all.”_
@@ -38,19 +34,11 @@ We found this easy-to-follow ‘[Beginner’s Guide to Coding Graphics Shaders](
 
 [View Guide to Coding Shaders](https://gamedevelopment.tutsplus.com/tutorials/a-beginners-guide-to-coding-graphics-shaders--cms-23313)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Why would I want to create a custom Shader?
 
 Creating your own custom shader/s for use with DEX 3 is just another way to customize your DJ events, creating a more memorable and branded experience for your audience. It’s competitive out there, and with customer shaders you can help further your brand recognition and leave a lasting impression that will help you garner more interest in your services.
 
 If you’re not interested in creating your own custom shaders, no worries, [we’ve compiled a list of shaders that work great in DEX 3 already](https://tools.techidaily.com/pcdj/products/)!
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### _Related_
 
@@ -71,20 +59,22 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2018/08/customshader-header.jpg?fi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-in-2024-google-viewerscape-vs-samsung-virtual-world/"><u>[New] In 2024, Google Viewerscape Vs. Samsung Virtual World</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-live-on-air-how-to-broadcast-on-youtube-and-twitch-using-obs/"><u>[New] In 2024, Live on Air How to Broadcast on YouTube & Twitch Using OBS</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-in-2024-peak-level-hd-mastery-in-the-markets-top-recorders/"><u>[New] In 2024, Peak-Level HD Mastery in the Market's Top Recorders</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/2024-approved-optimal-aspect-ratios-for-video-production/"><u>2024 Approved Optimal Aspect Ratios for Video Production</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/2024-approved-top-tactics-for-flawless-solo-streaming-experiences/"><u>2024 Approved Top Tactics for Flawless Solo Streaming Experiences</u></a></li>
-<li><a href="https://win-hot.techidaily.com/download-your-favorite-animes-for-free-the-ultimate-guide-to-top-torrents/"><u>Download Your Favorite Animes for Free: The Ultimate Guide to Top Torrents</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-3-ways-to-change-location-on-facebook-marketplace-for-infinix-hot-30-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Change Location on Facebook Marketplace for Infinix Hot 30 5G | Dr.fone</u></a></li>
-<li><a href="https://win-hot.techidaily.com/1726029613466-p90x-dvd/"><u>P90X DVDコピー技術：高度なフィットネスに勝利しよう!</u></a></li>
-<li><a href="https://win-hot.techidaily.com/transform-your-audio-files-easy-sd2sdii-to-wav-conversion-tips-and-techniques/"><u>Transform Your Audio Files: Easy SD2/SDII to WAV Conversion Tips and Techniques</u></a></li>
-<li><a href="https://win-hot.techidaily.com/troubleshooting-and-repairing-audio-video-decoding-mishaps-in-your-premier-edit-suite/"><u>Troubleshooting and Repairing Audio-Video Decoding Mishaps in Your Premier Edit Suite</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/unlocking-the-art-of-film-preservation-in-tech-era/"><u>Unlocking the Art of Film Preservation in Tech Era</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/wi-fi-mesh-is-its-value-clear/"><u>Wi-Fi Mesh: Is Its Value Clear?</u></a></li>
-<li><a href="https://win-hot.techidaily.com/windows-photos/"><u>Windows Photos アプリによる動画カットテクニック - 簡単ガイド</u></a></li>
-<li><a href="https://win-hot.techidaily.com/44kq44oz44oh44oe44oz44oj44gn44ot44oh44kq44go44kq44o844oh44kj44kq44kz44oz44og44oz44oe44gu44k544og44o844k644gq5yan55sf44ks5a6f54plusplus/"><u>オンデマンドでビデオとオーディオコンテンツのスムーズな再生を実現</u></a></li>
-<li><a href="https://win-hot.techidaily.com/44op44k444kq55wq57we44gu5pmc6zat54sh5yi26zmq6yyy6zplusz5pa55rov77ya5bcc55so44k944ov44oi44km44kn44ki44o744ki44ox44oq44kx44o844k344on44oz44ks44gu5qsc6kio44gp482/"><u>ラジオ番組の時間無制限録音方法：専用ソフトウェア・アプリケーションをご検討ください</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-memories-maker-efficiently-download-tweeted-media-content/"><u>[New] 2024 Approved Memories Maker Efficiently Download Tweeted Media Content</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-exploring-the-updated-windows-11-interface/"><u>[Updated] Exploring the Updated Windows 11 Interface</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-the-powerhouse-of-4k-reviewing-the-nikon-j5-camera/"><u>[Updated] In 2024, The Powerhouse of 4K Reviewing the Nikon J5 Camera</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-unwind-and-capture-your-games-in-peace/"><u>2024 Approved Unwind and Capture Your Games in Peace</u></a></li>
+<li><a href="https://win-hot.techidaily.com/capturing-your-macs-display-in-el-capitan-the-ultimate-tutorial-for-easy-screenshots/"><u>Capturing Your Mac's Display in El Capitan: The Ultimate Tutorial for Easy Screenshots</u></a></li>
+<li><a href="https://win-hot.techidaily.com/demystifying-cyber-threats-understanding-zero-day-assaults-with-expert-insights-from-malwarefox/"><u>Demystifying Cyber Threats: Understanding Zero-Day Assaults with Expert Insights From MalwareFox</u></a></li>
+<li><a href="https://blog-min.techidaily.com/guia-completa-aprender-a-sobreponer-diferentes-contenidos-de-video-para-su-canal-de-youtube-and-charlas-efectivas/"><u>Guía Completa: Aprender a Sobreponer Diferentes Contenidos De Video Para Su Canal De Youtube & Charlas Efectivas</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/honor-data-retrieval-tool-restore-lost-data-from-honor-x50iplus-by-fonelab-android-recover-data/"><u>Honor Data Retrieval tool – restore lost data from Honor X50i+</u></a></li>
+<li><a href="https://win-hot.techidaily.com/how-to-efficiently-shrink-mov-video-files-without-spending-a-penny/"><u>How to Efficiently Shrink MOV Video Files Without Spending a Penny</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-smart-picks-user-friendly-bd-software-for-pc-and-mac/"><u>In 2024, Smart Picks User-Friendly BD Software for PC and Mac</u></a></li>
+<li><a href="https://win-hot.techidaily.com/is-windows-defender-effective-in-identifying-threats-insights-from-malwarefox/"><u>Is Windows Defender Effective in Identifying Threats? Insights From MalwareFox</u></a></li>
+<li><a href="https://win-hot.techidaily.com/protecting-pdf-documents-effective-and-simple-strategies-using-passwords/"><u>Protecting PDF Documents: Effective and Simple Strategies Using Passwords</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/speak-fluent-snapchat-a-complete-compendium-of-emoji-interpretations/"><u>Speak Fluent Snapchat: A Complete Compendium of Emoji Interpretations</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-tutorial-on-applying-excels-future-value-fv-financial-function/"><u>Step-by-Step Tutorial on Applying Excel's Future Value (FV) Financial Function</u></a></li>
+<li><a href="https://win-hot.techidaily.com/troubleshooting-steps-to-resolve-apowerrec-malfunctioning-record-capabilities/"><u>Troubleshooting Steps to Resolve aPowerREC Malfunctioning Record Capabilities</u></a></li>
+<li><a href="https://win-hot.techidaily.com/ultimate-guide-mastering-the-art-of-playing-bud-on-your-computer/"><u>Ultimate Guide: Mastering the Art of Playing Bud on Your Computer</u></a></li>
+<li><a href="https://win-hot.techidaily.com/ultimate-pc-safeguard-preventing-unwanted-access-with-pc-locker/"><u>Ultimate PC Safeguard: Preventing Unwanted Access with PC Locker</u></a></li>
 </ul></div>
 

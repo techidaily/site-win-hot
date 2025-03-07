@@ -1,7 +1,7 @@
 ---
 title: "Mastering DEX 3: Guide to Setting Up Dual Monitor Configuration for Audio/Video Streaming"
-date: 2025-02-12T17:09:35.098Z
-updated: 2025-02-18T22:15:24.385Z
+date: 2025-03-06T00:18:06.558Z
+updated: 2025-03-07T08:07:35.810Z
 tags:
   - product
 categories:
@@ -18,10 +18,6 @@ Our [best DJ software](https://tools.techidaily.com/pcdj/products/) solution for
 Since you only want your audience to view the mixed music video output, or the karaoke lyrics, and not DEX 3 itself — you need to configure your MAC or Windows display for “Extended Display Mode”. Extended display mode allows you to send the mixed video/karaoke lyrics output only to a second display or projector, while you’re able to perform with DEX 3 on your on display, The audience won’t see that, only the full screen video or lyrics.
 
 #### DEX 3 DJ SOFTWARE TUTORIAL VIDEO: HOW TO SETUP SECOND DISPLAY FOR VIDEO OR KARAOKE ONLY OUTPUT
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### _Related_
 
@@ -42,24 +38,15 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2014/10/videonly-coverimage.jpg?fi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-navigating-video-uploads-and-enhancements-in-instagram/"><u>[New] Navigating Video Uploads and Enhancements in Instagram</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-expert-dj-tools-for-windows/"><u>[Updated] Expert DJ Tools for Windows</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-in-2024-uncompromised-audio-with-ffmpegs-extraction-features/"><u>[Updated] In 2024, Uncompromised Audio with FFmpeg's Extraction Features</u></a></li>
-<li><a href="https://win-hot.techidaily.com/1728490120410-onedrive4/"><u>一针见红：如何找到已从回收站中移除的OneDrive文件（4种有效策略）</u></a></li>
-<li><a href="https://win-hot.techidaily.com/come-recuperare-video-gopro-eliminati-una-guida-approfondita-e-aggiornata-al-2024/"><u>Come Recuperare Video GoPro Eliminati: Una Guida Approfondita E Aggiornata Al 2024</u></a></li>
-<li><a href="https://win-hot.techidaily.com/effiziente-strategien-zur-sicherung-ihrer-daten-auf-einem-network-attached-storage/"><u>Effiziente Strategien Zur Sicherung Ihrer Daten Auf Einem Network Attached Storage</u></a></li>
-<li><a href="https://win-hot.techidaily.com/guida-per-reimpostare-e-recuperare-file-cancellati-accidentalmente-in-windows-11/"><u>Guida per Reimpostare E Recuperare File Cancellati Accidentalmente in Windows 11</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-change-spotify-location-after-moving-to-another-country-on-xiaomi-14-drfone-by-drfone-virtual-android/"><u>How to Change Spotify Location After Moving to Another Country On Xiaomi 14 | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-fake-gps-on-vivo-y78plus-for-mobile-legends-drfone-by-drfone-virtual-android/"><u>How To Fake GPS On Vivo Y78+ For Mobile Legends? | Dr.fone</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-advanced-guide-to-online-image-sharpening/"><u>In 2024, Advanced Guide to Online Image Sharpening</u></a></li>
-<li><a href="https://win-hot.techidaily.com/instant-guide-reactivating-the-previous-versions-tool-in-windows-11-systems/"><u>Instant Guide: Reactivating the Previous Versions Tool in Windows 11 Systems</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/live-and-record-flawlessly-find-the-best-conference-tech-today/"><u>Live and Record Flawlessly - Find the Best Conference Tech Today</u></a></li>
-<li><a href="https://win-hot.techidaily.com/onthouden-van-stemmemos-eenvoudige-methode-om-je-geluidsdocumenten-terug-te-geven/"><u>Onthouden Van Stemmemo's - Eenvoudige Methode Om Je Geluidsdocumenten Terug Te Geven</u></a></li>
-<li><a href="https://win-hot.techidaily.com/recupere-sus-archivos-perdidos-en-windows-7-las-4-tecnicas-mas-efectivas/"><u>Recupere Sus Archivos Perdidos en Windows 7: Las 4 Técnicas Más Efectivas</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/211009182-9789358056761-some-haunted-houses-of-england-wales/"><u>Some Haunted Houses of England Wales | Free Book</u></a></li>
-<li><a href="https://win-hot.techidaily.com/top-rangige-sicherungssoftware-fur-windows-sbs-2011-perfekt-fur-kleine-unternehmen/"><u>Top-Rangige Sicherungssoftware Für Windows SBS 2011 – Perfekt Für Kleine Unternehmen</u></a></li>
-<li><a href="https://win-hot.techidaily.com/tout-savoir-pour-migrer-facilement-de-son-os-a-un-ssd-crucial-sur-windows-guide-complet/"><u>Tout Savoir Pour Migrer Facilement De Son OS À Un SSD Crucial Sur Windows - Guide Complet</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/ways-to-find-unlocking-codes-for-vivo-y17s-phones-by-drfone-android/"><u>Ways To Find Unlocking Codes For Vivo Y17s Phones</u></a></li>
-<li><a href="https://win11.techidaily.com/windows-history-top-removed-and-evolved-characteristics/"><u>Windows History: Top Removed and Evolved Characteristics</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-visiovista-android-and-ios-instagram-tile-artisan/"><u>[New] In 2024, VisioVista Android & iOS Instagram Tile Artisan</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-scrutinizing-the-usability-of-vivavideo-app/"><u>[New] Scrutinizing the Usability of VivaVideo App</u></a></li>
+<li><a href="https://blog-min.techidaily.com/2-ways-to-transfer-text-messages-from-nubia-red-magic-8s-pro-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>2 Ways to Transfer Text Messages from Nubia Red Magic 8S Pro to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/essential-usage-tricks-mastering-the-seagate-backup-plus-series-a-2024-companion/"><u>Essential Usage Tricks: Mastering the Seagate Backup Plus Series - A 2024 Companion</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/24-crafting-chorus-in-a-click-essential-insights-into-shortform-song-videos/"><u>In 2024, Crafting Chorus in a Click Essential Insights Into Shortform Song Videos</u></a></li>
+<li><a href="https://win-hot.techidaily.com/maximizing-laptop-longevity-on-a-single-charge-essential-strategies-by-yl-software-experts/"><u>Maximizing Laptop Longevity on a Single Charge: Essential Strategies by YL Software Experts</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/sparkling-vibrancy-the-android-video-brightening-guide/"><u>Sparkling Vibrancy The Android Video Brightening Guide</u></a></li>
+<li><a href="https://win-hot.techidaily.com/ultimate-guide-to-selecting-the-perfect-program-for-junk-file-cleanup-by-yl-computing-experts-software-solutions/"><u>Ultimate Guide to Selecting the Perfect Program for Junk File Cleanup by YL Computing Experts | Software Solutions</u></a></li>
+<li><a href="https://win-hot.techidaily.com/unveiling-the-perks-of-digital-assets-a-deep-dive-into-cryptocurrency-benefits-with-yl-experts/"><u>Unveiling the Perks of Digital Assets: A Deep Dive Into Cryptocurrency Benefits with YL Experts</u></a></li>
+<li><a href="https://win-hot.techidaily.com/upgrade-your-dj-setup-get-pcdj-317-update-now-featuring-seamless-tidal-streaming-capabilities/"><u>Upgrade Your DJ Setup - Get PCDJ 3.17 Update Now Featuring Seamless Tidal Streaming Capabilities</u></a></li>
 </ul></div>
 

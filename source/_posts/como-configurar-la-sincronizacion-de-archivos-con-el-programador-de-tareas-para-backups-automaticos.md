@@ -1,7 +1,7 @@
 ---
 title: Cómo Configurar La Sincronización De Archivos Con El Programador De Tareas Para Backups Automáticos
-date: 2025-02-12T16:05:54.926Z
-updated: 2025-02-18T18:44:31.936Z
+date: 2025-02-28T07:42:36.783Z
+updated: 2025-03-06T18:39:13.669Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/a647a01836d870e92eab00fc9c203e743d8484c30baa597eff3dacfd40b2b888.jpg
@@ -50,10 +50,6 @@ Share this: ![facebook](https://www.ubackup.com/resource/images/ab-theme/ub-arti
 | **Pros**      | **✔** Established reputation **✔** Powerful imaging and cloning **✔** Support for RAID arrays                                                                                                                                                                                    | **✔** User-friendly interface **✔** Active development **✔** Comprehensive backup and clone solutions                                                                                                                                                                                         |
 | **Cons**      | **✖** Discontinued **✖** Complex interface **✖** Compatibility issues                                                                                                                                                                                                            | **✖** Advanced features locked in the free version                                                                                                                                                                                                                                            |
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## About Norton Ghost
 
 Norton Ghost is one **disk imaging and cloning tool** that firstly developed in the 1990s. It can help you make backup images of the whole hard disk, selected partitions or only those files that mean the most to you. When something goes wrong, Norton Ghost can [restore your computer to previous functional status](https://tools.techidaily.com/ubackup/products/). Besides, it can also help you clone one hard drive to another hard drive.
@@ -72,10 +68,6 @@ Here in this guide, you will get the detailed steps about how to use Symantec Gh
 
 [![Create Backup](https://www.ubackup.com/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/others/norton-ghost/create-backup.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 3\. The **Easy Setup** screen will appear.
 
 * You can click **OK** to accept the default settings or click a setting to modify it.
@@ -83,15 +75,7 @@ Here in this guide, you will get the detailed steps about how to use Symantec Gh
 
 [![Click Custom](https://www.ubackup.com/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/others/norton-ghost/click-custom.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4\. Finally, click **OK** to confirm.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Restore Image with Norton Ghost
 
@@ -104,10 +88,6 @@ Click **Recover My Files** if you want to recover files or folder, or **Recover 
 2\. Whichever you choose, you can type the file name you need in the box under **Find files to recover** and click **Search** to find it.
 
 [![Recover My Files](https://www.ubackup.com/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/others/norton-ghost/find-files-to-recover.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 3\. After the scanning, select the file you need and click **Recover Files...**
 
@@ -126,10 +106,6 @@ On **Recover My Computer** screen, find and choose the right system restore poin
 2\. On the **Tools** page, click **Copy My Hard Drive** and follow the steps in the wizard to copy the drive.
 
 👉 **Note:** The drivers that are used to run the hardware on one computer will likely not match the drivers on a second computer. So you’d better not use the Copy Drive feature to set up a hard drive that will be used in another computer.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Best Free Alternative to Norton Ghost
 
@@ -194,18 +170,10 @@ You can directly clone hard drive to another one with the **[Disk Clone](https:/
 
 [![Clone](https://www.ubackup.com/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/std/main-interface/clone.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 👉 **Notes:** 
 
 * The free version of AOMEI Backupper only supports cloning a data disk. To clone a disk with OS installed, you can [upgrade](https://tools.techidaily.com/ubackup/products/) to higher versions to enjoy it.
 * The [System Clone](https://tools.techidaily.com/ubackup/products/) feature can help you only clone system to new hard drive, which uses less disk space than disk clone. Also, it requires a higher version.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -214,10 +182,6 @@ That’s all for how to use Norton Ghost 15\. Indeed Norton Ghost is a good tool
 For backup and restore features, you have 4 corresponding options plus two premium features - Universal Restore and Explore Image. It helps to perform dissimilar hardware restore for system or disk and restore files from other backup types, such as, system, disk, or partition. 
 
 For the clone feature, you have two free options plus System Clone. So you can copy boot drive to another one successfully, even to smaller drive. And it is able to accelerate the reading and writing speed of the target disk if it is an SSD. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## FAQs about Norton Ghost
 
@@ -248,10 +212,6 @@ Was the provided information useful? Your vote is important to us!
 [Lena](https://tools.techidaily.com/ubackup/products/) · Editor
 
 Lena is an editor of FoneTool, she covers backup & restore, and phone data management and so on. She enjoys helping people find solutions to their problems. She loves traveling, eating, reading and so on. She takes most of time with her family when she is not working.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Related Articles
 
@@ -298,24 +258,21 @@ Safeguard any data of your computer with backup, sync and clone.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-cutting-edge-techniques-for-captivate-content/"><u>[New] 2024 Approved Cutting-Edge Techniques for Captivate Content</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/024-approved-upgrade-your-online-presence-with-premium-webcam-tech/"><u>[New] 2024 Approved Upgrade Your Online Presence with Premium Webcam Tech</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-in-2024-voice-over-strategies-for-powerpoint-success-stories/"><u>[New] In 2024, Voice-Over Strategies for PowerPoint Success Stories</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/advanced-techniques-to-master-voice-activated-accessibility-on-windows/"><u>Advanced Techniques to Master Voice-Activated Accessibility on Windows</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/an-insightful-dive-into-the-history-of-electric-transportation/"><u>An Insightful Dive Into the History of Electric Transportation</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/capturing-clarity-powerpoint-and-webcam-synergy-for-2024/"><u>Capturing Clarity PowerPoint and Webcam Synergy for 2024</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/95633324-9781786780751-crystal-mindfulness/"><u>Crystal Mindfulness | Free Book</u></a></li>
-<li><a href="https://win-hot.techidaily.com/discover-traditional-indian-artistry-with-elegant-roller-designs-as-desktop-imagery-by-yl-software/"><u>Discover Traditional Indian Artistry with Elegant Roller Designs as Desktop Imagery by YL Software</u></a></li>
-<li><a href="https://win-hot.techidaily.com/effective-ways-to-decrease-bundled-programs-on-your-pc-with-yl-tech-guidance/"><u>Effective Ways to Decrease Bundled Programs on Your PC with YL Tech Guidance</u></a></li>
-<li><a href="https://win-hot.techidaily.com/essential-tips-for-safeguarding-your-data-while-shopping-online-according-to-yl-computing-and-yl-software-specialists/"><u>Essential Tips for Safeguarding Your Data While Shopping Online, According to YL Computing & YL Software Specialists</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-best-pokemons-for-pvp-matches-in-pokemon-go-for-xiaomi-redmi-note-13-proplus-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Best Pokemons for PVP Matches in Pokemon Go For Xiaomi Redmi Note 13 Pro+ 5G | Dr.fone</u></a></li>
-<li><a href="https://win-hot.techidaily.com/innovative-image-collection-for-minecraft-enthusiasts-graphics-pics-and-templates-from-yl-software-solutions/"><u>Innovative Image Collection for Minecraft Enthusiasts: Graphics, Pics, and Templates From YL Software Solutions</u></a></li>
-<li><a href="https://some-tips.techidaily.com/navigating-growth-the-journey-of-a-cto-in-scaling-upstack-overflow-into-one-of-the-webs-giants-zdnet/"><u>Navigating Growth: The Journey of a CTO in Scaling Upstack Overflow Into One of the Web's Giants | ZDNet</u></a></li>
-<li><a href="https://win-hot.techidaily.com/precision-craft-in-dj-programming-why-speed-isnt-everything-with-pcdj/"><u>Precision Craft in DJ Programming: Why Speed Isn’t Everything with PCDJ</u></a></li>
-<li><a href="https://win-hot.techidaily.com/step-by-step-guide-replacing-a-defective-expansion-card-tips-from-yl-computing/"><u>Step-by-Step Guide: Replacing a Defective Expansion Card - Tips From YL Computing</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/transform-your-ppts-into-stunning-video-content/"><u>Transform Your PPTs Into Stunning Video Content</u></a></li>
-<li><a href="https://win-hot.techidaily.com/troubleshooting-persistent-graphic-card-failures-in-windows-10-expert-tips-from-yl-computing/"><u>Troubleshooting Persistent Graphic Card Failures in Windows 10: Expert Tips From YL Computing</u></a></li>
-<li><a href="https://win-hot.techidaily.com/unzip-files-a-step-by-step-guide-unveiling-compressed-data-with-ease/"><u>Unzip Files: A Step-by-Step Guide - Unveiling Compressed Data with Ease</u></a></li>
-<li><a href="https://win-hot.techidaily.com/what-proactive-steps-does-yl-software-take-for-robust-data-protection/"><u>What Proactive Steps Does YL Software Take for Robust Data Protection?</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-in-depth-look-at-facetune-complete-app-revision/"><u>[Updated] 2024 Approved In-Depth Look at Facetune Complete App Revision</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-detecting-my-follower-flight-on-insta/"><u>[Updated] In 2024, Detecting My Follower Flight on Insta</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-steps-to-restore-visual-clarity-to-youtube-videos-for-2024/"><u>[Updated] Steps to Restore Visual Clarity to YouTube Videos for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-youtube-visuals-perfecting-banners-and-thumbnails/"><u>[Updated] YouTube Visuals Perfecting Banners and Thumbnails</u></a></li>
+<li><a href="https://discover-able.techidaily.com/conversion-sin-coste-de-imagenes-cr2-a-jpg-online-con-esizer/"><u>Conversión Sin Coste De Imágenes CR2 a JPG Online Con eSizer</u></a></li>
+<li><a href="https://windows11.techidaily.com/curbing-resource-conflicts-on-pcs-running-windows-1011-153-chars/"><u>Curbing Resource Conflicts on PCs Running Windows 10/11 (153 Chars)</u></a></li>
+<li><a href="https://win-hot.techidaily.com/ensuring-optimal-performance-a-guide-to-monitoring-your-pcs-component-temperatures/"><u>Ensuring Optimal Performance: A Guide to Monitoring Your PC's Component Temperatures</u></a></li>
+<li><a href="https://win-hot.techidaily.com/expert-advice-on-resolving-scanner-connection-errors-insights-by-yl-software/"><u>Expert Advice on Resolving Scanner Connection Errors - Insights by YL Software</u></a></li>
+<li><a href="https://win-hot.techidaily.com/high-resolution-koenigsegg-agera-r-image-collection-ultimate-hd-wallpapers-and-photo-gallery/"><u>High-Resolution Koenigsegg Agera R Image Collection - Ultimate HD Wallpapers and Photo Gallery</u></a></li>
+<li><a href="https://win-hot.techidaily.com/how-to-turn-off-microsofts-windows-defender-a-comprehensive-guide-by-yl-computing/"><u>How to Turn Off Microsoft's Windows Defender: A Comprehensive Guide by YL Computing</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-top-15-augmented-reality-games-like-pokemon-go-to-play-on-vivo-y28-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Top 15 Augmented Reality Games Like Pokémon GO To Play On Vivo Y28 5G | Dr.fone</u></a></li>
+<li><a href="https://win-hot.techidaily.com/titan-lords-game-experience-enhanced-with-risen-3-wallpapers-by-yl-computing/"><u>Titan Lords Game Experience Enhanced with Risen 3 Wallpapers by YL Computing</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/top-5-omnidirectional-recording-gadgets/"><u>Top 5 Omnidirectional Recording Gadgets</u></a></li>
+<li><a href="https://win-hot.techidaily.com/understanding-the-root-causes-behind-the-blue-screen-of-death-insights-from-yl-computing/"><u>Understanding the Root Causes Behind 'The Blue Screen of Death' - Insights From YL Computing</u></a></li>
+<li><a href="https://win-hot.techidaily.com/yl-computings-ultimate-trick-to-personalize-your-desktop-background-in-windows-using-control-panel/"><u>YL Computing's Ultimate Trick to Personalize Your Desktop Background in Windows Using Control Panel</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/avi-webm-movavi/"><u>오피니 AVI 파일을 WEBM로 구속없이 바꾸기 - MOVAVI</u></a></li>
 </ul></div>
 

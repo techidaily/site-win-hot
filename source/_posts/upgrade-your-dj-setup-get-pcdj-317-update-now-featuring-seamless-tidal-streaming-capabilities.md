@@ -1,7 +1,7 @@
 ---
 title: Upgrade Your DJ Setup - Get PCDJ 3.17 Update Now Featuring Seamless Tidal Streaming Capabilities
-date: 2025-02-11T18:07:51.411Z
-updated: 2025-02-18T19:55:21.978Z
+date: 2025-02-27T20:29:14.589Z
+updated: 2025-03-07T02:28:16.333Z
 tags:
   - product
 categories:
@@ -28,10 +28,6 @@ Read the full details of the new free update for [DEX 3](https://tools.techidail
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### What’s New, Changed and Updated in DEX 3.17
 
 * New: [TIDAL Streaming Service](https://tools.techidaily.com/pcdj/products/) support (including Video tracks)
@@ -55,10 +51,6 @@ _**DEX 3.17 Install Instructions:** With your existing version of DEX 3 closed, 
 
 _Have questions about our DEX 3_ _**DJ Software** and how it works with **TIDAL streaming**? Please leave them in the comments section below!_
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### _Related_
 
 https://i2.wp.com/pcdj.com/wp-content/uploads/2022/01/dex3xtidal-fb.jpg?fit=1583%2C912&ssl=1 912 1583 Ryan Sherr https://www.pcdj.com/wp-content/uploads/2021/07/pcdj-main-logo-2.png Ryan Sherr2022-01-21 10:43:462023-04-10 17:03:44Download DEX 3.17 Update | Now with TIDAL Streaming Support}
@@ -78,20 +70,19 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2022/01/dex3xtidal-fb.jpg?fit=1583
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-digital-deviants-titles-mirroring-gta-v-experience/"><u>[New] 2024 Approved Digital Deviants Titles Mirroring GTA V Experience</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/new-diy-filmmaking-for-youtube-personalities/"><u>[New] DIY Filmmaking for YouTube Personalities</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-integrating-obs-streams-with-the-worlds-largest-social-network-fb-for-2024/"><u>[New] Integrating OBS Streams with the World's Largest Social Network, FB for 2024</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-constructing-attention-grabbing-trailers-for-youtube/"><u>[Updated] Constructing Attention-Grabbing Trailers for YouTube</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-smooth-operators-guide-to-capturing-mac-lectures-for-2024/"><u>[Updated] Smooth Operator’s Guide to Capturing Mac Lectures for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-unlocking-peaceful-slumber-top-notch-asmr-artists-for-rest/"><u>2024 Approved Unlocking Peaceful Slumber Top-Notch ASMR Artists for Rest</u></a></li>
-<li><a href="https://win-hot.techidaily.com/best-antivirus-solutions-reviewed-expert-advice-from-yl-software-experts/"><u>Best Antivirus Solutions Reviewed: Expert Advice From YL Software Experts</u></a></li>
-<li><a href="https://win-hot.techidaily.com/enhance-visual-experience-mastering-the-art-of-modifying-screen-resolution-in-windows-with-yl-computing-software-insights/"><u>Enhance Visual Experience: Mastering the Art of Modifying Screen Resolution in Windows with YL Computing Software Insights</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/expand-your-watchlist-with-easy-remote-access-setup-for-samsung-smart-tvs/"><u>Expand Your Watchlist with Easy Remote Access Setup for Samsung Smart TVs</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/get-the-videos-you-love-from-pinterest-for-free-for-2024/"><u>Get the Videos You Love From Pinterest for Free for 2024</u></a></li>
-<li><a href="https://win-hot.techidaily.com/high-definition-captain-america-wallpaper-and-screen-saver-graphics-premium-visuals-by-yl-software/"><u>High-Definition Captain America Wallpaper & Screen Saver Graphics - Premium Visuals by YL Software</u></a></li>
-<li><a href="https://win-hot.techidaily.com/high-quality-wedding-wallpaper-hd-backgrounds-and-imagery-premium-selection-by-yl-computing/"><u>High-Quality Wedding Wallpaper HD Backgrounds & Imagery - Premium Selection by YL Computing</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-prevent-xcom-2-from-crashing-on-your-pc-a-complete-guide-to-a-flawless-experience/"><u>How to Prevent XCOM 2 From Crashing on Your PC: A Complete Guide to a Flawless Experience</u></a></li>
-<li><a href="https://win-hot.techidaily.com/troubleshooting-steps-when-your-pc-fails-to-start-post-driver-upgrade-insights-by-yl-computing/"><u>Troubleshooting Steps When Your PC Fails to Start Post-Driver Upgrade - Insights by YL Computing</u></a></li>
-<li><a href="https://win-hot.techidaily.com/ultimate-trick-for-permanent-file-deletion-expert-advice-by-yl-software-professionals/"><u>Ultimate Trick for Permanent File Deletion: Expert Advice by YL Software Professionals</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-the-ultimate-checklist-for-instagram-popularity-surge/"><u>[New] In 2024, The Ultimate Checklist for Instagram Popularity Surge</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-a-compreranstive-approach-to-high-fidelity-recording-no-mic-necessary/"><u>[Updated] A Compreranstive Approach to High-Fidelity Recording, No Mic Necessary</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-aesthetic-ambitions-launching-a-youtube-channel-for-makeup-maven/"><u>[Updated] Aesthetic Ambitions Launching a YouTube Channel for Makeup Maven</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-capturing-mov-videos-in-windows-11-for-2024/"><u>[Updated] Capturing MOV Videos in Windows 11 for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-share-with-impact-tiktok-videos-on-twitter/"><u>[Updated] In 2024, Share with Impact TikTok Videos on Twitter</u></a></li>
+<li><a href="https://win-hot.techidaily.com/customizing-your-profile-a-step-by-step-guide-on-adjusting-user-account-preferences-in-yl-computing/"><u>Customizing Your Profile: A Step-by-Step Guide on Adjusting User Account Preferences in YL Computing</u></a></li>
+<li><a href="https://win-hot.techidaily.com/essential-guide-transferring-files-efficiently-on-windows-tips-from-yl-computing/"><u>Essential Guide: Transferring Files Efficiently on Windows - Tips From YL Computing</u></a></li>
+<li><a href="https://win-hot.techidaily.com/high-resolution-2k-and-widescreen-wallpaper-collections-by-yl-computing-premium-desktop-backgrounds-for-ultra-hd-displays/"><u>High-Resolution 2K & Widescreen Wallpaper Collections by YL Computing: Premium Desktop Backgrounds for Ultra HD Displays</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-location-on-tiktok-to-see-more-content-on-your-oneplus-ace-3-drfone-by-drfone-virtual-android/"><u>How to Change Location on TikTok to See More Content On your OnePlus Ace 3 | Dr.fone</u></a></li>
+<li><a href="https://win-hot.techidaily.com/how-to-fix-a-non-printing-printer-essential-troubleshooting-tips-from-yl-computing/"><u>How to Fix a Non-Printing Printer: Essential Troubleshooting Tips From YL Computing</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-iphone-7-plus-drfone-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 7 Plus? | Dr.fone</u></a></li>
+<li><a href="https://win-hot.techidaily.com/step-by-step-guide-removing-programs-from-your-pc-tips-by-yl-computing/"><u>Step-by-Step Guide: Removing Programs From Your PC - Tips by YL Computing</u></a></li>
+<li><a href="https://win-hot.techidaily.com/understanding-windows-defenders-role-in-system-protection-a-guide-from-yl-software-experts/"><u>Understanding Windows Defender's Role in System Protection - A Guide From YL Software Experts</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-in-2024-mobile-video-editing-best-apps-to-blur-unwanted-parts/"><u>Updated In 2024, Mobile Video Editing Best Apps to Blur Unwanted Parts</u></a></li>
 </ul></div>
 
